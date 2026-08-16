@@ -24,8 +24,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-1"></a>
 ### Nº 1 — Julio de 1923
 
-[<img src="covers/N001.jpg" alt="Portada del Nº 1 — Julio de 1923" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=53587)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=53587)
 
 * **Pío Baroja** — *Una feria de Marsella*, pp. 4–28
@@ -42,8 +40,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-2"></a>
 ### Nº 2 — Agosto de 1923
-
-[<img src="covers/N002.jpg" alt="Portada del Nº 2 — Agosto de 1923" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=53991)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=53991)
 
@@ -63,8 +59,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-3"></a>
 ### Nº 3 — Septiembre de 1923
-
-[<img src="covers/N003.jpg" alt="Portada del Nº 3 — Septiembre de 1923" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=53994)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=53994)
 
@@ -86,8 +80,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-4"></a>
 ### Nº 4 — Octubre de 1923
 
-[<img src="covers/N004.jpg" alt="Portada del Nº 4 — Octubre de 1923" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=53996)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=53996)
 
 * **Jorge Guillén** — *Aire--Aura*, pp. 1–8
@@ -108,8 +100,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-5"></a>
 ### Nº 5 — Noviembre de 1923
 
-[<img src="covers/N005.jpg" alt="Portada del Nº 5 — Noviembre de 1923" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=53998)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=53998)
 
 * **Eugenio d'Ors** — *Bodegones asépticos*, pp. 145–162
@@ -127,8 +117,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-6"></a>
 ### Nº 6 — Diciembre de 1923
-
-[<img src="covers/N006.jpg" alt="Portada del Nº 6 — Diciembre de 1923" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54000)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54000)
 
@@ -153,8 +141,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-7"></a>
 ### Nº 7 — Enero de 1924
 
-[<img src="covers/N007.jpg" alt="Portada del Nº 7 — Enero de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54006)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54006)
 
 * **Luigi Pirandello** — *La tragedia de un personaje*, pp. 1–14
@@ -171,8 +157,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-8"></a>
 ### Nº 8 — Febrero de 1924
-
-[<img src="covers/N008.jpg" alt="Portada del Nº 8 — Febrero de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54008)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54008)
 
@@ -192,8 +176,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-9"></a>
 ### Nº 9 — Marzo de 1924
 
-[<img src="covers/N009.jpg" alt="Portada del Nº 9 — Marzo de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54013)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54013)
 
 * **Lord Dunsany** — *Carcasona*, pp. 273–296
@@ -211,8 +193,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-10"></a>
 ### Nº 10 — Abril de 1924
 
-[<img src="covers/N010.jpg" alt="Portada del Nº 10 — Abril de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54016)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54016)
 
 * **José Ortega y Gasset** — *Kant*, pp. 1–32
@@ -227,8 +207,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-11"></a>
 ### Nº 11 — Mayo de 1924
-
-[<img src="covers/N011.jpg" alt="Portada del Nº 11 — Mayo de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54018)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54018)
 
@@ -247,8 +225,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-12"></a>
 ### Nº 12 — Junio de 1924
 
-[<img src="covers/N012.jpg" alt="Portada del Nº 12 — Junio de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54023)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54023)
 
 * **Paul Valéry** — *Baudelaire y su descendencia*, pp. 261–290
@@ -264,8 +240,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-13"></a>
 ### Nº 13 — Julio de 1924
 
-[<img src="covers/N013.jpg" alt="Portada del Nº 13 — Julio de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54025)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54025)
 
 * **Francisco A. Icaza** — *Las cartas de Lope de Vega*, pp. 1–42
@@ -280,8 +254,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-14"></a>
 ### Nº 14 — Agosto de 1924
-
-[<img src="covers/N014.jpg" alt="Portada del Nº 14 — Agosto de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54027)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54027)
 
@@ -302,8 +274,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-15"></a>
 ### Nº 15 — Septiembre de 1924
 
-[<img src="covers/N015.jpg" alt="Portada del Nº 15 — Septiembre de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54029)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54029)
 
 * **Benjamin Crémieux** — *Marcelo Proust (Conclusión)*, pp. 285–330
@@ -317,8 +287,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-16"></a>
 ### Nº 16 — Octubre de 1924
-
-[<img src="covers/N016.jpg" alt="Portada del Nº 16 — Octubre de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54031)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54031)
 
@@ -338,8 +306,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-17"></a>
 ### Nº 17 — Noviembre de 1924
 
-[<img src="covers/N017.jpg" alt="Portada del Nº 17 — Noviembre de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54033)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54033)
 
 * **Antonio Marichalar** — *James Joyce en su laberinto*, pp. 177–202
@@ -358,8 +324,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-18"></a>
 ### Nº 18 — Diciembre de 1924
-
-[<img src="covers/N018.jpg" alt="Portada del Nº 18 — Diciembre de 1924" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54035)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54035)
 
@@ -383,8 +347,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-19"></a>
 ### Nº 19 — Enero de 1925
 
-[<img src="covers/N019.jpg" alt="Portada del Nº 19 — Enero de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54039)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54039)
 
 * **Francisco A. Icaza** — *El Aretino, inventor del "chantage" y sus relaciones con España*, pp. 1–27
@@ -402,8 +364,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-20"></a>
 ### Nº 20 — Febrero de 1925
 
-[<img src="covers/N020.jpg" alt="Portada del Nº 20 — Febrero de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54041)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54041)
 
 * **Ramón Pérez de Ayala** — *Sobre las mujeres, el amor y Don Juan*, pp. 129–145
@@ -419,8 +379,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-21"></a>
 ### Nº 21 — Marzo de 1925
-
-[<img src="covers/N021.jpg" alt="Portada del Nº 21 — Marzo de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54043)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54043)
 
@@ -441,8 +399,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-22"></a>
 ### Nº 22 — Abril de 1925
 
-[<img src="covers/N022.jpg" alt="Portada del Nº 22 — Abril de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54045)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54045)
 
 * **Valentín Andrés Álvarez** — *Sentimental - Dancing*, pp. 1–33
@@ -457,8 +413,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-23"></a>
 ### Nº 23 — Mayo de 1925
-
-[<img src="covers/N023.jpg" alt="Portada del Nº 23 — Mayo de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54088)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54088)
 
@@ -478,8 +432,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-24"></a>
 ### Nº 24 — Junio de 1925
 
-[<img src="covers/N024.jpg" alt="Portada del Nº 24 — Junio de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54090)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54090)
 
 * **Franz Kafka** — *La metamorfosis*, pp. 273–306
@@ -497,8 +449,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-25"></a>
 ### Nº 25 — Julio de 1925
-
-[<img src="covers/N025.jpg" alt="Portada del Nº 25 — Julio de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54092)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54092)
 
@@ -520,8 +470,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-26"></a>
 ### Nº 26 — Agosto de 1925
 
-[<img src="covers/N026.jpg" alt="Portada del Nº 26 — Agosto de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54094)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54094)
 
 * **Pedro Salinas** — *Entrada en Sevilla*, pp. 145–152
@@ -538,8 +486,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-27"></a>
 ### Nº 27 — Septiembre de 1925
-
-[<img src="covers/N027.jpg" alt="Portada del Nº 27 — Septiembre de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54096)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54096)
 
@@ -559,8 +505,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-28"></a>
 ### Nº 28 — Octubre de 1925
-
-[<img src="covers/N028.jpg" alt="Portada del Nº 28 — Octubre de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54098)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54098)
 
@@ -582,8 +526,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-29"></a>
 ### Nº 29 — Noviembre de 1925
 
-[<img src="covers/N029.jpg" alt="Portada del Nº 29 — Noviembre de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54100)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54100)
 
 * **Benjamín Jarnés** — *Paula y Paulita*, pp. 129–160
@@ -600,8 +542,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-30"></a>
 ### Nº 30 — Diciembre de 1925
-
-[<img src="covers/N030.jpg" alt="Portada del Nº 30 — Diciembre de 1925" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54102)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54102)
 
@@ -629,8 +569,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-31"></a>
 ### Nº 31 — Enero de 1926
 
-[<img src="covers/N031.jpg" alt="Portada del Nº 31 — Enero de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54105)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54105)
 
 * **Pedro Girard** — *Curiosa metamorfosis de John*, pp. 1–40
@@ -645,8 +583,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-32"></a>
 ### Nº 32 — Febrero de 1926
-
-[<img src="covers/N032.jpg" alt="Portada del Nº 32 — Febrero de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54107)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54107)
 
@@ -665,8 +601,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-33"></a>
 ### Nº 33 — Marzo de 1926
 
-[<img src="covers/N033.jpg" alt="Portada del Nº 33 — Marzo de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54109)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54109)
 
 * **Paul Morand** — *La Mujer Arrodillada*, pp. 289–301
@@ -683,8 +617,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-34"></a>
 ### Nº 34 — Abril de 1926
-
-[<img src="covers/N034.jpg" alt="Portada del Nº 34 — Abril de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54111)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54111)
 
@@ -704,8 +636,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-35"></a>
 ### Nº 35 — Mayo de 1926
 
-[<img src="covers/N035.jpg" alt="Portada del Nº 35 — Mayo de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54113)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54113)
 
 * **Hermann, Graf von Keyserling** — *España y Europa*, pp. 129–144
@@ -723,8 +653,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-36"></a>
 ### Nº 36 — Junio de 1926
 
-[<img src="covers/N036.jpg" alt="Portada del Nº 36 — Junio de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54386)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54386)
 
 * **Albrecht Schaeffer** — *Régula, enemiga de la cruz*, pp. 265–283
@@ -741,8 +669,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-37"></a>
 ### Nº 37 — Julio de 1926
-
-[<img src="covers/N037.jpg" alt="Portada del Nº 37 — Julio de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54388)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54388)
 
@@ -762,8 +688,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-38"></a>
 ### Nº 38 — Agosto de 1926
 
-[<img src="covers/N038.jpg" alt="Portada del Nº 38 — Agosto de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54390)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54390)
 
 * **Benjamín Jarnés** — *Andrómeda*, pp. 137–167
@@ -781,8 +705,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-39"></a>
 ### Nº 39 — Septiembre de 1926
 
-[<img src="covers/N039.jpg" alt="Portada del Nº 39 — Septiembre de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54392)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54392)
 
 * **Vsevolod Ivanov** — *El niño*, pp. 273–291
@@ -799,8 +721,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-40"></a>
 ### Nº 40 — Octubre de 1926
-
-[<img src="covers/N040.jpg" alt="Portada del Nº 40 — Octubre de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54395)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54395)
 
@@ -820,8 +740,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-41"></a>
 ### Nº 41 — Noviembre de 1926
 
-[<img src="covers/N041.jpg" alt="Portada del Nº 41 — Noviembre de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54397)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54397)
 
 * **Max Scheler** — *La idea del hombre y la historia*, pp. 137–181
@@ -838,8 +756,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-42"></a>
 ### Nº 42 — Diciembre de 1926
-
-[<img src="covers/N042.jpg" alt="Portada del Nº 42 — Diciembre de 1926" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54399)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54399)
 
@@ -867,8 +783,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-43"></a>
 ### Nº 43 — Enero de 1927
 
-[<img src="covers/N043.jpg" alt="Portada del Nº 43 — Enero de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54401)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54401)
 
 * **Joseph Conrad** — *Gaspar Ruiz*, pp. 1–35
@@ -890,8 +804,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-44"></a>
 ### Nº 44 — Febrero de 1927
 
-[<img src="covers/N044.jpg" alt="Portada del Nº 44 — Febrero de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54403)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54403)
 
 * **Valentín Andrés Álvarez** — *Dorotea, luz y sombra*, pp. 145–170
@@ -908,8 +820,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-45"></a>
 ### Nº 45 — Marzo de 1927
-
-[<img src="covers/N045.jpg" alt="Portada del Nº 45 — Marzo de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54435)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54435)
 
@@ -928,8 +838,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-46"></a>
 ### Nº 46 — Abril de 1927
 
-[<img src="covers/N046.jpg" alt="Portada del Nº 46 — Abril de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54437)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54437)
 
 * **Paul Valéry** — *Notas sobre la grandeza y la decadencia de Europa*, pp. 1–14
@@ -946,8 +854,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-47"></a>
 ### Nº 47 — Mayo de 1927
-
-[<img src="covers/N047.jpg" alt="Portada del Nº 47 — Mayo de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54439)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54439)
 
@@ -967,8 +873,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-48"></a>
 ### Nº 48 — Junio de 1927
 
-[<img src="covers/N048.jpg" alt="Portada del Nº 48 — Junio de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54462)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54462)
 
 * **Rosa Chacel** — *Estación, ida y vuelta*, pp. 257–273
@@ -986,8 +890,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-49"></a>
 ### Nº 49 — Julio de 1927
-
-[<img src="covers/N049.jpg" alt="Portada del Nº 49 — Julio de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54490)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54490)
 
@@ -1007,8 +909,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-50"></a>
 ### Nº 50 — Agosto de 1927
 
-[<img src="covers/N050.jpg" alt="Portada del Nº 50 — Agosto de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54501)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54501)
 
 * **Max Scheler** — *El porvenir del hombre*, pp. 129–159
@@ -1023,8 +923,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-51"></a>
 ### Nº 51 — Septiembre de 1927
-
-[<img src="covers/N051.jpg" alt="Portada del Nº 51 — Septiembre de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54505)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54505)
 
@@ -1045,8 +943,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-52"></a>
 ### Nº 52 — Octubre de 1927
-
-[<img src="covers/N052.jpg" alt="Portada del Nº 52 — Octubre de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54507)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54507)
 
@@ -1069,8 +965,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-53"></a>
 ### Nº 53 — Noviembre de 1927
 
-[<img src="covers/N053.jpg" alt="Portada del Nº 53 — Noviembre de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54511)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54511)
 
 * **Federico García Lorca** — *Santa Lucía y San Lazaro*, pp. 145–155
@@ -1091,8 +985,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-54"></a>
 ### Nº 54 — Diciembre de 1927
-
-[<img src="covers/N054.jpg" alt="Portada del Nº 54 — Diciembre de 1927" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54513)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54513)
 
@@ -1123,8 +1015,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-55"></a>
 ### Nº 55 — Enero de 1928
 
-[<img src="covers/N055.jpg" alt="Portada del Nº 55 — Enero de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54515)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54515)
 
 * **Benjamín Jarnés** — *Locura y muerte de Nadie*, pp. 1–39
@@ -1145,8 +1035,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-56"></a>
 ### Nº 56 — Febrero de 1928
 
-[<img src="covers/N056.jpg" alt="Portada del Nº 56 — Febrero de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54517)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54517)
 
 * **José Ortega y Gasset** — *La "Filosofía de la historia" de Hegel, y la historiología*, pp. 145–176
@@ -1163,8 +1051,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-57"></a>
 ### Nº 57 — Marzo de 1928
-
-[<img src="covers/N057.jpg" alt="Portada del Nº 57 — Marzo de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54519)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54519)
 
@@ -1183,8 +1069,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-58"></a>
 ### Nº 58 — Abril de 1928
-
-[<img src="covers/N058.jpg" alt="Portada del Nº 58 — Abril de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54521)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54521)
 
@@ -1205,8 +1089,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-59"></a>
 ### Nº 59 — Mayo de 1928
 
-[<img src="covers/N059.jpg" alt="Portada del Nº 59 — Mayo de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54523)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54523)
 
 * **Jaime Torres Bodet** — *Parálisis*, pp. 145–156
@@ -1223,8 +1105,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-60"></a>
 ### Nº 60 — Junio de 1928
-
-[<img src="covers/N060.jpg" alt="Portada del Nº 60 — Junio de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54523)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54523)
 
@@ -1243,8 +1123,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-61"></a>
 ### Nº 61 — Julio de 1928
-
-[<img src="covers/N061.jpg" alt="Portada del Nº 61 — Julio de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54523)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54523)
 
@@ -1265,8 +1143,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-62"></a>
 ### Nº 62 — Agosto de 1928
 
-[<img src="covers/N062.jpg" alt="Portada del Nº 62 — Agosto de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54529)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54529)
 
 * **Ramón Gómez de la Serna** — *Suspensión del Destino*, pp. 129–143
@@ -1284,8 +1160,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-63"></a>
 ### Nº 63 — Septiembre de 1928
-
-[<img src="covers/N063.jpg" alt="Portada del Nº 63 — Septiembre de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54531)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54531)
 
@@ -1305,8 +1179,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-64"></a>
 ### Nº 64 — Octubre de 1928
 
-[<img src="covers/N064.jpg" alt="Portada del Nº 64 — Octubre de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54533)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54533)
 
 * **Antonio Marichalar** — *Baco*, pp. 1–30
@@ -1324,8 +1196,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-65"></a>
 ### Nº 65 — Noviembre de 1928
 
-[<img src="covers/N065.jpg" alt="Portada del Nº 65 — Noviembre de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54535)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54535)
 
 * **Benjamín Jarnés** — *Vida de San Alejo*, pp. 129–170
@@ -1341,8 +1211,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-66"></a>
 ### Nº 66 — Diciembre de 1928
-
-[<img src="covers/N066.jpg" alt="Portada del Nº 66 — Diciembre de 1928" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54537)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54537)
 
@@ -1367,8 +1235,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-67"></a>
 ### Nº 67 — Enero de 1929
 
-[<img src="covers/N067.jpg" alt="Portada del Nº 67 — Enero de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54539)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54539)
 
 * **Fernando Vela** — *Fragmentos*, pp. 1–18
@@ -1387,8 +1253,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-68"></a>
 ### Nº 68 — Febrero de 1929
 
-[<img src="covers/N068.jpg" alt="Portada del Nº 68 — Febrero de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54541)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54541)
 
 * **Albert Einstein** — *La nueva teoría del campo*, pp. 129–144
@@ -1406,8 +1270,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-69"></a>
 ### Nº 69 — Marzo de 1929
 
-[<img src="covers/N069.jpg" alt="Portada del Nº 69 — Marzo de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54541)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54541)
 
 * **Ramón Gómez de la Serna** — *La abandonada en el Rastro*, pp. 257–288
@@ -1424,8 +1286,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-70"></a>
 ### Nº 70 — Abril de 1929
-
-[<img src="covers/N070.jpg" alt="Portada del Nº 70 — Abril de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54545)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54545)
 
@@ -1445,8 +1305,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-71"></a>
 ### Nº 71 — Mayo de 1929
 
-[<img src="covers/N071.jpg" alt="Portada del Nº 71 — Mayo de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54547)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54547)
 
 * **Bertrand Russell** — *Física y metafísica*, pp. 145–159
@@ -1462,8 +1320,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-72"></a>
 ### Nº 72 — Junio de 1929
-
-[<img src="covers/N072.jpg" alt="Portada del Nº 72 — Junio de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54549)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54549)
 
@@ -1482,8 +1338,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-73"></a>
 ### Nº 73 — Julio de 1929
 
-[<img src="covers/N073.jpg" alt="Portada del Nº 73 — Julio de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54551)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54551)
 
 * **Max Scheler** — *El puesto del hombre en el Cosmos*, pp. 1–29
@@ -1500,8 +1354,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-74"></a>
 ### Nº 74 — Agosto de 1929
 
-[<img src="covers/N074.jpg" alt="Portada del Nº 74 — Agosto de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54553)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54553)
 
 * **Antonio Marichalar** — *Inciso del malogrado*, pp. 139–168
@@ -1515,8 +1367,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-75"></a>
 ### Nº 75 — Septiembre de 1929
-
-[<img src="covers/N075.jpg" alt="Portada del Nº 75 — Septiembre de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54555)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54555)
 
@@ -1533,8 +1383,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-76"></a>
 ### Nº 76 — Octubre de 1929
-
-[<img src="covers/N076.jpg" alt="Portada del Nº 76 — Octubre de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54557)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54557)
 
@@ -1553,8 +1401,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-77"></a>
 ### Nº 77 — Noviembre de 1929
 
-[<img src="covers/N077.jpg" alt="Portada del Nº 77 — Noviembre de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54559)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54559)
 
 * **Azorín** — *Superrealismo*, pp. 145–157
@@ -1571,8 +1417,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-78"></a>
 ### Nº 78 — Diciembre de 1929
-
-[<img src="covers/N078.jpg" alt="Portada del Nº 78 — Diciembre de 1929" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54561)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54561)
 
@@ -1595,8 +1439,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-79"></a>
 ### Nº 79 — Enero de 1930
 
-[<img src="covers/N079.jpg" alt="Portada del Nº 79 — Enero de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54563)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54563)
 
 * **Bertrand Russell** — *Lugar del amor en la vida humana*, pp. 1–10
@@ -1612,8 +1454,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-80"></a>
 ### Nº 80 — Febrero de 1930
 
-[<img src="covers/N080.jpg" alt="Portada del Nº 80 — Febrero de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54565)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54565)
 
 * **Benjamín Jarnés** — *Elegía a un amor beodo*, pp. 145–155
@@ -1628,8 +1468,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-81"></a>
 ### Nº 81 — Marzo de 1930
-
-[<img src="covers/N081.jpg" alt="Portada del Nº 81 — Marzo de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54649)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54649)
 
@@ -1650,8 +1488,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-82"></a>
 ### Nº 82 — Abril de 1930
 
-[<img src="covers/N082.jpg" alt="Portada del Nº 82 — Abril de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54651)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54651)
 
 * **Harald Hoffding** — *La personalidad de Sören Kierkegaard*, pp. 1–33
@@ -1664,8 +1500,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-83"></a>
 ### Nº 83 — Mayo de 1930
-
-[<img src="covers/N083.jpg" alt="Portada del Nº 83 — Mayo de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54653)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54653)
 
@@ -1682,8 +1516,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-84"></a>
 ### Nº 84 — Junio de 1930
 
-[<img src="covers/N084.jpg" alt="Portada del Nº 84 — Junio de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54655)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54655)
 
 * **Johan Huizinga** — *La nostalgia de una vida más bella*, pp. 265–299
@@ -1697,8 +1529,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-85"></a>
 ### Nº 85 — Julio de 1930
-
-[<img src="covers/N085.jpg" alt="Portada del Nº 85 — Julio de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54657)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54657)
 
@@ -1716,8 +1546,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-86"></a>
 ### Nº 86 — Agosto de 1930
 
-[<img src="covers/N086.jpg" alt="Portada del Nº 86 — Agosto de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54659)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54659)
 
 * **José Camón Aznar** — *Teoría del Renacimiento*, pp. 121–144
@@ -1729,8 +1557,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-87"></a>
 ### Nº 87 — Septiembre de 1930
-
-[<img src="covers/N087.jpg" alt="Portada del Nº 87 — Septiembre de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54661)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54661)
 
@@ -1744,8 +1570,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-88"></a>
 ### Nº 88 — Octubre de 1930
-
-[<img src="covers/N088.jpg" alt="Portada del Nº 88 — Octubre de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54663)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54663)
 
@@ -1762,8 +1586,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-89"></a>
 ### Nº 89 — Noviembre de 1930
 
-[<img src="covers/N089.jpg" alt="Portada del Nº 89 — Noviembre de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54665)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54665)
 
 * **Benjamín Jarnés** — *Zumalacárregui*, pp. 145–176
@@ -1778,8 +1600,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-90"></a>
 ### Nº 90 — Diciembre de 1930
-
-[<img src="covers/N090.jpg" alt="Portada del Nº 90 — Diciembre de 1930" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54667)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54667)
 
@@ -1804,8 +1624,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-91"></a>
 ### Nº 91 — Enero de 1931
 
-[<img src="covers/N091.jpg" alt="Portada del Nº 91 — Enero de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54669)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54669)
 
 * **Edgar Dacqué** — *Evolución y progreso en la Naturaleza*, pp. 1–20
@@ -1818,8 +1636,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-92"></a>
 ### Nº 92 — Febrero de 1931
-
-[<img src="covers/N092.jpg" alt="Portada del Nº 92 — Febrero de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54671)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54671)
 
@@ -1835,8 +1651,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-93"></a>
 ### Nº 93 — Marzo de 1931
 
-[<img src="covers/N093.jpg" alt="Portada del Nº 93 — Marzo de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54673)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54673)
 
 * **Aldous Huxley** — *La vulgaridad en la literatura*, pp. 225–249
@@ -1851,8 +1665,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-94"></a>
 ### Nº 94 — Abril de 1931
 
-[<img src="covers/N094.jpg" alt="Portada del Nº 94 — Abril de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54675)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54675)
 
 * **Carl Gustav Jung** — *El hombre arcaico*, pp. 1–36
@@ -1865,8 +1677,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-95"></a>
 ### Nº 95 — Mayo de 1931
-
-[<img src="covers/N095.jpg" alt="Portada del Nº 95 — Mayo de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54677)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54677)
 
@@ -1883,8 +1693,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-96"></a>
 ### Nº 96 — Junio de 1931
 
-[<img src="covers/N096.jpg" alt="Portada del Nº 96 — Junio de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54679)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54679)
 
 * **Stefan Zweig** — *El minuto universal de Waterloo*, pp. 217–235
@@ -1900,8 +1708,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-97"></a>
 ### Nº 97 — Julio de 1931
 
-[<img src="covers/N097.jpg" alt="Portada del Nº 97 — Julio de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54681)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54681)
 
 * **Emanuel Radl** — *Paracelso*, pp. 1–35
@@ -1913,8 +1719,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-98"></a>
 ### Nº 98 — Agosto de 1931
-
-[<img src="covers/N098.jpg" alt="Portada del Nº 98 — Agosto de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54683)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54683)
 
@@ -1929,8 +1733,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-99"></a>
 ### Nº 99 — Septiembre de 1931
 
-[<img src="covers/N099.jpg" alt="Portada del Nº 99 — Septiembre de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54685)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54685)
 
 * **Hans Freyer** — *Los sistemas de la historia universal*, pp. 249–293
@@ -1943,8 +1745,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-100"></a>
 ### Nº 100 — Octubre de 1931
-
-[<img src="covers/N100.jpg" alt="Portada del Nº 100 — Octubre de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54687)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54687)
 
@@ -1959,8 +1759,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-101"></a>
 ### Nº 101 — Noviembre de 1931
 
-[<img src="covers/N101.jpg" alt="Portada del Nº 101 — Noviembre de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54689)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54689)
 
 * **Antonio Machado** — *Cancionero apócrifo*, pp. 121–132
@@ -1973,8 +1771,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-102"></a>
 ### Nº 102 — Diciembre de 1931
-
-[<img src="covers/N102.jpg" alt="Portada del Nº 102 — Diciembre de 1931" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54691)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54691)
 
@@ -1995,8 +1791,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-103"></a>
 ### Nº 103 — Enero de 1932
 
-[<img src="covers/N103.jpg" alt="Portada del Nº 103 — Enero de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54693)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54693)
 
 * **Manuel García Morente** — *Ensayos sobre el progreso*, pp. 1–42
@@ -2010,8 +1804,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-104"></a>
 ### Nº 104 — Febrero de 1932
 
-[<img src="covers/N104.jpg" alt="Portada del Nº 104 — Febrero de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54695)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54695)
 
 * **Manuel García Morente** — *Ensayos sobre el progreso (continuación)*, pp. 121–166
@@ -2021,8 +1813,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-105"></a>
 ### Nº 105 — Marzo de 1932
-
-[<img src="covers/N105.jpg" alt="Portada del Nº 105 — Marzo de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54697)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54697)
 
@@ -2037,8 +1827,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-106"></a>
 ### Nº 106 — Abril de 1932
 
-[<img src="covers/N106.jpg" alt="Portada del Nº 106 — Abril de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54699)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54699)
 
 * **José Ortega y Gasset** — *Pidiendo un Goethe desde dentro*, pp. 1–41
@@ -2051,8 +1839,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-107"></a>
 ### Nº 107 — Mayo de 1932
 
-[<img src="covers/N107.jpg" alt="Portada del Nº 107 — Mayo de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54701)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54701)
 
 * **Ramón Gómez de la Serna** — *Ensayo sobre las mariposas*, pp. 153–169
@@ -2064,8 +1850,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-108"></a>
 ### Nº 108 — Junio de 1932
-
-[<img src="covers/N108.jpg" alt="Portada del Nº 108 — Junio de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54703)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54703)
 
@@ -2083,8 +1867,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-109"></a>
 ### Nº 109 — Julio de 1932
 
-[<img src="covers/N109.jpg" alt="Portada del Nº 109 — Julio de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54705)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54705)
 
 * **Ernest Robert Curtius** — *El humanismo como iniciativa*, pp. 1–32
@@ -2099,8 +1881,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-110"></a>
 ### Nº 110 — Agosto de 1932
 
-[<img src="covers/N110.jpg" alt="Portada del Nº 110 — Agosto de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54707)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54707)
 
 * **Werner Sombart** — *El porvenir del capitalismo*, pp. 129–165
@@ -2113,8 +1893,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-111"></a>
 ### Nº 111 — Septiembre de 1932
-
-[<img src="covers/N111.jpg" alt="Portada del Nº 111 — Septiembre de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54709)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54709)
 
@@ -2130,8 +1908,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-112"></a>
 ### Nº 112 — Octubre de 1932
 
-[<img src="covers/N112.jpg" alt="Portada del Nº 112 — Octubre de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54711)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54711)
 
 * **Benjamín Jarnés** — *Trótula*, pp. 1–30
@@ -2143,8 +1919,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-113"></a>
 ### Nº 113 — Noviembre de 1932
-
-[<img src="covers/N113.jpg" alt="Portada del Nº 113 — Noviembre de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54713)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54713)
 
@@ -2160,8 +1934,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-114"></a>
 ### Nº 114 — Diciembre de 1932
-
-[<img src="covers/N114.jpg" alt="Portada del Nº 114 — Diciembre de 1932" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54715)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54715)
 
@@ -2185,8 +1957,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-115"></a>
 ### Nº 115 — Enero de 1933
 
-[<img src="covers/N115.jpg" alt="Portada del Nº 115 — Enero de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54717)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54717)
 
 * **Franz Werfel** — *Secreto de un hombre*, pp. 1–32
@@ -2204,8 +1974,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-116"></a>
 ### Nº 116 — Febrero de 1933
 
-[<img src="covers/N116.jpg" alt="Portada del Nº 116 — Febrero de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54719)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54719)
 
 * **Carl Gustav Jung** — *Ulises*, pp. 113–149
@@ -2221,8 +1989,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-117"></a>
 ### Nº 117 — Marzo de 1933
 
-[<img src="covers/N117.jpg" alt="Portada del Nº 117 — Marzo de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54721)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54721)
 
 * **Vladimir I. Ivanov** — *Correspondencia desde un ángulo a otro*, pp. 241–267
@@ -2236,8 +2002,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-118"></a>
 ### Nº 118 — Abril de 1933
-
-[<img src="covers/N118.jpg" alt="Portada del Nº 118 — Abril de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54830)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54830)
 
@@ -2253,8 +2017,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-119"></a>
 ### Nº 119 — Mayo de 1933
 
-[<img src="covers/N119.jpg" alt="Portada del Nº 119 — Mayo de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54832)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54832)
 
 * **Julius Ebbinghaus** — *Sobre los progresos de la metafísica*, pp. 129–146
@@ -2267,8 +2029,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-120"></a>
 ### Nº 120 — Junio de 1933
-
-[<img src="covers/N120.jpg" alt="Portada del Nº 120 — Junio de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54834)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54834)
 
@@ -2283,8 +2043,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-121"></a>
 ### Nº 121 — Julio de 1933
-
-[<img src="covers/N121.jpg" alt="Portada del Nº 121 — Julio de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54836)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54836)
 
@@ -2301,8 +2059,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-122"></a>
 ### Nº 122 — Agosto de 1933
 
-[<img src="covers/N122.jpg" alt="Portada del Nº 122 — Agosto de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54838)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54838)
 
 * **Jules Lobel** — *La persona profunda*, pp. 129–165
@@ -2317,8 +2073,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-123"></a>
 ### Nº 123 — Septiembre de 1933
 
-[<img src="covers/N123.jpg" alt="Portada del Nº 123 — Septiembre de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54840)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54840)
 
 * **James Hopwood Jeans** — *Un debate científico sobre la evolución del Universo*, pp. 241–274
@@ -2330,8 +2084,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-124"></a>
 ### Nº 124 — Octubre de 1933
-
-[<img src="covers/N124.jpg" alt="Portada del Nº 124 — Octubre de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54842)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54842)
 
@@ -2345,8 +2097,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-125"></a>
 ### Nº 125 — Noviembre de 1933
-
-[<img src="covers/N125.jpg" alt="Portada del Nº 125 — Noviembre de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54844)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54844)
 
@@ -2362,8 +2112,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-126"></a>
 ### Nº 126 — Diciembre de 1933
-
-[<img src="covers/N126.jpg" alt="Portada del Nº 126 — Diciembre de 1933" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54846)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54846)
 
@@ -2385,8 +2133,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-127"></a>
 ### Nº 127 — Enero de 1934
 
-[<img src="covers/N127.jpg" alt="Portada del Nº 127 — Enero de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54848)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54848)
 
 * **Emilio García Gómez** — *Bagdad y los Reinos de Taifas*, pp. 1–22
@@ -2399,8 +2145,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-128"></a>
 ### Nº 128 — Febrero de 1934
-
-[<img src="covers/N128.jpg" alt="Portada del Nº 128 — Febrero de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54850)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54850)
 
@@ -2416,8 +2160,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-129"></a>
 ### Nº 129 — Marzo de 1934
 
-[<img src="covers/N129.jpg" alt="Portada del Nº 129 — Marzo de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54852)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54852)
 
 * **Alfred North Whitehead** — *La Nueva Reforma*, pp. 233–256
@@ -2431,8 +2173,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-130"></a>
 ### Nº 130 — Abril de 1934
 
-[<img src="covers/N130.jpg" alt="Portada del Nº 130 — Abril de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54854)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54854)
 
 * **Eduardo Mallea** — *La angustía*, pp. 1–29
@@ -2445,8 +2185,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-131"></a>
 ### Nº 131 — Mayo de 1934
-
-[<img src="covers/N131.jpg" alt="Portada del Nº 131 — Mayo de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54856)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54856)
 
@@ -2464,8 +2202,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-132"></a>
 ### Nº 132 — Junio de 1934
 
-[<img src="covers/N132.jpg" alt="Portada del Nº 132 — Junio de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54858)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54858)
 
 * **Carl Gebhardt** — *León Hebreo; su vida y su obra*, pp. 233–273
@@ -2478,8 +2214,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-133"></a>
 ### Nº 133 — Julio de 1934
-
-[<img src="covers/N133.jpg" alt="Portada del Nº 133 — Julio de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54860)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54860)
 
@@ -2495,8 +2229,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-134"></a>
 ### Nº 134 — Agosto de 1934
 
-[<img src="covers/N134.jpg" alt="Portada del Nº 134 — Agosto de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54862)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54862)
 
 * **Carl Gebhardt** — *León Hebreo; su vida y su obra (conclusión)*, pp. 113–161
@@ -2509,8 +2241,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-135"></a>
 ### Nº 135 — Septiembre de 1934
-
-[<img src="covers/N135.jpg" alt="Portada del Nº 135 — Septiembre de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54864)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54864)
 
@@ -2525,8 +2255,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-136"></a>
 ### Nº 136 — Octubre de 1934
-
-[<img src="covers/N136.jpg" alt="Portada del Nº 136 — Octubre de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54866)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54866)
 
@@ -2543,8 +2271,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-137"></a>
 ### Nº 137 — Noviembre de 1934
 
-[<img src="covers/N137.jpg" alt="Portada del Nº 137 — Noviembre de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54868)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54868)
 
 * **Heinz Heimsoeth** — *Política y moral en la filosofía de la historia de Hegel*, pp. 113–149
@@ -2558,8 +2284,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-138"></a>
 ### Nº 138 — Diciembre de 1934
-
-[<img src="covers/N138.jpg" alt="Portada del Nº 138 — Diciembre de 1934" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54870)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54870)
 
@@ -2581,8 +2305,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-139"></a>
 ### Nº 139 — Enero de 1935
 
-[<img src="covers/N139.jpg" alt="Portada del Nº 139 — Enero de 1935" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54872)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54872)
 
 * **Pascual Jordán** — *El concepto positivista de la realidad*, pp. 1–20
@@ -2597,8 +2319,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-140"></a>
 ### Nº 140 — Febrero de 1935
 
-[<img src="covers/N140.jpg" alt="Portada del Nº 140 — Febrero de 1935" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54874)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54874)
 
 * **Hermann Oncken** — *Cromwell, hombre de Estado*, pp. 129–163
@@ -2611,8 +2331,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-141"></a>
 ### Nº 141 — Marzo de 1935
-
-[<img src="covers/N141.jpg" alt="Portada del Nº 141 — Marzo de 1935" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54876)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54876)
 
@@ -2629,8 +2347,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-142"></a>
 ### Nº 142 — Abril de 1935
 
-[<img src="covers/N142.jpg" alt="Portada del Nº 142 — Abril de 1935" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54878)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54878)
 
 * **Jorge Guillén** — *Más allá*, pp. 1–10
@@ -2644,8 +2360,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-143"></a>
 ### Nº 143 — Mayo de 1935
-
-[<img src="covers/N143.jpg" alt="Portada del Nº 143 — Mayo de 1935" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54880)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54880)
 
@@ -2661,8 +2375,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-144"></a>
 ### Nº 144 — Junio de 1935
-
-[<img src="covers/N144.jpg" alt="Portada del Nº 144 — Junio de 1935" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54882)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54882)
 
@@ -2690,8 +2402,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-146"></a>
 ### Nº 146 — Agosto de 1935
 
-[<img src="covers/N146.jpg" alt="Portada del Nº 146 — Agosto de 1935" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54887)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54887)
 
 * **Fernando Vela** — *Sociología de la crisis*, pp. 129–160
@@ -2707,8 +2417,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-147"></a>
 ### Nº 147 — Septiembre de 1935
 
-[<img src="covers/N147.jpg" alt="Portada del Nº 147 — Septiembre de 1935" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54890)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54890)
 
 * **Antonio Marichalar** — *Cuestión personal*, pp. 257–277
@@ -2720,8 +2428,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-148"></a>
 ### Nº 148 — Octubre de 1935
-
-[<img src="covers/N148.jpg" alt="Portada del Nº 148 — Octubre de 1935" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54893)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54893)
 
@@ -2735,8 +2441,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-149"></a>
 ### Nº 149 — Noviembre de 1935
-
-[<img src="covers/N149.jpg" alt="Portada del Nº 149 — Noviembre de 1935" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54898)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54898)
 
@@ -2752,8 +2456,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-150"></a>
 ### Nº 150 — Diciembre de 1935
-
-[<img src="covers/N150.jpg" alt="Portada del Nº 150 — Diciembre de 1935" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54900)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54900)
 
@@ -2778,8 +2480,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-151"></a>
 ### Nº 151 — Enero de 1936
 
-[<img src="covers/N151.jpg" alt="Portada del Nº 151 — Enero de 1936" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54902)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54902)
 
 * **Bertrand Russell** — *Conocimientos "inútiles"*, pp. 1–16
@@ -2796,8 +2496,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-152"></a>
 ### Nº 152 — Febrero de 1936
 
-[<img src="covers/N152.jpg" alt="Portada del Nº 152 — Febrero de 1936" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54904)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54904)
 
 * **Evaristo Correa Calderón** — *Teoría de la Atlántida*, pp. 113–146
@@ -2810,8 +2508,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-153"></a>
 ### Nº 153 — Marzo de 1936
-
-[<img src="covers/N153.jpg" alt="Portada del Nº 153 — Marzo de 1936" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54906)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54906)
 
@@ -2826,8 +2522,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-154"></a>
 ### Nº 154 — Abril de 1936
 
-[<img src="covers/N154.jpg" alt="Portada del Nº 154 — Abril de 1936" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54908)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54908)
 
 * **Antonio Porras** — *El Apocalipsis de Cervantes*, pp. 1–23
@@ -2840,8 +2534,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-155"></a>
 ### Nº 155 — Mayo de 1936
-
-[<img src="covers/N155.jpg" alt="Portada del Nº 155 — Mayo de 1936" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54910)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54910)
 
@@ -2858,8 +2550,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 <a id="ejemplar-156"></a>
 ### Nº 156 — Junio de 1936
 
-[<img src="covers/N156.jpg" alt="Portada del Nº 156 — Junio de 1936" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54912)
-
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54912)
 
 * **Emilio Cecchi** — *Peces de colores*, pp. 241–266
@@ -2872,8 +2562,6 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 
 <a id="ejemplar-157"></a>
 ### Nº 157 — Julio de 1936
-
-[<img src="covers/N157.jpg" alt="Portada del Nº 157 — Julio de 1936" width="150">](https://ortegaygasset.edu/visor-pdfro/?pdf=54914)
 
 [📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón](https://ortegaygasset.edu/visor-pdfro/?pdf=54914)
 
@@ -5447,7 +5135,6 @@ Ordenado alfabéticamente por título.
 - **Autores de «Notas» (índice inverso):** Dialnet suele registrar la sección de notas como una sola entrada «Notas» sin autor. Los nombres que aparecen bajo cada «Notas» se han recuperado del **archivo por autor de la FOM** cruzando por año y mes. Se listan **solo los autores** (sin título ni páginas de cada nota). El nombre se invierte de «Apellidos, Nombre» a «Nombre Apellidos» usando la coma como separador (sin adivinar el apellido).
 - **Fidelidad:** se preservan los títulos y nombres de autor tal como los registra la fuente. No se moderniza la ortografía, no se expanden iniciales, no se resuelven seudónimos ni se traducen los títulos.
 - **Nombres de autor:** en el índice de autores se muestran tal como aparecen en Dialnet («Nombre Apellidos») y se ordenan por esa forma. No se invierten a «Apellidos, Nombre» para no adivinar el apellido en nombres compuestos (p. ej. «Ortega y Gasset», «Gómez de la Serna»). El script incluye una opción (`--author-canonical`) que obtiene la forma catalogada `DC.creator` de Dialnet, pero Dialnet limita el ritmo de peticiones y por defecto no se utiliza.
-- **Portadas:** las miniaturas (carpeta `covers/`) se han descargado del archivo de la Fundación Ortega-Marañón y enlazan al visor oficial. No se descargan ni redistribuyen los PDF. El Nº 145 no tiene miniatura porque su ficha en el archivo muestra una imagen equivocada (la del Nº 148).
 - **En resumen:** este proyecto debe entenderse como una **herramienta de consulta bibliográfica (finding aid)**, no como un análisis exhaustivo página a página de cada ejemplar.
 
 ### Incidencias detectadas automáticamente
@@ -5456,7 +5143,6 @@ Se registran (sin resolverlas por conjetura) para transparencia y futuras correc
 
 * FOM: la portada «RDO_N148_OCTUBRE_1935.jpg» se reutiliza en los números [145, 148] (errata de imagen en el archivo).
 * FOM: la tarjeta del Nº 145 muestra portada del Nº 148 (OCTUBRE 1935); mes/año (julio de 1935) derivado de la secuencia mensual y contrastado con el año de Dialnet.
-* FOM: sin miniatura de portada para el/los número(s) [145] (la página de archivo no publica su imagen; véase la errata del Nº 145).
 * Nº 1: posible contenido no indexado (termina en pág. 113; el Nº 2 empieza en pág. 138)
 * Nº 2: posible contenido no indexado (termina en pág. 247; el Nº 3 empieza en pág. 265)
 * Nº 55: posible contenido no indexado (termina en pág. 139; el Nº 56 empieza en pág. 145)

@@ -1,7 +1,7 @@
 # Revista de Occidente — Primera época (1923–1936)
 
 Índice bibliográfico de los **157 números** de la primera época (julio de 1923 –
-julio de 1936), con la portada y el enlace al facsímil oficial de cada ejemplar.
+julio de 1936), con enlace al facsímil oficial de cada ejemplar.
 
 ## 📖 → [Abrir el índice](indice.md)
 

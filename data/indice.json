@@ -13,7 +13,6 @@
     "validacion": [
       "FOM: la portada «RDO_N148_OCTUBRE_1935.jpg» se reutiliza en los números [145, 148] (errata de imagen en el archivo).",
       "FOM: la tarjeta del Nº 145 muestra portada del Nº 148 (OCTUBRE 1935); mes/año (julio de 1935) derivado de la secuencia mensual y contrastado con el año de Dialnet.",
-      "FOM: sin miniatura de portada para el/los número(s) [145] (la página de archivo no publica su imagen; véase la errata del Nº 145).",
       "Nº 1: posible contenido no indexado (termina en pág. 113; el Nº 2 empieza en pág. 138)",
       "Nº 2: posible contenido no indexado (termina en pág. 247; el Nº 3 empieza en pág. 265)",
       "Nº 55: posible contenido no indexado (termina en pág. 139; el Nº 56 empieza en pág. 145)",
@@ -30,7 +29,6 @@
       "fom_pdfid": "53587",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=53587",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N001_JULIO_1923.jpg",
-      "cover_local": "covers/N001.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -146,7 +144,6 @@
       "fom_pdfid": "53991",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=53991",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N002_AGOSTO_1923.jpg",
-      "cover_local": "covers/N002.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -290,7 +287,6 @@
       "fom_pdfid": "53994",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=53994",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N003_SEPTIEMBRE_1923.jpg",
-      "cover_local": "covers/N003.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -423,7 +419,6 @@
       "fom_pdfid": "53996",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=53996",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N004_OCTUBRE_1923.jpg",
-      "cover_local": "covers/N004.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -575,7 +570,6 @@
       "fom_pdfid": "53998",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=53998",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N005_NOVIEMBRE_1923.jpg",
-      "cover_local": "covers/N005.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -704,7 +698,6 @@
       "fom_pdfid": "54000",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54000",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N006_DICIEMBRE_1923.jpg",
-      "cover_local": "covers/N006.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -815,7 +808,6 @@
       "fom_pdfid": "54006",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54006",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N007_ENERO_1924.jpg",
-      "cover_local": "covers/N007.jpg",
       "note_authors": [
         {
           "name": "Ricardo Baeza",
@@ -930,7 +922,6 @@
       "fom_pdfid": "54008",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54008",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N008_FEBRERO_1924.jpg",
-      "cover_local": "covers/N008.jpg",
       "note_authors": [
         {
           "name": "Ricardo Baeza",
@@ -1059,7 +1050,6 @@
       "fom_pdfid": "54013",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54013",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N009_MARZO_1924.jpg",
-      "cover_local": "covers/N009.jpg",
       "note_authors": [
         {
           "name": "Gerardo Diego",
@@ -1174,7 +1164,6 @@
       "fom_pdfid": "54016",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54016",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N010_ABRIL_1924.jpg",
-      "cover_local": "covers/N010.jpg",
       "note_authors": [
         {
           "name": "Adolfo Bonilla y San Martín",
@@ -1271,7 +1260,6 @@
       "fom_pdfid": "54018",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54018",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N011_MAYO_1924.jpg",
-      "cover_local": "covers/N011.jpg",
       "note_authors": [
         {
           "name": "Enrique Díez-Canedo",
@@ -1391,7 +1379,6 @@
       "fom_pdfid": "54023",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54023",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N012_JUNIO_1924.jpg",
-      "cover_local": "covers/N012.jpg",
       "note_authors": [
         {
           "name": "Enrique Díez-Canedo",
@@ -1498,7 +1485,6 @@
       "fom_pdfid": "54025",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54025",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N013_JULIO_1924.jpg",
-      "cover_local": "covers/N013.jpg",
       "note_authors": [
         {
           "name": "Gerardo Diego",
@@ -1605,7 +1591,6 @@
       "fom_pdfid": "54027",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54027",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N014_AGOSTO_1924.jpg",
-      "cover_local": "covers/N014.jpg",
       "note_authors": [
         {
           "name": "Enrique Díez-Canedo",
@@ -1753,7 +1738,6 @@
       "fom_pdfid": "54029",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54029",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N015_SEPTIEMBRE_1924.jpg",
-      "cover_local": "covers/N015.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -1836,7 +1820,6 @@
       "fom_pdfid": "54031",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54031",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N016_OCTUBRE_1924.jpg",
-      "cover_local": "covers/N016.jpg",
       "note_authors": [
         {
           "name": "Melchor Fernández Almagro",
@@ -1970,7 +1953,6 @@
       "fom_pdfid": "54033",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54033",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N017_NOVIEMBRE_1924.jpg",
-      "cover_local": "covers/N017.jpg",
       "note_authors": [
         {
           "name": "Juan Chabás",
@@ -2103,7 +2085,6 @@
       "fom_pdfid": "54035",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54035",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N018_DICIEMBRE_1924.jpg",
-      "cover_local": "covers/N018.jpg",
       "note_authors": [
         {
           "name": "Ernesto Giménez Caballero",
@@ -2210,7 +2191,6 @@
       "fom_pdfid": "54039",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54039",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N019_ENERO_1925.jpg",
-      "cover_local": "covers/N019.jpg",
       "note_authors": [
         {
           "name": "Melchor Fernández Almagro",
@@ -2335,7 +2315,6 @@
       "fom_pdfid": "54041",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54041",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N020_FEBRERO_1925.jpg",
-      "cover_local": "covers/N020.jpg",
       "note_authors": [
         {
           "name": "Pedro Bosch Gimpera",
@@ -2446,7 +2425,6 @@
       "fom_pdfid": "54043",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54043",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N021_MARZO_1925.jpg",
-      "cover_local": "covers/N021.jpg",
       "note_authors": [
         {
           "name": "Mauricio Bacarisse",
@@ -2559,7 +2537,6 @@
       "fom_pdfid": "54045",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54045",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N022_ABRIL_1925.jpg",
-      "cover_local": "covers/N022.jpg",
       "note_authors": [
         {
           "name": "Marcelle Auclair",
@@ -2656,7 +2633,6 @@
       "fom_pdfid": "54088",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54088",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N023_MAYO_1925.jpg",
-      "cover_local": "covers/N023.jpg",
       "note_authors": [
         {
           "name": "Mauricio Bacarisse",
@@ -2775,7 +2751,6 @@
       "fom_pdfid": "54090",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54090",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N024_JUNIO_1925.jpg",
-      "cover_local": "covers/N024.jpg",
       "note_authors": [
         {
           "name": "Mauricio Bacarisse",
@@ -2894,7 +2869,6 @@
       "fom_pdfid": "54092",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54092",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N025_JULIO_1925.jpg",
-      "cover_local": "covers/N025.jpg",
       "note_authors": [
         {
           "name": "Pedro Bosch Gimpera",
@@ -3031,7 +3005,6 @@
       "fom_pdfid": "54094",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54094",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N026_AGOSTO_1925.jpg",
-      "cover_local": "covers/N026.jpg",
       "note_authors": [
         {
           "name": "Juan Chabás",
@@ -3146,7 +3119,6 @@
       "fom_pdfid": "54096",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54096",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N027_SEPTIEMBRE_1925.jpg",
-      "cover_local": "covers/N027.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -3279,7 +3251,6 @@
       "fom_pdfid": "54098",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54098",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N028_OCTUBRE_1925.jpg",
-      "cover_local": "covers/N028.jpg",
       "note_authors": [
         {
           "name": "Blas Cabrera",
@@ -3406,7 +3377,6 @@
       "fom_pdfid": "54100",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54100",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N029_NOVIEMBRE_1925.jpg",
-      "cover_local": "covers/N029.jpg",
       "note_authors": [
         {
           "name": "Mauricio Bacarisse",
@@ -3521,7 +3491,6 @@
       "fom_pdfid": "54102",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54102",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N030_DICIEMBRE_1925.jpg",
-      "cover_local": "covers/N030.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -3654,7 +3623,6 @@
       "fom_pdfid": "54105",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54105",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N031_ENERO_1926.jpg",
-      "cover_local": "covers/N031.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -3751,7 +3719,6 @@
       "fom_pdfid": "54107",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54107",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N032_FEBRERO_1926.jpg",
-      "cover_local": "covers/N032.jpg",
       "note_authors": [
         {
           "name": "Pedro Bosch Gimpera",
@@ -3871,7 +3838,6 @@
       "fom_pdfid": "54109",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54109",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N033_MARZO_1926.jpg",
-      "cover_local": "covers/N033.jpg",
       "note_authors": [
         {
           "name": "Manuel G. Morente",
@@ -3986,7 +3952,6 @@
       "fom_pdfid": "54111",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54111",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N034_ABRIL_1926.jpg",
-      "cover_local": "covers/N034.jpg",
       "note_authors": [
         {
           "name": "Marcelle Auclair",
@@ -4105,7 +4070,6 @@
       "fom_pdfid": "54113",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54113",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N035_MAYO_1926.jpg",
-      "cover_local": "covers/N035.jpg",
       "note_authors": [
         {
           "name": "Melchor Fernández Almagro",
@@ -4210,7 +4174,6 @@
       "fom_pdfid": "54386",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54386",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N036_JUNIO_1926.jpg",
-      "cover_local": "covers/N036.jpg",
       "note_authors": [
         {
           "name": "Ramón Carande",
@@ -4335,7 +4298,6 @@
       "fom_pdfid": "54388",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54388",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N037_JULIO_1926.jpg",
-      "cover_local": "covers/N037.jpg",
       "note_authors": [
         {
           "name": "Américo Castro",
@@ -4454,7 +4416,6 @@
       "fom_pdfid": "54390",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54390",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N038_AGOSTO_1926.jpg",
-      "cover_local": "covers/N038.jpg",
       "note_authors": [
         {
           "name": "Juan Dantín Cereceda",
@@ -4559,7 +4520,6 @@
       "fom_pdfid": "54392",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54392",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N039_SEPTIEMBRE_1926.jpg",
-      "cover_local": "covers/N039.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -4684,7 +4644,6 @@
       "fom_pdfid": "54395",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54395",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N040_OCTUBRE_1926.jpg",
-      "cover_local": "covers/N040.jpg",
       "note_authors": [
         {
           "name": "Ricardo Baeza",
@@ -4803,7 +4762,6 @@
       "fom_pdfid": "54397",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54397",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N041_NOVIEMBRE_1926.jpg",
-      "cover_local": "covers/N041.jpg",
       "note_authors": [
         {
           "name": "Pedro Bosch Gimpera",
@@ -4918,7 +4876,6 @@
       "fom_pdfid": "54399",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54399",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N042_DICIEMBRE_1926.jpg",
-      "cover_local": "covers/N042.jpg",
       "note_authors": [
         {
           "name": "Mauricio Bacarisse",
@@ -5051,7 +5008,6 @@
       "fom_pdfid": "54401",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54401",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N043_ENERO_1927.jpg",
-      "cover_local": "covers/N043.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -5202,7 +5158,6 @@
       "fom_pdfid": "54403",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54403",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N044_FEBRERO_1927.jpg",
-      "cover_local": "covers/N044.jpg",
       "note_authors": [
         {
           "name": "José M. de Cossio",
@@ -5307,7 +5262,6 @@
       "fom_pdfid": "54435",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54435",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N045_MARZO_1927.jpg",
-      "cover_local": "covers/N045.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -5427,7 +5381,6 @@
       "fom_pdfid": "54437",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54437",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N046_ABRIL_1927.jpg",
-      "cover_local": "covers/N046.jpg",
       "note_authors": [
         {
           "name": "Juan Chabás",
@@ -5537,7 +5490,6 @@
       "fom_pdfid": "54439",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54439",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N047_MAYO_1927.jpg",
-      "cover_local": "covers/N047.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -5661,7 +5613,6 @@
       "fom_pdfid": "54462",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54462",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N048_JUNIO_1927.jpg",
-      "cover_local": "covers/N048.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -5785,7 +5736,6 @@
       "fom_pdfid": "54490",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54490",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N049_JULIO_1927.jpg",
-      "cover_local": "covers/N049.jpg",
       "note_authors": [
         {
           "name": "Juan Dantín Cereceda",
@@ -5909,7 +5859,6 @@
       "fom_pdfid": "54501",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54501",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N050_AGOSTO_1927.jpg",
-      "cover_local": "covers/N050.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -6006,7 +5955,6 @@
       "fom_pdfid": "54505",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54505",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N051_SEPTIEMBRE_1927.jpg",
-      "cover_local": "covers/N051.jpg",
       "note_authors": [
         {
           "name": "Gerardo Diego",
@@ -6168,7 +6116,6 @@
       "fom_pdfid": "54507",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54507",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N052_OCTUBRE_1927.jpg",
-      "cover_local": "covers/N052.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -6304,7 +6251,6 @@
       "fom_pdfid": "54511",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54511",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N053_NOVIEMBRE_1927.jpg",
-      "cover_local": "covers/N053.jpg",
       "note_authors": [
         {
           "name": "Juan Chabás",
@@ -6440,7 +6386,6 @@
       "fom_pdfid": "54513",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54513",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N054_DICIEMBRE_1927.jpg",
-      "cover_local": "covers/N054.jpg",
       "note_authors": [
         {
           "name": "Dámaso Alonso",
@@ -6580,7 +6525,6 @@
       "fom_pdfid": "54515",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54515",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N055_ENERO_1928.jpg",
-      "cover_local": "covers/N055.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -6712,7 +6656,6 @@
       "fom_pdfid": "54517",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54517",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N056_FEBRERO_1928.jpg",
-      "cover_local": "covers/N056.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -6822,7 +6765,6 @@
       "fom_pdfid": "54519",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54519",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N057_MARZO_1928.jpg",
-      "cover_local": "covers/N057.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -6946,7 +6888,6 @@
       "fom_pdfid": "54521",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54521",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N058_ABRIL_1928.jpg",
-      "cover_local": "covers/N058.jpg",
       "note_authors": [
         {
           "name": "Marcelle Auclair",
@@ -7074,7 +7015,6 @@
       "fom_pdfid": "54523",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54523",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N059_MAYO_1928.jpg",
-      "cover_local": "covers/N059.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -7189,7 +7129,6 @@
       "fom_pdfid": "54523",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54523",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N060_JUNIO_1928.jpg",
-      "cover_local": "covers/N060.jpg",
       "note_authors": [
         {
           "name": "Rosa Chacel",
@@ -7313,7 +7252,6 @@
       "fom_pdfid": "54523",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54523",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N061_JULIO_1928.jpg",
-      "cover_local": "covers/N061.jpg",
       "note_authors": [
         {
           "name": "Juan Chabás",
@@ -7441,7 +7379,6 @@
       "fom_pdfid": "54529",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54529",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N062_AGOSTO_1928.jpg",
-      "cover_local": "covers/N062.jpg",
       "note_authors": [
         {
           "name": "Antonio Bermúdez Cañete",
@@ -7565,7 +7502,6 @@
       "fom_pdfid": "54531",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54531",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N063_SEPTIEMBRE_1928.jpg",
-      "cover_local": "covers/N063.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -7694,7 +7630,6 @@
       "fom_pdfid": "54533",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54533",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N064_OCTUBRE_1928.jpg",
-      "cover_local": "covers/N064.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -7809,7 +7744,6 @@
       "fom_pdfid": "54535",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54535",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N065_NOVIEMBRE_1928.jpg",
-      "cover_local": "covers/N065.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -7920,7 +7854,6 @@
       "fom_pdfid": "54537",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54537",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N066_DICIEMBRE_1928.jpg",
-      "cover_local": "covers/N066.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -8021,7 +7954,6 @@
       "fom_pdfid": "54539",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54539",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N067_ENERO_1929.jpg",
-      "cover_local": "covers/N067.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -8140,7 +8072,6 @@
       "fom_pdfid": "54541",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54541",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N068_FEBRERO_1929.jpg",
-      "cover_local": "covers/N068.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -8245,7 +8176,6 @@
       "fom_pdfid": "54541",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54541",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N069_MARZO_1929.jpg",
-      "cover_local": "covers/N069.jpg",
       "note_authors": [
         {
           "name": "Rosa Chacel",
@@ -8360,7 +8290,6 @@
       "fom_pdfid": "54545",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54545",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N070_ABRIL_1929.jpg",
-      "cover_local": "covers/N070.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -8489,7 +8418,6 @@
       "fom_pdfid": "54547",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54547",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N071_MAYO_1929.jpg",
-      "cover_local": "covers/N071.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -8590,7 +8518,6 @@
       "fom_pdfid": "54549",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54549",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N072_JUNIO_1929.jpg",
-      "cover_local": "covers/N072.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -8700,7 +8627,6 @@
       "fom_pdfid": "54551",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54551",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N073_JULIO_1929.jpg",
-      "cover_local": "covers/N073.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -8801,7 +8727,6 @@
       "fom_pdfid": "54553",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54553",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N074_AGOSTO_1929.jpg",
-      "cover_local": "covers/N074.jpg",
       "note_authors": [
         {
           "name": "Luis Cernuda",
@@ -8894,7 +8819,6 @@
       "fom_pdfid": "54555",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54555",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N075_SEPTIEMBRE_1929.jpg",
-      "cover_local": "covers/N075.jpg",
       "note_authors": [
         {
           "name": "Juan Dantín Cereceda",
@@ -9015,7 +8939,6 @@
       "fom_pdfid": "54557",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54557",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N076_OCTUBRE_1929.jpg",
-      "cover_local": "covers/N076.jpg",
       "note_authors": [
         {
           "name": "Luis Cernuda",
@@ -9135,7 +9058,6 @@
       "fom_pdfid": "54559",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54559",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N077_NOVIEMBRE_1929.jpg",
-      "cover_local": "covers/N077.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -9255,7 +9177,6 @@
       "fom_pdfid": "54561",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54561",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N078_DICIEMBRE_1929.jpg",
-      "cover_local": "covers/N078.jpg",
       "note_authors": [
         {
           "name": "Ernesto Giménez Caballero",
@@ -9348,7 +9269,6 @@
       "fom_pdfid": "54563",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54563",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N079_ENERO_1930.jpg",
-      "cover_local": "covers/N079.jpg",
       "note_authors": [
         {
           "name": "Juan Chabás",
@@ -9445,7 +9365,6 @@
       "fom_pdfid": "54565",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54565",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N080_FEBRERO_1930.jpg",
-      "cover_local": "covers/N080.jpg",
       "note_authors": [
         {
           "name": "Emilio García Gómez",
@@ -9552,7 +9471,6 @@
       "fom_pdfid": "54649",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54649",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N081_MARZO_1930.jpg",
-      "cover_local": "covers/N081.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -9685,7 +9603,6 @@
       "fom_pdfid": "54651",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54651",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N082_ABRIL_1930.jpg",
-      "cover_local": "covers/N082.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -9774,7 +9691,6 @@
       "fom_pdfid": "54653",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54653",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N083_MAYO_1930.jpg",
-      "cover_local": "covers/N083.jpg",
       "note_authors": [
         {
           "name": "Valentín Andrés",
@@ -9871,7 +9787,6 @@
       "fom_pdfid": "54655",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54655",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N084_JUNIO_1930.jpg",
-      "cover_local": "covers/N084.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -9964,7 +9879,6 @@
       "fom_pdfid": "54657",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54657",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N085_JULIO_1930.jpg",
-      "cover_local": "covers/N085.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -10070,7 +9984,6 @@
       "fom_pdfid": "54659",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54659",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N086_AGOSTO_1930.jpg",
-      "cover_local": "covers/N086.jpg",
       "note_authors": [
         {
           "name": "Juan Dantín Cereceda",
@@ -10155,7 +10068,6 @@
       "fom_pdfid": "54661",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54661",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N087_SEPTIEMBRE_1930.jpg",
-      "cover_local": "covers/N087.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -10244,7 +10156,6 @@
       "fom_pdfid": "54663",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54663",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N088_OCTUBRE_1930.jpg",
-      "cover_local": "covers/N088.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -10361,7 +10272,6 @@
       "fom_pdfid": "54665",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54665",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N089_NOVIEMBRE_1930.jpg",
-      "cover_local": "covers/N089.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -10458,7 +10368,6 @@
       "fom_pdfid": "54667",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54667",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N090_DICIEMBRE_1930.jpg",
-      "cover_local": "covers/N090.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -10569,7 +10478,6 @@
       "fom_pdfid": "54669",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54669",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N091_ENERO_1931.jpg",
-      "cover_local": "covers/N091.jpg",
       "note_authors": [
         {
           "name": "Antonio Marichalar",
@@ -10658,7 +10566,6 @@
       "fom_pdfid": "54671",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54671",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N092_FEBRERO_1931.jpg",
-      "cover_local": "covers/N092.jpg",
       "note_authors": [
         {
           "name": "Melchor Fernández Almagro",
@@ -10751,7 +10658,6 @@
       "fom_pdfid": "54673",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54673",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N093_MARZO_1931.jpg",
-      "cover_local": "covers/N093.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -10854,7 +10760,6 @@
       "fom_pdfid": "54675",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54675",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N094_ABRIL_1931.jpg",
-      "cover_local": "covers/N094.jpg",
       "note_authors": [
         {
           "name": "Francisco Ayala",
@@ -10943,7 +10848,6 @@
       "fom_pdfid": "54677",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54677",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N095_MAYO_1931.jpg",
-      "cover_local": "covers/N095.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -11050,7 +10954,6 @@
       "fom_pdfid": "54679",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54679",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N096_JUNIO_1931.jpg",
-      "cover_local": "covers/N096.jpg",
       "note_authors": [
         {
           "name": "José Gómez de la Serna Favre",
@@ -11157,7 +11060,6 @@
       "fom_pdfid": "54681",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54681",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N097_JULIO_1931.jpg",
-      "cover_local": "covers/N097.jpg",
       "note_authors": [
         {
           "name": "Emilio García Gómez",
@@ -11242,7 +11144,6 @@
       "fom_pdfid": "54683",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54683",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N098_AGOSTO_1931.jpg",
-      "cover_local": "covers/N098.jpg",
       "note_authors": [
         {
           "name": "Dámaso Alonso",
@@ -11331,7 +11232,6 @@
       "fom_pdfid": "54685",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54685",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N099_SEPTIEMBRE_1931.jpg",
-      "cover_local": "covers/N099.jpg",
       "note_authors": [
         {
           "name": "Guillermo Díaz Plaja",
@@ -11420,7 +11320,6 @@
       "fom_pdfid": "54687",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54687",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N100_OCTUBRE_1931.jpg",
-      "cover_local": "covers/N100.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -11519,7 +11418,6 @@
       "fom_pdfid": "54689",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54689",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N101_NOVIEMBRE_1931.jpg",
-      "cover_local": "covers/N101.jpg",
       "note_authors": [
         {
           "name": "Emiliano Jos",
@@ -11608,7 +11506,6 @@
       "fom_pdfid": "54691",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54691",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N102_DICIEMBRE_1931.jpg",
-      "cover_local": "covers/N102.jpg",
       "note_authors": [
         {
           "name": "Juan Chabás",
@@ -11693,7 +11590,6 @@
       "fom_pdfid": "54693",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54693",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N103_ENERO_1932.jpg",
-      "cover_local": "covers/N103.jpg",
       "note_authors": [
         {
           "name": "Vicente Aleixandre",
@@ -11782,7 +11678,6 @@
       "fom_pdfid": "54695",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54695",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N104_FEBRERO_1932.jpg",
-      "cover_local": "covers/N104.jpg",
       "note_authors": [],
       "dialnet_ejemplar_id": "345659",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
@@ -11853,7 +11748,6 @@
       "fom_pdfid": "54697",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54697",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N105_MARZO_1932.jpg",
-      "cover_local": "covers/N105.jpg",
       "note_authors": [
         {
           "name": "Manuel Altolaguirre",
@@ -11952,7 +11846,6 @@
       "fom_pdfid": "54699",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54699",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N106_ABRIL_1932.jpg",
-      "cover_local": "covers/N106.jpg",
       "note_authors": [],
       "dialnet_ejemplar_id": "347661",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
@@ -12051,7 +11944,6 @@
       "fom_pdfid": "54701",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54701",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N107_MAYO_1932.jpg",
-      "cover_local": "covers/N107.jpg",
       "note_authors": [
         {
           "name": "REDACCIÓN",
@@ -12136,7 +12028,6 @@
       "fom_pdfid": "54703",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54703",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N108_JUNIO_1932.jpg",
-      "cover_local": "covers/N108.jpg",
       "note_authors": [
         {
           "name": "Manuel Altolaguirre",
@@ -12247,7 +12138,6 @@
       "fom_pdfid": "54705",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54705",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N109_JULIO_1932.jpg",
-      "cover_local": "covers/N109.jpg",
       "note_authors": [
         {
           "name": "Antonio Marichalar",
@@ -12350,7 +12240,6 @@
       "fom_pdfid": "54707",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54707",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N110_AGOSTO_1932.jpg",
-      "cover_local": "covers/N110.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -12449,7 +12338,6 @@
       "fom_pdfid": "54709",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54709",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N111_SEPTIEMBRE_1932.jpg",
-      "cover_local": "covers/N111.jpg",
       "note_authors": [
         {
           "name": "Ramón Gómez de la Serna",
@@ -12552,7 +12440,6 @@
       "fom_pdfid": "54711",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54711",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N112_OCTUBRE_1932.jpg",
-      "cover_local": "covers/N112.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -12637,7 +12524,6 @@
       "fom_pdfid": "54713",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54713",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N113_NOVIEMBRE_1932.jpg",
-      "cover_local": "covers/N113.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -12744,7 +12630,6 @@
       "fom_pdfid": "54715",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54715",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N114_DICIEMBRE_1932.jpg",
-      "cover_local": "covers/N114.jpg",
       "note_authors": [
         {
           "name": "Dámaso Alonso",
@@ -12851,7 +12736,6 @@
       "fom_pdfid": "54717",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54717",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N115_ENERO_1933.jpg",
-      "cover_local": "covers/N115.jpg",
       "note_authors": [
         {
           "name": "Juan Chabás",
@@ -12956,7 +12840,6 @@
       "fom_pdfid": "54719",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54719",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N116_FEBRERO_1933.jpg",
-      "cover_local": "covers/N116.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -13063,7 +12946,6 @@
       "fom_pdfid": "54721",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54721",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N117_MARZO_1933.jpg",
-      "cover_local": "covers/N117.jpg",
       "note_authors": [
         {
           "name": "P. W.",
@@ -13156,7 +13038,6 @@
       "fom_pdfid": "54830",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54830",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N118_ABRIL_1933.jpg",
-      "cover_local": "covers/N118.jpg",
       "note_authors": [
         {
           "name": "José Antonio Maravall",
@@ -13259,7 +13140,6 @@
       "fom_pdfid": "54832",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54832",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N119_MAYO_1933.jpg",
-      "cover_local": "covers/N119.jpg",
       "note_authors": [
         {
           "name": "Juan Dantín Cereceda",
@@ -13348,7 +13228,6 @@
       "fom_pdfid": "54834",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54834",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N120_JUNIO_1933.jpg",
-      "cover_local": "covers/N120.jpg",
       "note_authors": [
         {
           "name": "José Mª Chacón y Calvo",
@@ -13451,7 +13330,6 @@
       "fom_pdfid": "54836",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54836",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N121_JULIO_1933.jpg",
-      "cover_local": "covers/N121.jpg",
       "note_authors": [
         {
           "name": "Antonio Marichalar",
@@ -13548,7 +13426,6 @@
       "fom_pdfid": "54838",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54838",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N122_AGOSTO_1933.jpg",
-      "cover_local": "covers/N122.jpg",
       "note_authors": [
         {
           "name": "Lino Novás Calvo",
@@ -13651,7 +13528,6 @@
       "fom_pdfid": "54840",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54840",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N123_SEPTIEMBRE_1933.jpg",
-      "cover_local": "covers/N123.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -13736,7 +13612,6 @@
       "fom_pdfid": "54842",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54842",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N124_OCTUBRE_1933.jpg",
-      "cover_local": "covers/N124.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -13825,7 +13700,6 @@
       "fom_pdfid": "54844",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54844",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N125_NOVIEMBRE_1933.jpg",
-      "cover_local": "covers/N125.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -13922,7 +13796,6 @@
       "fom_pdfid": "54846",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54846",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N126_DICIEMBRE_1933.jpg",
-      "cover_local": "covers/N126.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -14011,7 +13884,6 @@
       "fom_pdfid": "54848",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54848",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N127_ENERO_1934.jpg",
-      "cover_local": "covers/N127.jpg",
       "note_authors": [
         {
           "name": "María Zambrano",
@@ -14110,7 +13982,6 @@
       "fom_pdfid": "54850",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54850",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N128_FEBRERO_1934.jpg",
-      "cover_local": "covers/N128.jpg",
       "note_authors": [
         {
           "name": "José Antonio Maravall",
@@ -14203,7 +14074,6 @@
       "fom_pdfid": "54852",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54852",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N129_MARZO_1934.jpg",
-      "cover_local": "covers/N129.jpg",
       "note_authors": [
         {
           "name": "José Antonio Maravall",
@@ -14292,7 +14162,6 @@
       "fom_pdfid": "54854",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54854",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N130_ABRIL_1934.jpg",
-      "cover_local": "covers/N130.jpg",
       "note_authors": [
         {
           "name": "Emilio García Gómez",
@@ -14381,7 +14250,6 @@
       "fom_pdfid": "54856",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54856",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N131_MAYO_1934.jpg",
-      "cover_local": "covers/N131.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -14482,7 +14350,6 @@
       "fom_pdfid": "54858",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54858",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N132_JUNIO_1934.jpg",
-      "cover_local": "covers/N132.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -14571,7 +14438,6 @@
       "fom_pdfid": "54860",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54860",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N133_JULIO_1934.jpg",
-      "cover_local": "covers/N133.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -14664,7 +14530,6 @@
       "fom_pdfid": "54862",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54862",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N134_AGOSTO_1934.jpg",
-      "cover_local": "covers/N134.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -14743,7 +14608,6 @@
       "fom_pdfid": "54864",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54864",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N135_SEPTIEMBRE_1934.jpg",
-      "cover_local": "covers/N135.jpg",
       "note_authors": [
         {
           "name": "Lino Novás Calvo",
@@ -14836,7 +14700,6 @@
       "fom_pdfid": "54866",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54866",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N136_OCTUBRE_1934.jpg",
-      "cover_local": "covers/N136.jpg",
       "note_authors": [
         {
           "name": "Lino Novás Calvo",
@@ -14943,7 +14806,6 @@
       "fom_pdfid": "54868",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54868",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N137_NOVIEMBRE_1934.jpg",
-      "cover_local": "covers/N137.jpg",
       "note_authors": [
         {
           "name": "Antonio Espina",
@@ -15036,7 +14898,6 @@
       "fom_pdfid": "54870",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54870",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N138_DICIEMBRE_1934.jpg",
-      "cover_local": "covers/N138.jpg",
       "note_authors": [
         {
           "name": "Lino Novás Calvo",
@@ -15135,7 +14996,6 @@
       "fom_pdfid": "54872",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54872",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N139_ENERO_1935.jpg",
-      "cover_local": "covers/N139.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -15228,7 +15088,6 @@
       "fom_pdfid": "54874",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54874",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N140_FEBRERO_1935.jpg",
-      "cover_local": "covers/N140.jpg",
       "note_authors": [
         {
           "name": "Ricardo Gullón",
@@ -15317,7 +15176,6 @@
       "fom_pdfid": "54876",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54876",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N141_MARZO_1935.jpg",
-      "cover_local": "covers/N141.jpg",
       "note_authors": [
         {
           "name": "Antonio de Obregón",
@@ -15424,7 +15282,6 @@
       "fom_pdfid": "54878",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54878",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N142_ABRIL_1935.jpg",
-      "cover_local": "covers/N142.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -15517,7 +15374,6 @@
       "fom_pdfid": "54880",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54880",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N143_MAYO_1935.jpg",
-      "cover_local": "covers/N143.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -15614,7 +15470,6 @@
       "fom_pdfid": "54882",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54882",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N144_JUNIO_1935.jpg",
-      "cover_local": "covers/N144.jpg",
       "note_authors": [
         {
           "name": "Dámaso Alonso",
@@ -15707,7 +15562,6 @@
       "fom_pdfid": "54884",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54884",
       "cover_source_url": null,
-      "cover_local": null,
       "note_authors": [
         {
           "name": "Guillermo de Torre",
@@ -15792,7 +15646,6 @@
       "fom_pdfid": "54887",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54887",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N146_AGOSTO_1935.jpg",
-      "cover_local": "covers/N146.jpg",
       "note_authors": [
         {
           "name": "Luis Amado Blanco",
@@ -15889,7 +15742,6 @@
       "fom_pdfid": "54890",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54890",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N147_SEPTIEMBRE_1935.jpg",
-      "cover_local": "covers/N147.jpg",
       "note_authors": [
         {
           "name": "José Antonio Maravall",
@@ -15974,7 +15826,6 @@
       "fom_pdfid": "54893",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54893",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N148_OCTUBRE_1935.jpg",
-      "cover_local": "covers/N148.jpg",
       "note_authors": [
         {
           "name": "Agustín Miranda Junco",
@@ -16063,7 +15914,6 @@
       "fom_pdfid": "54898",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54898",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N149_NOVIEMBRE_1935.jpg",
-      "cover_local": "covers/N149.jpg",
       "note_authors": [
         {
           "name": "Agustín Miranda Junco",
@@ -16160,7 +16010,6 @@
       "fom_pdfid": "54900",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54900",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N150_DICIEMBRE_1935.jpg",
-      "cover_local": "covers/N150.jpg",
       "note_authors": [
         {
           "name": "Manuel Abril",
@@ -16281,7 +16130,6 @@
       "fom_pdfid": "54902",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54902",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N151_ENERO_1936.jpg",
-      "cover_local": "covers/N151.jpg",
       "note_authors": [
         {
           "name": "Corpus Barga",
@@ -16392,7 +16240,6 @@
       "fom_pdfid": "54904",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54904",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N152_FEBRERO_1936.jpg",
-      "cover_local": "covers/N152.jpg",
       "note_authors": [
         {
           "name": "Juan Díaz del Moral",
@@ -16481,7 +16328,6 @@
       "fom_pdfid": "54906",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54906",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N153_MARZO_1936.jpg",
-      "cover_local": "covers/N153.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -16570,7 +16416,6 @@
       "fom_pdfid": "54908",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54908",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N154_ABRIL_1936.jpg",
-      "cover_local": "covers/N154.jpg",
       "note_authors": [
         {
           "name": "Benjamín Jarnés",
@@ -16659,7 +16504,6 @@
       "fom_pdfid": "54910",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54910",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N155_MAYO_1936.jpg",
-      "cover_local": "covers/N155.jpg",
       "note_authors": [
         {
           "name": "Ricardo Gullón",
@@ -16766,7 +16610,6 @@
       "fom_pdfid": "54912",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54912",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N156_JUNIO_1936.jpg",
-      "cover_local": "covers/N156.jpg",
       "note_authors": [
         {
           "name": "Lino Novás Calvo",
@@ -16855,7 +16698,6 @@
       "fom_pdfid": "54914",
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54914",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N157_JULIO_1936.jpg",
-      "cover_local": "covers/N157.jpg",
       "note_authors": [
         {
           "name": "Ricardo Gullón",

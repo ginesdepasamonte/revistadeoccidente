@@ -49,7 +49,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CACHE_DIR = ROOT / "cache"
 DATA_DIR = ROOT / "data"
-COVERS_DIR = ROOT / "covers"          # miniaturas de portada (versionadas en el repo)
+COVERS_DIR = ROOT / "covers"          # miniaturas opcionales (--covers); no versionadas
 
 USER_AGENT = (
     "RevistaOccidenteIndex/1.0 (indice bibliografico no comercial; "
@@ -621,7 +621,6 @@ def build_dataset(fom: dict[int, dict], dialnet: dict[int, dict],
             "fom_pdfid": f["pdfid"],
             "fom_viewer_url": FOM_VIEWER.format(pdfid=f["pdfid"]),
             "cover_source_url": f.get("cover_url"),
-            "cover_local": f.get("cover_local"),
             "note_authors": note_authors.get(num, []),
             "dialnet_ejemplar_id": d["ejemplar_id"] if d else None,
             "dialnet_year_url": DIALNET_YEAR_URL.format(year=year),
@@ -794,13 +793,6 @@ def generate_indice_md(dataset: dict) -> str:
             L.append(f'<a id="ejemplar-{num}"></a>')
             L.append(f"### Nº {num} — {cap_month(iss['month_name'])} de {year}")
             L.append("")
-            if iss.get("cover_local"):
-                alt = f"Portada del Nº {num} — {cap_month(iss['month_name'])} de {year}"
-                L.append(
-                    f'[<img src="{iss["cover_local"]}" alt="{alt}" width="150">]'
-                    f'({iss["fom_viewer_url"]})'
-                )
-                L.append("")
             L.append(
                 f"[📖 Leer el ejemplar digitalizado en la Fundación Ortega-Marañón]"
                 f"({iss['fom_viewer_url']})"
@@ -958,12 +950,6 @@ def generate_indice_md(dataset: dict) -> str:
         "por defecto no se utiliza."
     )
     L.append(
-        "- **Portadas:** las miniaturas (carpeta `covers/`) se han descargado del archivo "
-        "de la Fundación Ortega-Marañón y enlazan al visor oficial. No se descargan ni "
-        "redistribuyen los PDF. El Nº 145 no tiene miniatura porque su ficha en el archivo "
-        "muestra una imagen equivocada (la del Nº 148)."
-    )
-    L.append(
         "- **En resumen:** este proyecto debe entenderse como una **herramienta de "
         "consulta bibliográfica (finding aid)**, no como un análisis exhaustivo página "
         "a página de cada ejemplar."
@@ -999,7 +985,7 @@ def generate_readme(dataset: dict) -> str:
     return f"""# Revista de Occidente — Primera época (1923–1936)
 
 Índice bibliográfico de los **{n} números** de la primera época (julio de 1923 –
-julio de 1936), con la portada y el enlace al facsímil oficial de cada ejemplar.
+julio de 1936), con enlace al facsímil oficial de cada ejemplar.
 
 ## 📖 → [Abrir el índice](indice.md)
 
@@ -1047,14 +1033,15 @@ def main() -> None:
     ap.add_argument("--author-canonical", action="store_true",
                     help="(lento; Dialnet limita el ritmo) descargar DC.creator por autor "
                          "para ordenar el índice por apellido")
-    ap.add_argument("--no-covers", action="store_true",
-                    help="no descargar las miniaturas de portada")
+    ap.add_argument("--covers", action="store_true",
+                    help="(opcional) descargar las miniaturas de portada a covers/ "
+                         "(no se muestran en el índice ni se versionan)")
     ap.add_argument("--no-notes", action="store_true",
                     help="no construir el índice inverso de autores de «Notas» (FOM)")
     args = ap.parse_args()
 
     fom, fom_notes = collect_fom(offline=args.offline)
-    if not args.no_covers:
+    if args.covers:
         fom_notes += download_covers(fom, offline=args.offline)
     note_authors = {} if args.no_notes else collect_fom_notes(fom, offline=args.offline)
     dialnet = collect_dialnet(offline=args.offline)

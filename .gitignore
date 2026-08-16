@@ -1,6 +1,9 @@
 # Caché de respuestas HTTP (regenerable; no versionar)
 cache/
 
+# Miniaturas de portada opcionales (descargables con --covers; no versionar)
+covers/
+
 # Informes de la Fase 1 (planificación; no forman parte del producto público)
 docs/
 
