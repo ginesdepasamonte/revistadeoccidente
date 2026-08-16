@@ -71,6 +71,21 @@ FOM_ARCHIVE_PAGES = [
 ]
 FOM_VIEWER = "https://ortegaygasset.edu/visor-pdfro/?pdf={pdfid}"
 
+# Archivo por autor de la FOM (índice inverso). Recupera los autores de la sección
+# «Notas», que Dialnet no indexa.
+FOM_AUTHOR_LETTERS = [
+    "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+    "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "y-z",
+]
+FOM_AUTHOR_URL = (
+    "https://ortegaygasset.edu/publicaciones/revista-de-occidente/"
+    "archivo-ro/autor/autor-{letter}/"
+)
+_NAME_PARTICLES = {
+    "de", "del", "la", "las", "los", "y", "e", "da", "do", "dos",
+    "van", "von", "di", "du", "le", "des", "della",
+}
+
 DIALNET_JOURNAL_CODE = "1203"
 DIALNET_ISSN = "0034-8635"
 DIALNET_YEARS = list(range(1923, 1937))  # 1923..1936
@@ -187,6 +202,29 @@ def slugify_ascii(s: str) -> str:
 def sort_key(s: str) -> str:
     """Clave de ordenación insensible a acentos y mayúsculas (no altera el texto mostrado)."""
     return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii").lower()
+
+
+def _case_word(w: str) -> str:
+    return "-".join(p[:1].upper() + p[1:].lower() for p in w.split("-"))
+
+
+def reverse_name(fom_name: str) -> str:
+    """Convierte la forma de la FOM «APELLIDOS, Nombre» a «Nombre Apellidos».
+
+    La coma marca de forma inequívoca el corte entre apellidos y nombre, por lo que
+    la inversión es determinista (no se adivina el apellido). Solo se ajusta el uso
+    de mayúsculas y se conservan partículas (de, la, y…) en minúscula.
+    """
+    if "," not in fom_name:
+        return fom_name
+    surnames, given = fom_name.split(",", 1)
+    given = given.split("(")[0].strip()  # descarta el nombre real entre paréntesis
+    fixed = [
+        w.lower() if w.lower() in _NAME_PARTICLES else _case_word(w)
+        for w in surnames.strip().split()
+    ]
+    surnames_disp = " ".join(fixed)
+    return f"{given} {surnames_disp}".strip() if given else surnames_disp
 
 
 # --------------------------------------------------------------------------- #
@@ -332,6 +370,47 @@ def download_covers(fom: dict[int, dict], offline: bool = False) -> list[str]:
         )
     print(f"  portadas disponibles: {got}/{len(fom)}")
     return notes
+
+
+_TITLE_SPAN_RE = re.compile(r'<span class="vc_tta-title-text">(.*?)</span>', re.S)
+_NOTE_BTN_RE = re.compile(r'href="[^"]*visor-pdfro/\?pdf=(\d+)"[^>]*>(.*?)</a>', re.S)
+_NOTE_LABEL_RE = re.compile(r"(\d{4})-(\d{2})\s+Notas", re.I)
+
+
+def collect_fom_notes(fom: dict[int, dict], offline: bool = False) -> dict[int, list]:
+    """Índice inverso: para cada ejemplar, los autores que firman en la sección «Notas».
+
+    Se obtiene del archivo por autor de la FOM (24 páginas por letra). Dialnet no
+    indexa las notas, por lo que esta es la única fuente estructurada de esos autores.
+    """
+    print("Paso 1c — FOM: índice inverso de autores de la sección «Notas…»")
+    by_ym = {(v["year"], v["month_num"]): num for num, v in fom.items()}
+    per_issue: dict[int, dict[str, str]] = {}
+    for letter in FOM_AUTHOR_LETTERS:
+        text = fetch(FOM_AUTHOR_URL.format(letter=letter), offline=offline)
+        titles = list(_TITLE_SPAN_RE.finditer(text))
+        for i, tm in enumerate(titles):
+            author = clean(tm.group(1))
+            start = tm.end()
+            end = titles[i + 1].start() if i + 1 < len(titles) else len(text)
+            body = text[start:end]
+            for bm in _NOTE_BTN_RE.finditer(body):
+                label = clean(bm.group(2))
+                nm = _NOTE_LABEL_RE.search(label)
+                if not nm:
+                    continue
+                num = by_ym.get((int(nm.group(1)), int(nm.group(2))))
+                if num is None:
+                    continue
+                per_issue.setdefault(num, {}).setdefault(author, reverse_name(author))
+    result: dict[int, list] = {}
+    for num, mapping in per_issue.items():
+        items = [{"name": disp, "name_fom": fom_n} for fom_n, disp in mapping.items()]
+        items.sort(key=lambda x: sort_key(x["name_fom"]))
+        result[num] = items
+    total = sum(len(v) for v in result.values())
+    print(f"  autores de notas: {total} en {len(result)} ejemplares")
+    return result
 
 
 # --------------------------------------------------------------------------- #
@@ -505,9 +584,11 @@ def collect_author_names(dataset: dict, offline: bool = False) -> tuple[dict, li
 # --------------------------------------------------------------------------- #
 
 def build_dataset(fom: dict[int, dict], dialnet: dict[int, dict],
-                  fom_notes: list[str] | None = None) -> dict:
+                  fom_notes: list[str] | None = None,
+                  note_authors: dict[int, list] | None = None) -> dict:
     print("Paso 3 — Cruzando FOM y Dialnet (número + año) y validando…")
     problems: list[str] = list(fom_notes or [])
+    note_authors = note_authors or {}
 
     fom_nums = sorted(fom)
     if fom_nums != list(range(1, EXPECTED_ISSUE_COUNT + 1)):
@@ -541,6 +622,7 @@ def build_dataset(fom: dict[int, dict], dialnet: dict[int, dict],
             "fom_viewer_url": FOM_VIEWER.format(pdfid=f["pdfid"]),
             "cover_source_url": f.get("cover_url"),
             "cover_local": f.get("cover_local"),
+            "note_authors": note_authors.get(num, []),
             "dialnet_ejemplar_id": d["ejemplar_id"] if d else None,
             "dialnet_year_url": DIALNET_YEAR_URL.format(year=year),
             "contributions": [
@@ -587,7 +669,22 @@ def build_dataset(fom: dict[int, dict], dialnet: dict[int, dict],
             seen.add(key)
 
     total_contribs = sum(len(i["contributions"]) for i in issues)
-    print(f"  Ejemplares: {len(issues)} · contribuciones: {total_contribs}")
+    total_note_authors = sum(len(i["note_authors"]) for i in issues)
+    # Ejemplares con autores de notas (FOM) pero sin línea «Notas» en Dialnet
+    notas_only_fom = [
+        i["issue_number"] for i in issues
+        if i["note_authors"] and not any(
+            c["title"].strip().lower() == "notas" for c in i["contributions"]
+        )
+    ]
+    if notas_only_fom:
+        problems.append(
+            "Notas presentes en el archivo por autor de la FOM pero sin entrada «Notas» "
+            f"en Dialnet en el/los número(s) {notas_only_fom} (se añade la sección con "
+            "sus autores)."
+        )
+    print(f"  Ejemplares: {len(issues)} · contribuciones: {total_contribs}"
+          f" · autores de notas: {total_note_authors}")
     print(f"  Incidencias registradas: {len(problems)}")
 
     return {
@@ -657,11 +754,15 @@ def generate_indice_md(dataset: dict) -> str:
         "principalmente de **Dialnet** (ISSN 0034-8635)."
     )
     L.append(
-        "- **Limitación importante:** Dialnet no siempre indexa la totalidad del "
-        "contenido de cada número (puede omitir notas, reseñas, textos preliminares o "
-        "secciones menores). Por tanto, este índice es una **herramienta de consulta "
-        "bibliográfica (finding aid)**, no una transcripción exhaustiva página a página. "
-        "Véase la [nota de metodología y cobertura](#metodologia-y-cobertura)."
+        "- Los **autores de la sección «Notas»** (que Dialnet no indexa) se recuperan del "
+        "**archivo por autor de la Fundación Ortega-Marañón** y se listan bajo cada «Notas»."
+    )
+    L.append(
+        "- **Limitación importante:** aun así, el detalle por contribución depende de Dialnet, "
+        "que no siempre indexa la totalidad del contenido (puede omitir reseñas, textos "
+        "preliminares o secciones menores). Por tanto, este índice es una **herramienta de "
+        "consulta bibliográfica (finding aid)**, no una transcripción exhaustiva página a "
+        "página. Véase la [nota de metodología y cobertura](#metodologia-y-cobertura)."
     )
     L.append("")
     L.append("---")
@@ -712,6 +813,8 @@ def generate_indice_md(dataset: dict) -> str:
                 )
                 L.append("")
                 continue
+            note_list = iss.get("note_authors") or []
+            notas_done = False
             for c in iss["contributions"]:
                 au = authors_display(c)
                 pages = fmt_pages(c)
@@ -724,6 +827,14 @@ def generate_indice_md(dataset: dict) -> str:
                     bits.append(f", {pages}")
                 bits.append(tipo)
                 L.append("* " + "".join(bits))
+                if note_list and not notas_done and c["title"].strip().lower() == "notas":
+                    for a in note_list:
+                        L.append(f"  * {a['name']}")
+                    notas_done = True
+            if note_list and not notas_done:
+                L.append("* *Notas*")
+                for a in note_list:
+                    L.append(f"  * {a['name']}")
             L.append("")
         L.append("[↑ Años](#anios)")
         L.append("")
@@ -821,9 +932,17 @@ def generate_indice_md(dataset: dict) -> str:
     L.append(
         "- **Cobertura bibliográfica (no exhaustiva):** Dialnet no indexa "
         "necesariamente todo el contenido de cada número. Es habitual que falten "
-        "notas, reseñas, textos preliminares y secciones menores. Cuando la paginación "
+        "reseñas, textos preliminares y secciones menores. Cuando la paginación "
         "sugiere que faltan páginas entre contribuciones, puede tratarse de material no "
         "indexado; **no se ha rellenado por conjetura**."
+    )
+    L.append(
+        "- **Autores de «Notas» (índice inverso):** Dialnet suele registrar la sección de "
+        "notas como una sola entrada «Notas» sin autor. Los nombres que aparecen bajo cada "
+        "«Notas» se han recuperado del **archivo por autor de la FOM** cruzando por año y mes. "
+        "Se listan **solo los autores** (sin título ni páginas de cada nota). El nombre se "
+        "invierte de «Apellidos, Nombre» a «Nombre Apellidos» usando la coma como separador "
+        "(sin adivinar el apellido)."
     )
     L.append(
         "- **Fidelidad:** se preservan los títulos y nombres de autor tal como los "
@@ -890,8 +1009,10 @@ Números por año, **índice de autores** e **índice de títulos**.
 
 - **Originales digitalizados:** [Fundación Ortega-Marañón](https://ortegaygasset.edu/publicaciones/revista-de-occidente/archivo-ro/numero/).
   Cada número enlaza a su visor oficial. Este repositorio **no aloja los PDF**.
-- **Metadatos bibliográficos:** Dialnet (ISSN 0034-8635). Puede omitir notas y reseñas
-  menores: es una **herramienta de consulta**, no una transcripción exhaustiva.
+- **Metadatos bibliográficos:** Dialnet (ISSN 0034-8635). Puede omitir reseñas y
+  secciones menores: es una **herramienta de consulta**, no una transcripción exhaustiva.
+- **Autores de la sección «Notas»:** recuperados del archivo por autor de la FOM
+  (Dialnet no los indexa) y listados bajo cada «Notas».
 - **Reproducible:** `data/indice.json` + `python3 scripts/build_index.py`.
 """
 
@@ -928,13 +1049,16 @@ def main() -> None:
                          "para ordenar el índice por apellido")
     ap.add_argument("--no-covers", action="store_true",
                     help="no descargar las miniaturas de portada")
+    ap.add_argument("--no-notes", action="store_true",
+                    help="no construir el índice inverso de autores de «Notas» (FOM)")
     args = ap.parse_args()
 
     fom, fom_notes = collect_fom(offline=args.offline)
     if not args.no_covers:
         fom_notes += download_covers(fom, offline=args.offline)
+    note_authors = {} if args.no_notes else collect_fom_notes(fom, offline=args.offline)
     dialnet = collect_dialnet(offline=args.offline)
-    dataset = build_dataset(fom, dialnet, fom_notes)
+    dataset = build_dataset(fom, dialnet, fom_notes, note_authors)
 
     if args.author_canonical:
         # Opcional y LENTO: Dialnet limita el ritmo con retos 503, por lo que esta

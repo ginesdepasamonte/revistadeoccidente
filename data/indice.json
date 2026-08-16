@@ -17,7 +17,8 @@
       "Nº 1: posible contenido no indexado (termina en pág. 113; el Nº 2 empieza en pág. 138)",
       "Nº 2: posible contenido no indexado (termina en pág. 247; el Nº 3 empieza en pág. 265)",
       "Nº 55: posible contenido no indexado (termina en pág. 139; el Nº 56 empieza en pág. 145)",
-      "Nº 151: posible contenido no indexado (termina en pág. 107; el Nº 152 empieza en pág. 113)"
+      "Nº 151: posible contenido no indexado (termina en pág. 107; el Nº 152 empieza en pág. 113)",
+      "Notas presentes en el archivo por autor de la FOM pero sin entrada «Notas» en Dialnet en el/los número(s) [1, 2, 3] (se añade la sección con sus autores)."
     ]
   },
   "issues": [
@@ -30,6 +31,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=53587",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N001_JULIO_1923.jpg",
       "cover_local": "covers/N001.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Alfonso Reyes",
+          "name_fom": "REYES, Alfonso"
+        }
+      ],
       "dialnet_ejemplar_id": "236854",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1923",
       "contributions": [
@@ -128,6 +147,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=53991",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N002_AGOSTO_1923.jpg",
       "cover_local": "covers/N002.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "José Ortega y Gasset",
+          "name_fom": "ORTEGA Y GASSET, José"
+        }
+      ],
       "dialnet_ejemplar_id": "312934",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1923",
       "contributions": [
@@ -254,6 +291,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=53994",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N003_SEPTIEMBRE_1923.jpg",
       "cover_local": "covers/N003.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Manuel G. Morente",
+          "name_fom": "G. MORENTE, Manuel"
+        },
+        {
+          "name": "José Ortega y Gasset",
+          "name_fom": "ORTEGA Y GASSET, José"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "313021",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1923",
       "contributions": [
@@ -361,6 +424,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=53996",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N004_OCTUBRE_1923.jpg",
       "cover_local": "covers/N004.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        },
+        {
+          "name": "Luis de Zulueta",
+          "name_fom": "ZULUETA, Luis de"
+        }
+      ],
       "dialnet_ejemplar_id": "315403",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1923",
       "contributions": [
@@ -491,6 +576,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=53998",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N005_NOVIEMBRE_1923.jpg",
       "cover_local": "covers/N005.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "José Miguel Sacristán",
+          "name_fom": "SACRISTÁN, José Miguel"
+        }
+      ],
       "dialnet_ejemplar_id": "315426",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1923",
       "contributions": [
@@ -602,6 +705,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54000",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N006_DICIEMBRE_1923.jpg",
       "cover_local": "covers/N006.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "José Ortega y Gasset",
+          "name_fom": "ORTEGA Y GASSET, José"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        },
+        {
+          "name": "Luis de Zulueta",
+          "name_fom": "ZULUETA, Luis de"
+        }
+      ],
       "dialnet_ejemplar_id": "315521",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1923",
       "contributions": [
@@ -695,6 +816,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54006",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N007_ENERO_1924.jpg",
       "cover_local": "covers/N007.jpg",
+      "note_authors": [
+        {
+          "name": "Ricardo Baeza",
+          "name_fom": "BAEZA, Ricardo"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "315543",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -788,6 +931,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54008",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N008_FEBRERO_1924.jpg",
       "cover_local": "covers/N008.jpg",
+      "note_authors": [
+        {
+          "name": "Ricardo Baeza",
+          "name_fom": "BAEZA, Ricardo"
+        },
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Pedro Salinas",
+          "name_fom": "SALINAS, Pedro"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "315549",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -895,6 +1060,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54013",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N009_MARZO_1924.jpg",
       "cover_local": "covers/N009.jpg",
+      "note_authors": [
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "315567",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -988,6 +1175,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54016",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N010_ABRIL_1924.jpg",
       "cover_local": "covers/N010.jpg",
+      "note_authors": [
+        {
+          "name": "Adolfo Bonilla y San Martín",
+          "name_fom": "BONILLA Y SAN MARTÍN, Adolfo"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Manuel G. Morente",
+          "name_fom": "G. MORENTE, Manuel"
+        },
+        {
+          "name": "Ramón Gómez de la Serna",
+          "name_fom": "GÓMEZ DE LA SERNA, Ramón"
+        }
+      ],
       "dialnet_ejemplar_id": "317907",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -1067,6 +1272,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54018",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N011_MAYO_1924.jpg",
       "cover_local": "covers/N011.jpg",
+      "note_authors": [
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "José Ortega y Gasset",
+          "name_fom": "ORTEGA Y GASSET, José"
+        },
+        {
+          "name": "Adolfo Salazar",
+          "name_fom": "SALAZAR, Adolfo"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        }
+      ],
       "dialnet_ejemplar_id": "317989",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -1169,6 +1392,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54023",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N012_JUNIO_1924.jpg",
       "cover_local": "covers/N012.jpg",
+      "note_authors": [
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Eugenio Montes",
+          "name_fom": "MONTES, Eugenio"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        }
+      ],
       "dialnet_ejemplar_id": "317997",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -1262,6 +1499,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54025",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N013_JULIO_1924.jpg",
       "cover_local": "covers/N013.jpg",
+      "note_authors": [
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Adolfo Salazar",
+          "name_fom": "SALAZAR, Adolfo"
+        }
+      ],
       "dialnet_ejemplar_id": "318839",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -1355,6 +1606,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54027",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N014_AGOSTO_1924.jpg",
       "cover_local": "covers/N014.jpg",
+      "note_authors": [
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Pedro Perdomo",
+          "name_fom": "PERDOMO, Pedro"
+        }
+      ],
       "dialnet_ejemplar_id": "318908",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -1485,6 +1754,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54029",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N015_SEPTIEMBRE_1924.jpg",
       "cover_local": "covers/N015.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        }
+      ],
       "dialnet_ejemplar_id": "319177",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -1550,6 +1837,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54031",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N016_OCTUBRE_1924.jpg",
       "cover_local": "covers/N016.jpg",
+      "note_authors": [
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "José Gómez de la Serna Favre",
+          "name_fom": "GÓMEZ DE LA SERNA FAVRE, José"
+        },
+        {
+          "name": "Gonzalo Rodríguez Lafora",
+          "name_fom": "RODRÍGUEZ LAFORA, Gonzalo"
+        },
+        {
+          "name": "Pedro Salinas",
+          "name_fom": "SALINAS, Pedro"
+        }
+      ],
       "dialnet_ejemplar_id": "320364",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -1666,6 +1971,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54033",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N017_NOVIEMBRE_1924.jpg",
       "cover_local": "covers/N017.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "Manuel G. Morente",
+          "name_fom": "G. MORENTE, Manuel"
+        },
+        {
+          "name": "Ernesto Giménez Caballero",
+          "name_fom": "GIMÉNEZ CABALLERO, Ernesto"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        },
+        {
+          "name": "J. J. de Urríes y Azara",
+          "name_fom": "URRÍES Y AZARA, J. J. de"
+        }
+      ],
       "dialnet_ejemplar_id": "320377",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -1773,6 +2104,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54035",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N018_DICIEMBRE_1924.jpg",
       "cover_local": "covers/N018.jpg",
+      "note_authors": [
+        {
+          "name": "Ernesto Giménez Caballero",
+          "name_fom": "GIMÉNEZ CABALLERO, Ernesto"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "320479",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1924",
       "contributions": [
@@ -1866,6 +2211,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54039",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N019_ENERO_1925.jpg",
       "cover_local": "covers/N019.jpg",
+      "note_authors": [
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Manuel G. Morente",
+          "name_fom": "G. MORENTE, Manuel"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        },
+        {
+          "name": "José Vallejo",
+          "name_fom": "VALLEJO, José"
+        }
+      ],
       "dialnet_ejemplar_id": "321409",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -1973,6 +2336,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54041",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N020_FEBRERO_1925.jpg",
       "cover_local": "covers/N020.jpg",
+      "note_authors": [
+        {
+          "name": "Pedro Bosch Gimpera",
+          "name_fom": "BOSCH GIMPERA, Pedro"
+        },
+        {
+          "name": "Américo Castro",
+          "name_fom": "CASTRO, Américo"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Luis de Zulueta",
+          "name_fom": "ZULUETA, Luis de"
+        }
+      ],
       "dialnet_ejemplar_id": "321417",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -2066,6 +2447,40 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54043",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N021_MARZO_1925.jpg",
       "cover_local": "covers/N021.jpg",
+      "note_authors": [
+        {
+          "name": "Mauricio Bacarisse",
+          "name_fom": "BACARISSE, Mauricio"
+        },
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "José M. de Cossio",
+          "name_fom": "COSSIO, José M. de"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Ernesto Giménez Caballero",
+          "name_fom": "GIMÉNEZ CABALLERO, Ernesto"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Ramón María Tenreiro",
+          "name_fom": "TENREIRO, Ramón María"
+        }
+      ],
       "dialnet_ejemplar_id": "321440",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -2145,6 +2560,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54045",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N022_ABRIL_1925.jpg",
       "cover_local": "covers/N022.jpg",
+      "note_authors": [
+        {
+          "name": "Marcelle Auclair",
+          "name_fom": "AUCLAIR, Marcelle"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Manuel G. Morente",
+          "name_fom": "G. MORENTE, Manuel"
+        },
+        {
+          "name": "J. M. S.",
+          "name_fom": "J. M. S."
+        }
+      ],
       "dialnet_ejemplar_id": "322408",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -2224,6 +2657,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54088",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N023_MAYO_1925.jpg",
       "cover_local": "covers/N023.jpg",
+      "note_authors": [
+        {
+          "name": "Mauricio Bacarisse",
+          "name_fom": "BACARISSE, Mauricio"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Manuel G. Morente",
+          "name_fom": "G. MORENTE, Manuel"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        }
+      ],
       "dialnet_ejemplar_id": "322512",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -2317,6 +2776,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54090",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/09/RDO_N024_JUNIO_1925.jpg",
       "cover_local": "covers/N024.jpg",
+      "note_authors": [
+        {
+          "name": "Mauricio Bacarisse",
+          "name_fom": "BACARISSE, Mauricio"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "P. J Lucia",
+          "name_fom": "LUCIA, P. J"
+        }
+      ],
       "dialnet_ejemplar_id": "322514",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -2410,6 +2895,36 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54092",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N025_JULIO_1925.jpg",
       "cover_local": "covers/N025.jpg",
+      "note_authors": [
+        {
+          "name": "Pedro Bosch Gimpera",
+          "name_fom": "BOSCH GIMPERA, Pedro"
+        },
+        {
+          "name": "Ramón Carande",
+          "name_fom": "CARANDE, Ramón"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Eugenio Montes",
+          "name_fom": "MONTES, Eugenio"
+        },
+        {
+          "name": "Ramón María Tenreiro",
+          "name_fom": "TENREIRO, Ramón María"
+        }
+      ],
       "dialnet_ejemplar_id": "322942",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -2517,6 +3032,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54094",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N026_AGOSTO_1925.jpg",
       "cover_local": "covers/N026.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "José M. de Cossio",
+          "name_fom": "COSSIO, José M. de"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Ramón María Tenreiro",
+          "name_fom": "TENREIRO, Ramón María"
+        }
+      ],
       "dialnet_ejemplar_id": "322950",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -2610,6 +3147,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54096",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N027_SEPTIEMBRE_1925.jpg",
       "cover_local": "covers/N027.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Ernesto Giménez Caballero",
+          "name_fom": "GIMÉNEZ CABALLERO, Ernesto"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "323003",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -2717,6 +3280,40 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54098",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N028_OCTUBRE_1925.jpg",
       "cover_local": "covers/N028.jpg",
+      "note_authors": [
+        {
+          "name": "Blas Cabrera",
+          "name_fom": "CABRERA, Blas"
+        },
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "José Gómez de la Serna Favre",
+          "name_fom": "GÓMEZ DE LA SERNA FAVRE, José"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Eugenio Montes",
+          "name_fom": "MONTES, Eugenio"
+        },
+        {
+          "name": "José Moreno Villa",
+          "name_fom": "MORENO VILLA, José"
+        },
+        {
+          "name": "Adolfo Salazar",
+          "name_fom": "SALAZAR, Adolfo"
+        }
+      ],
       "dialnet_ejemplar_id": "323753",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -2810,6 +3407,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54100",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N029_NOVIEMBRE_1925.jpg",
       "cover_local": "covers/N029.jpg",
+      "note_authors": [
+        {
+          "name": "Mauricio Bacarisse",
+          "name_fom": "BACARISSE, Mauricio"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Adolfo Salazar",
+          "name_fom": "SALAZAR, Adolfo"
+        },
+        {
+          "name": "Xavier Zubiri",
+          "name_fom": "ZUBIRI, Xavier"
+        }
+      ],
       "dialnet_ejemplar_id": "323767",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -2903,6 +3522,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54102",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N030_DICIEMBRE_1925.jpg",
       "cover_local": "covers/N030.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Juan Dantín Cereceda",
+          "name_fom": "DANTÍN CERECEDA, Juan"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "José Miguel Sacristán",
+          "name_fom": "SACRISTÁN, José Miguel"
+        },
+        {
+          "name": "Adolfo Salazar",
+          "name_fom": "SALAZAR, Adolfo"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "323772",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1925",
       "contributions": [
@@ -3010,6 +3655,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54105",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N031_ENERO_1926.jpg",
       "cover_local": "covers/N031.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "José M. de Cossio",
+          "name_fom": "COSSIO, José M. de"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "324230",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -3089,6 +3752,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54107",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N032_FEBRERO_1926.jpg",
       "cover_local": "covers/N032.jpg",
+      "note_authors": [
+        {
+          "name": "Pedro Bosch Gimpera",
+          "name_fom": "BOSCH GIMPERA, Pedro"
+        },
+        {
+          "name": "Ramón Carande",
+          "name_fom": "CARANDE, Ramón"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "324243",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -3191,6 +3872,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54109",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N033_MARZO_1926.jpg",
       "cover_local": "covers/N033.jpg",
+      "note_authors": [
+        {
+          "name": "Manuel G. Morente",
+          "name_fom": "G. MORENTE, Manuel"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Ramón María Tenreiro",
+          "name_fom": "TENREIRO, Ramón María"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "324276",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -3284,6 +3987,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54111",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N034_ABRIL_1926.jpg",
       "cover_local": "covers/N034.jpg",
+      "note_authors": [
+        {
+          "name": "Marcelle Auclair",
+          "name_fom": "AUCLAIR, Marcelle"
+        },
+        {
+          "name": "José M. de Cossio",
+          "name_fom": "COSSIO, José M. de"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Adolfo Salazar",
+          "name_fom": "SALAZAR, Adolfo"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "324648",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -3377,6 +4106,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54113",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N035_MAYO_1926.jpg",
       "cover_local": "covers/N035.jpg",
+      "note_authors": [
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Emilio García Gómez",
+          "name_fom": "GARCÍA GÓMEZ, Emilio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Esteban Salazar y Chapela",
+          "name_fom": "SALAZAR Y CHAPELA, Esteban"
+        },
+        {
+          "name": "Luis de Zulueta",
+          "name_fom": "ZULUETA, Luis de"
+        }
+      ],
       "dialnet_ejemplar_id": "324678",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -3456,6 +4211,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54386",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N036_JUNIO_1926.jpg",
       "cover_local": "covers/N036.jpg",
+      "note_authors": [
+        {
+          "name": "Ramón Carande",
+          "name_fom": "CARANDE, Ramón"
+        },
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        }
+      ],
       "dialnet_ejemplar_id": "324689",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -3563,6 +4336,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54388",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N037_JULIO_1926.jpg",
       "cover_local": "covers/N037.jpg",
+      "note_authors": [
+        {
+          "name": "Américo Castro",
+          "name_fom": "CASTRO, Américo"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "name_fom": "DÍEZ-CANEDO, Enrique"
+        },
+        {
+          "name": "Manuel G. Morente",
+          "name_fom": "G. MORENTE, Manuel"
+        },
+        {
+          "name": "José Gómez de la Serna Favre",
+          "name_fom": "GÓMEZ DE LA SERNA FAVRE, José"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "324812",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -3656,6 +4455,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54390",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N038_AGOSTO_1926.jpg",
       "cover_local": "covers/N038.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Dantín Cereceda",
+          "name_fom": "DANTÍN CERECEDA, Juan"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Esteban Salazar y Chapela",
+          "name_fom": "SALAZAR Y CHAPELA, Esteban"
+        },
+        {
+          "name": "Adolfo Salazar",
+          "name_fom": "SALAZAR, Adolfo"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "325078",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -3735,6 +4560,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54392",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N039_SEPTIEMBRE_1926.jpg",
       "cover_local": "covers/N039.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Esteban Salazar y Chapela",
+          "name_fom": "SALAZAR Y CHAPELA, Esteban"
+        }
+      ],
       "dialnet_ejemplar_id": "325135",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -3842,6 +4685,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54395",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N040_OCTUBRE_1926.jpg",
       "cover_local": "covers/N040.jpg",
+      "note_authors": [
+        {
+          "name": "Ricardo Baeza",
+          "name_fom": "BAEZA, Ricardo"
+        },
+        {
+          "name": "Pedro Bosch Gimpera",
+          "name_fom": "BOSCH GIMPERA, Pedro"
+        },
+        {
+          "name": "Ramón Carande",
+          "name_fom": "CARANDE, Ramón"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "José M. de Cossio",
+          "name_fom": "COSSIO, José M. de"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "325199",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -3935,6 +4804,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54397",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N041_NOVIEMBRE_1926.jpg",
       "cover_local": "covers/N041.jpg",
+      "note_authors": [
+        {
+          "name": "Pedro Bosch Gimpera",
+          "name_fom": "BOSCH GIMPERA, Pedro"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "325230",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -4028,6 +4919,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54399",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N042_DICIEMBRE_1926.jpg",
       "cover_local": "covers/N042.jpg",
+      "note_authors": [
+        {
+          "name": "Mauricio Bacarisse",
+          "name_fom": "BACARISSE, Mauricio"
+        },
+        {
+          "name": "Pedro Bosch Gimpera",
+          "name_fom": "BOSCH GIMPERA, Pedro"
+        },
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "José Gómez de la Serna Favre",
+          "name_fom": "GÓMEZ DE LA SERNA FAVRE, José"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Xavier Zubiri",
+          "name_fom": "ZUBIRI, Xavier"
+        }
+      ],
       "dialnet_ejemplar_id": "325243",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1926",
       "contributions": [
@@ -4135,6 +5052,36 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54401",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N043_ENERO_1927.jpg",
       "cover_local": "covers/N043.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Esteban Salazar y Chapela",
+          "name_fom": "SALAZAR Y CHAPELA, Esteban"
+        },
+        {
+          "name": "Ramón María Tenreiro",
+          "name_fom": "TENREIRO, Ramón María"
+        }
+      ],
       "dialnet_ejemplar_id": "326084",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -4256,6 +5203,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54403",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N044_FEBRERO_1927.jpg",
       "cover_local": "covers/N044.jpg",
+      "note_authors": [
+        {
+          "name": "José M. de Cossio",
+          "name_fom": "COSSIO, José M. de"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Esteban Salazar y Chapela",
+          "name_fom": "SALAZAR Y CHAPELA, Esteban"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "326129",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -4335,6 +5308,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54435",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N045_MARZO_1927.jpg",
       "cover_local": "covers/N045.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Luis de Zulueta",
+          "name_fom": "ZULUETA, Luis de"
+        }
+      ],
       "dialnet_ejemplar_id": "326134",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -4437,6 +5428,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54437",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N046_ABRIL_1927.jpg",
       "cover_local": "covers/N046.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "José M. de Cossio",
+          "name_fom": "COSSIO, José M. de"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Esteban Salazar y Chapela",
+          "name_fom": "SALAZAR Y CHAPELA, Esteban"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        }
+      ],
       "dialnet_ejemplar_id": "326498",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -4525,6 +5538,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54439",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N047_MAYO_1927.jpg",
       "cover_local": "covers/N047.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Emiliano Jos",
+          "name_fom": "JOS, Emiliano"
+        },
+        {
+          "name": "José Antonio Rubio",
+          "name_fom": "RUBIO, José Antonio"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        }
+      ],
       "dialnet_ejemplar_id": "326509",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -4627,6 +5662,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54462",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N048_JUNIO_1927.jpg",
       "cover_local": "covers/N048.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Rafael Calleja",
+          "name_fom": "CALLEJA, Rafael"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Emilio García Gómez",
+          "name_fom": "GARCÍA GÓMEZ, Emilio"
+        },
+        {
+          "name": "Ramón María Tenreiro",
+          "name_fom": "TENREIRO, Ramón María"
+        }
+      ],
       "dialnet_ejemplar_id": "326577",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -4729,6 +5786,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54490",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N049_JULIO_1927.jpg",
       "cover_local": "covers/N049.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Dantín Cereceda",
+          "name_fom": "DANTÍN CERECEDA, Juan"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "327759",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -4831,6 +5910,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54501",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N050_AGOSTO_1927.jpg",
       "cover_local": "covers/N050.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "José M. de Cossio",
+          "name_fom": "COSSIO, José M. de"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "327777",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -4910,6 +6007,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54505",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N051_SEPTIEMBRE_1927.jpg",
       "cover_local": "covers/N051.jpg",
+      "note_authors": [
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Ramón María Tenreiro",
+          "name_fom": "TENREIRO, Ramón María"
+        }
+      ],
       "dialnet_ejemplar_id": "327838",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -5054,6 +6169,40 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54507",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N052_OCTUBRE_1927.jpg",
       "cover_local": "covers/N052.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Ernesto Giménez Caballero",
+          "name_fom": "GIMÉNEZ CABALLERO, Ernesto"
+        },
+        {
+          "name": "José Gómez de la Serna Favre",
+          "name_fom": "GÓMEZ DE LA SERNA FAVRE, José"
+        },
+        {
+          "name": "Ramón Gómez de la Serna",
+          "name_fom": "GÓMEZ DE LA SERNA, Ramón"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Esteban Salazar y Chapela",
+          "name_fom": "SALAZAR Y CHAPELA, Esteban"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "328970",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -5156,6 +6305,40 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54511",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N053_NOVIEMBRE_1927.jpg",
       "cover_local": "covers/N053.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "José M. de Cossio",
+          "name_fom": "COSSIO, José M. de"
+        },
+        {
+          "name": "Gerardo Diego",
+          "name_fom": "DIEGO, Gerardo"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Ernesto Giménez Caballero",
+          "name_fom": "GIMÉNEZ CABALLERO, Ernesto"
+        },
+        {
+          "name": "Emiliano Jos",
+          "name_fom": "JOS, Emiliano"
+        },
+        {
+          "name": "José María Quiroga Plá",
+          "name_fom": "QUIROGA PLÁ, José María"
+        }
+      ],
       "dialnet_ejemplar_id": "329086",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -5258,6 +6441,44 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54513",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N054_DICIEMBRE_1927.jpg",
       "cover_local": "covers/N054.jpg",
+      "note_authors": [
+        {
+          "name": "Dámaso Alonso",
+          "name_fom": "ALONSO, Dámaso"
+        },
+        {
+          "name": "Marcelle Auclair",
+          "name_fom": "AUCLAIR, Marcelle"
+        },
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "José Gómez de la Serna Favre",
+          "name_fom": "GÓMEZ DE LA SERNA FAVRE, José"
+        },
+        {
+          "name": "Emiliano Jos",
+          "name_fom": "JOS, Emiliano"
+        },
+        {
+          "name": "Gustavo Pittaluga",
+          "name_fom": "PITTALUGA, Gustavo"
+        }
+      ],
       "dialnet_ejemplar_id": "329209",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1927",
       "contributions": [
@@ -5360,6 +6581,36 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54515",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N055_ENERO_1928.jpg",
       "cover_local": "covers/N055.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Américo Castro",
+          "name_fom": "CASTRO, Américo"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Ernesto Giménez Caballero",
+          "name_fom": "GIMÉNEZ CABALLERO, Ernesto"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "José María Quiroga Plá",
+          "name_fom": "QUIROGA PLÁ, José María"
+        }
+      ],
       "dialnet_ejemplar_id": "330048",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -5462,6 +6713,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54517",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N056_FEBRERO_1928.jpg",
       "cover_local": "covers/N056.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Blas Cabrera",
+          "name_fom": "CABRERA, Blas"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "330052",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -5550,6 +6823,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54519",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N057_MARZO_1928.jpg",
       "cover_local": "covers/N057.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Luis de Zulueta",
+          "name_fom": "ZULUETA, Luis de"
+        }
+      ],
       "dialnet_ejemplar_id": "330066",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -5652,6 +6947,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54521",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N058_ABRIL_1928.jpg",
       "cover_local": "covers/N058.jpg",
+      "note_authors": [
+        {
+          "name": "Marcelle Auclair",
+          "name_fom": "AUCLAIR, Marcelle"
+        },
+        {
+          "name": "Antonio Bermúdez Cañete",
+          "name_fom": "BERMÚDEZ CAÑETE, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "José María Quiroga Plá",
+          "name_fom": "QUIROGA PLÁ, José María"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        },
+        {
+          "name": "C. G. Yung",
+          "name_fom": "YUNG, C. G."
+        }
+      ],
       "dialnet_ejemplar_id": "331316",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -5754,6 +7075,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54523",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N059_MAYO_1928.jpg",
       "cover_local": "covers/N059.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "José M. de Cossio",
+          "name_fom": "COSSIO, José M. de"
+        },
+        {
+          "name": "José María Quiroga Plá",
+          "name_fom": "QUIROGA PLÁ, José María"
+        },
+        {
+          "name": "Esteban Salazar y Chapela",
+          "name_fom": "SALAZAR Y CHAPELA, Esteban"
+        },
+        {
+          "name": "Adolfo Salazar",
+          "name_fom": "SALAZAR, Adolfo"
+        }
+      ],
       "dialnet_ejemplar_id": "331351",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -5847,6 +7190,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54523",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N060_JUNIO_1928.jpg",
       "cover_local": "covers/N060.jpg",
+      "note_authors": [
+        {
+          "name": "Rosa Chacel",
+          "name_fom": "CHACEL, Rosa"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "José Ortega y Gasset",
+          "name_fom": "ORTEGA Y GASSET, José"
+        },
+        {
+          "name": "José Miguel Sacristán",
+          "name_fom": "SACRISTÁN, José Miguel"
+        }
+      ],
       "dialnet_ejemplar_id": "331388",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -5949,6 +7314,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54523",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N061_JULIO_1928.jpg",
       "cover_local": "covers/N061.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Emilio García Gómez",
+          "name_fom": "GARCÍA GÓMEZ, Emilio"
+        },
+        {
+          "name": "Emiliano Jos",
+          "name_fom": "JOS, Emiliano"
+        },
+        {
+          "name": "José Antonio Rubio",
+          "name_fom": "RUBIO, José Antonio"
+        },
+        {
+          "name": "Ángel Sánchez Rivero",
+          "name_fom": "SÁNCHEZ RIVERO, Ángel"
+        }
+      ],
       "dialnet_ejemplar_id": "331974",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -6051,6 +7442,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54529",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N062_AGOSTO_1928.jpg",
       "cover_local": "covers/N062.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Bermúdez Cañete",
+          "name_fom": "BERMÚDEZ CAÑETE, Antonio"
+        },
+        {
+          "name": "Blas Cabrera",
+          "name_fom": "CABRERA, Blas"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        }
+      ],
       "dialnet_ejemplar_id": "331979",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -6153,6 +7566,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54531",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N063_SEPTIEMBRE_1928.jpg",
       "cover_local": "covers/N063.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Adolfo Salazar",
+          "name_fom": "SALAZAR, Adolfo"
+        }
+      ],
       "dialnet_ejemplar_id": "332021",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -6260,6 +7695,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54533",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N064_OCTUBRE_1928.jpg",
       "cover_local": "covers/N064.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "José M. de Cossio",
+          "name_fom": "COSSIO, José M. de"
+        },
+        {
+          "name": "José María Igual",
+          "name_fom": "IGUAL, José María"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "José María Quiroga Plá",
+          "name_fom": "QUIROGA PLÁ, José María"
+        }
+      ],
       "dialnet_ejemplar_id": "332028",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -6353,6 +7810,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54535",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N065_NOVIEMBRE_1928.jpg",
       "cover_local": "covers/N065.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "José María Igual",
+          "name_fom": "IGUAL, José María"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "José Francisco Pastor",
+          "name_fom": "PASTOR, José Francisco"
+        }
+      ],
       "dialnet_ejemplar_id": "332056",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -6446,6 +7921,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54537",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N066_DICIEMBRE_1928.jpg",
       "cover_local": "covers/N066.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Rosa Chacel",
+          "name_fom": "CHACEL, Rosa"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Luis Villalonga",
+          "name_fom": "VILLALONGA, Luis"
+        },
+        {
+          "name": "Luis de Zulueta",
+          "name_fom": "ZULUETA, Luis de"
+        }
+      ],
       "dialnet_ejemplar_id": "332060",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1928",
       "contributions": [
@@ -6525,6 +8022,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54539",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N067_ENERO_1929.jpg",
       "cover_local": "covers/N067.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "José Gómez de la Serna Favre",
+          "name_fom": "GÓMEZ DE LA SERNA FAVRE, José"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "José María Quiroga Plá",
+          "name_fom": "QUIROGA PLÁ, José María"
+        }
+      ],
       "dialnet_ejemplar_id": "331852",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -6618,6 +8141,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54541",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N068_FEBRERO_1929.jpg",
       "cover_local": "covers/N068.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "José María Igual",
+          "name_fom": "IGUAL, José María"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "REDACCIÓN",
+          "name_fom": "REDACCIÓN"
+        },
+        {
+          "name": "Luis G. de Valdeavellano",
+          "name_fom": "VALDEAVELLANO, Luis G. de"
+        }
+      ],
       "dialnet_ejemplar_id": "331861",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -6697,6 +8246,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54541",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N069_MARZO_1929.jpg",
       "cover_local": "covers/N069.jpg",
+      "note_authors": [
+        {
+          "name": "Rosa Chacel",
+          "name_fom": "CHACEL, Rosa"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Manuel G. Morente",
+          "name_fom": "G. MORENTE, Manuel"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "José María Quiroga Plá",
+          "name_fom": "QUIROGA PLÁ, José María"
+        }
+      ],
       "dialnet_ejemplar_id": "331869",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -6790,6 +8361,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54545",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N070_ABRIL_1929.jpg",
       "cover_local": "covers/N070.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Rafael Calleja",
+          "name_fom": "CALLEJA, Rafael"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Esteban Salazar y Chapela",
+          "name_fom": "SALAZAR Y CHAPELA, Esteban"
+        }
+      ],
       "dialnet_ejemplar_id": "333780",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -6897,6 +8490,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54547",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N071_MAYO_1929.jpg",
       "cover_local": "covers/N071.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "José María Igual",
+          "name_fom": "IGUAL, José María"
+        },
+        {
+          "name": "Ramiro Ledesma Ramos",
+          "name_fom": "LEDESMA RAMOS, Ramiro"
+        },
+        {
+          "name": "REDACCIÓN",
+          "name_fom": "REDACCIÓN"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "333802",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -6976,6 +8591,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54549",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N072_JUNIO_1929.jpg",
       "cover_local": "covers/N072.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Ramiro Ledesma Ramos",
+          "name_fom": "LEDESMA RAMOS, Ramiro"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "REDACCIÓN",
+          "name_fom": "REDACCIÓN"
+        },
+        {
+          "name": "Esteban Salazar y Chapela",
+          "name_fom": "SALAZAR Y CHAPELA, Esteban"
+        }
+      ],
       "dialnet_ejemplar_id": "333935",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -7064,6 +8701,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54551",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N073_JULIO_1929.jpg",
       "cover_local": "covers/N073.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Emilio García Gómez",
+          "name_fom": "GARCÍA GÓMEZ, Emilio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Emiliano Jos",
+          "name_fom": "JOS, Emiliano"
+        },
+        {
+          "name": "José Ortega y Gasset",
+          "name_fom": "ORTEGA Y GASSET, José"
+        }
+      ],
       "dialnet_ejemplar_id": "333937",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -7143,6 +8802,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54553",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N074_AGOSTO_1929.jpg",
       "cover_local": "covers/N074.jpg",
+      "note_authors": [
+        {
+          "name": "Luis Cernuda",
+          "name_fom": "CERNUDA, Luis"
+        },
+        {
+          "name": "José María Igual",
+          "name_fom": "IGUAL, José María"
+        },
+        {
+          "name": "José María Quiroga Plá",
+          "name_fom": "QUIROGA PLÁ, José María"
+        }
+      ],
       "dialnet_ejemplar_id": "334119",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -7222,6 +8895,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54555",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N075_SEPTIEMBRE_1929.jpg",
       "cover_local": "covers/N075.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Dantín Cereceda",
+          "name_fom": "DANTÍN CERECEDA, Juan"
+        },
+        {
+          "name": "Emiliano Jos",
+          "name_fom": "JOS, Emiliano"
+        },
+        {
+          "name": "Ramiro Ledesma Ramos",
+          "name_fom": "LEDESMA RAMOS, Ramiro"
+        }
+      ],
       "dialnet_ejemplar_id": "334127",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -7329,6 +9016,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54557",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N076_OCTUBRE_1929.jpg",
       "cover_local": "covers/N076.jpg",
+      "note_authors": [
+        {
+          "name": "Luis Cernuda",
+          "name_fom": "CERNUDA, Luis"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Adolfo Salazar",
+          "name_fom": "SALAZAR, Adolfo"
+        }
+      ],
       "dialnet_ejemplar_id": "333441",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -7431,6 +9136,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54559",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N077_NOVIEMBRE_1929.jpg",
       "cover_local": "covers/N077.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Ernesto Giménez Caballero",
+          "name_fom": "GIMÉNEZ CABALLERO, Ernesto"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        }
+      ],
       "dialnet_ejemplar_id": "333453",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -7533,6 +9256,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54561",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N078_DICIEMBRE_1929.jpg",
       "cover_local": "covers/N078.jpg",
+      "note_authors": [
+        {
+          "name": "Ernesto Giménez Caballero",
+          "name_fom": "GIMÉNEZ CABALLERO, Ernesto"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Luis de Zulueta",
+          "name_fom": "ZULUETA, Luis de"
+        }
+      ],
       "dialnet_ejemplar_id": "333662",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1929",
       "contributions": [
@@ -7612,6 +9349,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54563",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N079_ENERO_1930.jpg",
       "cover_local": "covers/N079.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Emilio García Gómez",
+          "name_fom": "GARCÍA GÓMEZ, Emilio"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "337521",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -7691,6 +9446,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54565",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N080_FEBRERO_1930.jpg",
       "cover_local": "covers/N080.jpg",
+      "note_authors": [
+        {
+          "name": "Emilio García Gómez",
+          "name_fom": "GARCÍA GÓMEZ, Emilio"
+        },
+        {
+          "name": "José Gómez de la Serna Favre",
+          "name_fom": "GÓMEZ DE LA SERNA FAVRE, José"
+        },
+        {
+          "name": "Jaime Torres Bodet",
+          "name_fom": "TORRES BODET, Jaime"
+        }
+      ],
       "dialnet_ejemplar_id": "337530",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -7784,6 +9553,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54649",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N081_MARZO_1930.jpg",
       "cover_local": "covers/N081.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "José María Igual",
+          "name_fom": "IGUAL, José María"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "337565",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -7891,6 +9686,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54651",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N082_ABRIL_1930.jpg",
       "cover_local": "covers/N082.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Ramiro Ledesma Ramos",
+          "name_fom": "LEDESMA RAMOS, Ramiro"
+        }
+      ],
       "dialnet_ejemplar_id": "338686",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -7970,6 +9775,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54653",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N083_MAYO_1930.jpg",
       "cover_local": "covers/N083.jpg",
+      "note_authors": [
+        {
+          "name": "Valentín Andrés",
+          "name_fom": "ANDRÉS, Valentín"
+        },
+        {
+          "name": "Emilio García Gómez",
+          "name_fom": "GARCÍA GÓMEZ, Emilio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Agustín Miranda Junco",
+          "name_fom": "MIRANDA JUNCO, Agustín"
+        }
+      ],
       "dialnet_ejemplar_id": "338692",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -8049,6 +9872,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54655",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N084_JUNIO_1930.jpg",
       "cover_local": "covers/N084.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Emilio García Gómez",
+          "name_fom": "GARCÍA GÓMEZ, Emilio"
+        },
+        {
+          "name": "Ramiro Ledesma Ramos",
+          "name_fom": "LEDESMA RAMOS, Ramiro"
+        }
+      ],
       "dialnet_ejemplar_id": "338745",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -8128,6 +9965,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54657",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N085_JULIO_1930.jpg",
       "cover_local": "covers/N085.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Ramiro Ledesma Ramos",
+          "name_fom": "LEDESMA RAMOS, Ramiro"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "340894",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -8216,6 +10071,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54659",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N086_AGOSTO_1930.jpg",
       "cover_local": "covers/N086.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Dantín Cereceda",
+          "name_fom": "DANTÍN CERECEDA, Juan"
+        }
+      ],
       "dialnet_ejemplar_id": "340913",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -8295,6 +10156,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54661",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N087_SEPTIEMBRE_1930.jpg",
       "cover_local": "covers/N087.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "340941",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -8374,6 +10245,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54663",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N088_OCTUBRE_1930.jpg",
       "cover_local": "covers/N088.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "341370",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -8481,6 +10362,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54665",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N089_NOVIEMBRE_1930.jpg",
       "cover_local": "covers/N089.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Ramón Gómez de la Serna",
+          "name_fom": "GÓMEZ DE LA SERNA, Ramón"
+        },
+        {
+          "name": "Ramiro Ledesma Ramos",
+          "name_fom": "LEDESMA RAMOS, Ramiro"
+        },
+        {
+          "name": "REDACCIÓN",
+          "name_fom": "REDACCIÓN"
+        }
+      ],
       "dialnet_ejemplar_id": "341396",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -8560,6 +10459,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54667",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N090_DICIEMBRE_1930.jpg",
       "cover_local": "covers/N090.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Ramiro Ledesma Ramos",
+          "name_fom": "LEDESMA RAMOS, Ramiro"
+        },
+        {
+          "name": "Jaime Torres Bodet",
+          "name_fom": "TORRES BODET, Jaime"
+        }
+      ],
       "dialnet_ejemplar_id": "341397",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1930",
       "contributions": [
@@ -8653,6 +10570,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54669",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N091_ENERO_1931.jpg",
       "cover_local": "covers/N091.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Agustín Miranda Junco",
+          "name_fom": "MIRANDA JUNCO, Agustín"
+        }
+      ],
       "dialnet_ejemplar_id": "343075",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -8732,6 +10659,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54671",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N092_FEBRERO_1931.jpg",
       "cover_local": "covers/N092.jpg",
+      "note_authors": [
+        {
+          "name": "Melchor Fernández Almagro",
+          "name_fom": "FERNÁNDEZ ALMAGRO, Melchor"
+        },
+        {
+          "name": "Emilio García Gómez",
+          "name_fom": "GARCÍA GÓMEZ, Emilio"
+        },
+        {
+          "name": "Emiliano Jos",
+          "name_fom": "JOS, Emiliano"
+        }
+      ],
       "dialnet_ejemplar_id": "343082",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -8811,6 +10752,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54673",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N093_MARZO_1931.jpg",
       "cover_local": "covers/N093.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "343083",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -8904,6 +10855,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54675",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N094_ABRIL_1931.jpg",
       "cover_local": "covers/N094.jpg",
+      "note_authors": [
+        {
+          "name": "Francisco Ayala",
+          "name_fom": "AYALA, Francisco"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "343459",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -8983,6 +10944,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54677",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N095_MAYO_1931.jpg",
       "cover_local": "covers/N095.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Agustín Miranda Junco",
+          "name_fom": "MIRANDA JUNCO, Agustín"
+        }
+      ],
       "dialnet_ejemplar_id": "343484",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -9076,6 +11051,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54679",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N096_JUNIO_1931.jpg",
       "cover_local": "covers/N096.jpg",
+      "note_authors": [
+        {
+          "name": "José Gómez de la Serna Favre",
+          "name_fom": "GÓMEZ DE LA SERNA FAVRE, José"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        }
+      ],
       "dialnet_ejemplar_id": "343495",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -9169,6 +11158,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54681",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N097_JULIO_1931.jpg",
       "cover_local": "covers/N097.jpg",
+      "note_authors": [
+        {
+          "name": "Emilio García Gómez",
+          "name_fom": "GARCÍA GÓMEZ, Emilio"
+        }
+      ],
       "dialnet_ejemplar_id": "343582",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -9248,6 +11243,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54683",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N098_AGOSTO_1931.jpg",
       "cover_local": "covers/N098.jpg",
+      "note_authors": [
+        {
+          "name": "Dámaso Alonso",
+          "name_fom": "ALONSO, Dámaso"
+        },
+        {
+          "name": "Agustín Miranda Junco",
+          "name_fom": "MIRANDA JUNCO, Agustín"
+        }
+      ],
       "dialnet_ejemplar_id": "343632",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -9327,6 +11332,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54685",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N099_SEPTIEMBRE_1931.jpg",
       "cover_local": "covers/N099.jpg",
+      "note_authors": [
+        {
+          "name": "Guillermo Díaz Plaja",
+          "name_fom": "DÍAZ PLAJA, Guillermo"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        }
+      ],
       "dialnet_ejemplar_id": "343653",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -9406,6 +11421,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54687",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/10/RDO_N100_OCTUBRE_1931.jpg",
       "cover_local": "covers/N100.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "345397",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -9499,6 +11520,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54689",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N101_NOVIEMBRE_1931.jpg",
       "cover_local": "covers/N101.jpg",
+      "note_authors": [
+        {
+          "name": "Emiliano Jos",
+          "name_fom": "JOS, Emiliano"
+        },
+        {
+          "name": "Agustín Miranda Junco",
+          "name_fom": "MIRANDA JUNCO, Agustín"
+        }
+      ],
       "dialnet_ejemplar_id": "345423",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -9578,6 +11609,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54691",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N102_DICIEMBRE_1931.jpg",
       "cover_local": "covers/N102.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        }
+      ],
       "dialnet_ejemplar_id": "345426",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1931",
       "contributions": [
@@ -9657,6 +11694,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54693",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N103_ENERO_1932.jpg",
       "cover_local": "covers/N103.jpg",
+      "note_authors": [
+        {
+          "name": "Vicente Aleixandre",
+          "name_fom": "ALEIXANDRE, Vicente"
+        },
+        {
+          "name": "Juan Dantín Cereceda",
+          "name_fom": "DANTÍN CERECEDA, Juan"
+        }
+      ],
       "dialnet_ejemplar_id": "345623",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -9736,6 +11783,7 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54695",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N104_FEBRERO_1932.jpg",
       "cover_local": "covers/N104.jpg",
+      "note_authors": [],
       "dialnet_ejemplar_id": "345659",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -9806,6 +11854,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54697",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N105_MARZO_1932.jpg",
       "cover_local": "covers/N105.jpg",
+      "note_authors": [
+        {
+          "name": "Manuel Altolaguirre",
+          "name_fom": "ALTOLAGUIRRE, Manuel"
+        }
+      ],
       "dialnet_ejemplar_id": "345671",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -9899,6 +11953,7 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54699",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N106_ABRIL_1932.jpg",
       "cover_local": "covers/N106.jpg",
+      "note_authors": [],
       "dialnet_ejemplar_id": "347661",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -9997,6 +12052,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54701",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N107_MAYO_1932.jpg",
       "cover_local": "covers/N107.jpg",
+      "note_authors": [
+        {
+          "name": "REDACCIÓN",
+          "name_fom": "REDACCIÓN"
+        }
+      ],
       "dialnet_ejemplar_id": "347665",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -10076,6 +12137,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54703",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N108_JUNIO_1932.jpg",
       "cover_local": "covers/N108.jpg",
+      "note_authors": [
+        {
+          "name": "Manuel Altolaguirre",
+          "name_fom": "ALTOLAGUIRRE, Manuel"
+        },
+        {
+          "name": "Juan Dantín Cereceda",
+          "name_fom": "DANTÍN CERECEDA, Juan"
+        },
+        {
+          "name": "Ramón Gómez de la Serna",
+          "name_fom": "GÓMEZ DE LA SERNA, Ramón"
+        },
+        {
+          "name": "Agustín Miranda Junco",
+          "name_fom": "MIRANDA JUNCO, Agustín"
+        }
+      ],
       "dialnet_ejemplar_id": "347667",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -10169,6 +12248,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54705",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N109_JULIO_1932.jpg",
       "cover_local": "covers/N109.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Agustín Miranda Junco",
+          "name_fom": "MIRANDA JUNCO, Agustín"
+        }
+      ],
       "dialnet_ejemplar_id": "348107",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -10262,6 +12351,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54707",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N110_AGOSTO_1932.jpg",
       "cover_local": "covers/N110.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "348110",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -10355,6 +12450,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54709",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N111_SEPTIEMBRE_1932.jpg",
       "cover_local": "covers/N111.jpg",
+      "note_authors": [
+        {
+          "name": "Ramón Gómez de la Serna",
+          "name_fom": "GÓMEZ DE LA SERNA, Ramón"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "348115",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -10448,6 +12553,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54711",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N112_OCTUBRE_1932.jpg",
       "cover_local": "covers/N112.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "348385",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -10527,6 +12638,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54713",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N113_NOVIEMBRE_1932.jpg",
       "cover_local": "covers/N113.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        }
+      ],
       "dialnet_ejemplar_id": "348388",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -10620,6 +12745,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54715",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N114_DICIEMBRE_1932.jpg",
       "cover_local": "covers/N114.jpg",
+      "note_authors": [
+        {
+          "name": "Dámaso Alonso",
+          "name_fom": "ALONSO, Dámaso"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "348397",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1932",
       "contributions": [
@@ -10713,6 +12852,32 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54717",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N115_ENERO_1933.jpg",
       "cover_local": "covers/N115.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Chabás",
+          "name_fom": "CHABÁS, Juan"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        },
+        {
+          "name": "P. W.",
+          "name_fom": "P. W."
+        },
+        {
+          "name": "José Tudela",
+          "name_fom": "TUDELA, José"
+        },
+        {
+          "name": "María Zambrano",
+          "name_fom": "ZAMBRANO, María"
+        }
+      ],
       "dialnet_ejemplar_id": "351240",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -10792,6 +12957,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54719",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N116_FEBRERO_1933.jpg",
       "cover_local": "covers/N116.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Louis Massignon",
+          "name_fom": "MASSIGNON, Louis"
+        },
+        {
+          "name": "P. W.",
+          "name_fom": "P. W."
+        }
+      ],
       "dialnet_ejemplar_id": "351243",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -10885,6 +13064,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54721",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N117_MARZO_1933.jpg",
       "cover_local": "covers/N117.jpg",
+      "note_authors": [
+        {
+          "name": "P. W.",
+          "name_fom": "P. W."
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        },
+        {
+          "name": "María Zambrano",
+          "name_fom": "ZAMBRANO, María"
+        }
+      ],
       "dialnet_ejemplar_id": "351261",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -10964,6 +13157,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54830",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N118_ABRIL_1933.jpg",
       "cover_local": "covers/N118.jpg",
+      "note_authors": [
+        {
+          "name": "José Antonio Maravall",
+          "name_fom": "MARAVALL, José Antonio"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "351282",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -11057,6 +13260,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54832",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N119_MAYO_1933.jpg",
       "cover_local": "covers/N119.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Dantín Cereceda",
+          "name_fom": "DANTÍN CERECEDA, Juan"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "351361",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -11136,6 +13349,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54834",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N120_JUNIO_1933.jpg",
       "cover_local": "covers/N120.jpg",
+      "note_authors": [
+        {
+          "name": "José Mª Chacón y Calvo",
+          "name_fom": "CHACÓN Y CALVO, José Mª"
+        },
+        {
+          "name": "Hugo Obermaier",
+          "name_fom": "OBERMAIER, Hugo"
+        }
+      ],
       "dialnet_ejemplar_id": "351376",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -11229,6 +13452,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54836",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N121_JULIO_1933.jpg",
       "cover_local": "covers/N121.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        },
+        {
+          "name": "REDACCIÓN",
+          "name_fom": "REDACCIÓN"
+        }
+      ],
       "dialnet_ejemplar_id": "351451",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -11308,6 +13549,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54838",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N122_AGOSTO_1933.jpg",
       "cover_local": "covers/N122.jpg",
+      "note_authors": [
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "351452",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -11401,6 +13652,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54840",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N123_SEPTIEMBRE_1933.jpg",
       "cover_local": "covers/N123.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        }
+      ],
       "dialnet_ejemplar_id": "351456",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -11480,6 +13737,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54842",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N124_OCTUBRE_1933.jpg",
       "cover_local": "covers/N124.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        }
+      ],
       "dialnet_ejemplar_id": "351471",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -11559,6 +13826,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54844",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N125_NOVIEMBRE_1933.jpg",
       "cover_local": "covers/N125.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "José Antonio Maravall",
+          "name_fom": "MARAVALL, José Antonio"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        }
+      ],
       "dialnet_ejemplar_id": "351474",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -11638,6 +13923,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54846",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N126_DICIEMBRE_1933.jpg",
       "cover_local": "covers/N126.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        }
+      ],
       "dialnet_ejemplar_id": "351477",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1933",
       "contributions": [
@@ -11717,6 +14012,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54848",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N127_ENERO_1934.jpg",
       "cover_local": "covers/N127.jpg",
+      "note_authors": [
+        {
+          "name": "María Zambrano",
+          "name_fom": "ZAMBRANO, María"
+        }
+      ],
       "dialnet_ejemplar_id": "351528",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -11810,6 +14111,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54850",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N128_FEBRERO_1934.jpg",
       "cover_local": "covers/N128.jpg",
+      "note_authors": [
+        {
+          "name": "José Antonio Maravall",
+          "name_fom": "MARAVALL, José Antonio"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        },
+        {
+          "name": "María Zambrano",
+          "name_fom": "ZAMBRANO, María"
+        }
+      ],
       "dialnet_ejemplar_id": "351702",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -11889,6 +14204,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54852",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N129_MARZO_1934.jpg",
       "cover_local": "covers/N129.jpg",
+      "note_authors": [
+        {
+          "name": "José Antonio Maravall",
+          "name_fom": "MARAVALL, José Antonio"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        }
+      ],
       "dialnet_ejemplar_id": "351706",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -11968,6 +14293,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54854",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N130_ABRIL_1934.jpg",
       "cover_local": "covers/N130.jpg",
+      "note_authors": [
+        {
+          "name": "Emilio García Gómez",
+          "name_fom": "GARCÍA GÓMEZ, Emilio"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        }
+      ],
       "dialnet_ejemplar_id": "356804",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -12047,6 +14382,28 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54856",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N131_MAYO_1934.jpg",
       "cover_local": "covers/N131.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Paul Ludwig Ladnsberg",
+          "name_fom": "LADNSBERG, Paul Ludwig"
+        },
+        {
+          "name": "José Antonio Maravall",
+          "name_fom": "MARAVALL, José Antonio"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        },
+        {
+          "name": "María Zambrano",
+          "name_fom": "ZAMBRANO, María"
+        }
+      ],
       "dialnet_ejemplar_id": "356810",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -12126,6 +14483,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54858",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N132_JUNIO_1934.jpg",
       "cover_local": "covers/N132.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        }
+      ],
       "dialnet_ejemplar_id": "356816",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -12205,6 +14572,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54860",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N133_JULIO_1934.jpg",
       "cover_local": "covers/N133.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        }
+      ],
       "dialnet_ejemplar_id": "357552",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -12284,6 +14665,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54862",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N134_AGOSTO_1934.jpg",
       "cover_local": "covers/N134.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "José Antonio Maravall",
+          "name_fom": "MARAVALL, José Antonio"
+        },
+        {
+          "name": "José Muñoz Rojas",
+          "name_fom": "MUÑOZ ROJAS, José"
+        }
+      ],
       "dialnet_ejemplar_id": "357556",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -12349,6 +14744,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54864",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N135_SEPTIEMBRE_1934.jpg",
       "cover_local": "covers/N135.jpg",
+      "note_authors": [
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        },
+        {
+          "name": "Gustavo Pittaluga",
+          "name_fom": "PITTALUGA, Gustavo"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "357557",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -12428,6 +14837,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54866",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N136_OCTUBRE_1934.jpg",
       "cover_local": "covers/N136.jpg",
+      "note_authors": [
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        },
+        {
+          "name": "B. Taracena",
+          "name_fom": "TARACENA, B."
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "357925",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -12521,6 +14944,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54868",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N137_NOVIEMBRE_1934.jpg",
       "cover_local": "covers/N137.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Antonio Porras",
+          "name_fom": "PORRAS, Antonio"
+        },
+        {
+          "name": "María Zambrano",
+          "name_fom": "ZAMBRANO, María"
+        }
+      ],
       "dialnet_ejemplar_id": "357953",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -12600,6 +15037,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54870",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N138_DICIEMBRE_1934.jpg",
       "cover_local": "covers/N138.jpg",
+      "note_authors": [
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        }
+      ],
       "dialnet_ejemplar_id": "357958",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1934",
       "contributions": [
@@ -12693,6 +15136,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54872",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N139_ENERO_1935.jpg",
       "cover_local": "covers/N139.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "José Antonio Maravall",
+          "name_fom": "MARAVALL, José Antonio"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        }
+      ],
       "dialnet_ejemplar_id": "358025",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -12772,6 +15229,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54874",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N140_FEBRERO_1935.jpg",
       "cover_local": "covers/N140.jpg",
+      "note_authors": [
+        {
+          "name": "Ricardo Gullón",
+          "name_fom": "GULLÓN, Ricardo"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "358029",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -12851,6 +15318,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54876",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N141_MARZO_1935.jpg",
       "cover_local": "covers/N141.jpg",
+      "note_authors": [
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        },
+        {
+          "name": "Antonio Porras",
+          "name_fom": "PORRAS, Antonio"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "358055",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -12944,6 +15425,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54878",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N142_ABRIL_1935.jpg",
       "cover_local": "covers/N142.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "358335",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -13023,6 +15518,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54880",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N143_MAYO_1935.jpg",
       "cover_local": "covers/N143.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "José Antonio Maravall",
+          "name_fom": "MARAVALL, José Antonio"
+        },
+        {
+          "name": "Hugo Obermaier",
+          "name_fom": "OBERMAIER, Hugo"
+        },
+        {
+          "name": "Antonio de Obregón",
+          "name_fom": "OBREGÓN, Antonio de"
+        }
+      ],
       "dialnet_ejemplar_id": "358346",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -13102,6 +15615,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54882",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N144_JUNIO_1935.jpg",
       "cover_local": "covers/N144.jpg",
+      "note_authors": [
+        {
+          "name": "Dámaso Alonso",
+          "name_fom": "ALONSO, Dámaso"
+        },
+        {
+          "name": "Antonio Espina",
+          "name_fom": "ESPINA, Antonio"
+        },
+        {
+          "name": "José Antonio Maravall",
+          "name_fom": "MARAVALL, José Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "358420",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -13181,6 +15708,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54884",
       "cover_source_url": null,
       "cover_local": null,
+      "note_authors": [
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "360204",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -13260,6 +15793,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54887",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N146_AGOSTO_1935.jpg",
       "cover_local": "covers/N146.jpg",
+      "note_authors": [
+        {
+          "name": "Luis Amado Blanco",
+          "name_fom": "AMADO BLANCO, Luis"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        },
+        {
+          "name": "María Zambrano",
+          "name_fom": "ZAMBRANO, María"
+        }
+      ],
       "dialnet_ejemplar_id": "360210",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -13339,6 +15890,12 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54890",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N147_SEPTIEMBRE_1935.jpg",
       "cover_local": "covers/N147.jpg",
+      "note_authors": [
+        {
+          "name": "José Antonio Maravall",
+          "name_fom": "MARAVALL, José Antonio"
+        }
+      ],
       "dialnet_ejemplar_id": "360231",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -13418,6 +15975,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54893",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N148_OCTUBRE_1935.jpg",
       "cover_local": "covers/N148.jpg",
+      "note_authors": [
+        {
+          "name": "Agustín Miranda Junco",
+          "name_fom": "MIRANDA JUNCO, Agustín"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        }
+      ],
       "dialnet_ejemplar_id": "360650",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -13497,6 +16064,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54898",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N149_NOVIEMBRE_1935.jpg",
       "cover_local": "covers/N149.jpg",
+      "note_authors": [
+        {
+          "name": "Agustín Miranda Junco",
+          "name_fom": "MIRANDA JUNCO, Agustín"
+        },
+        {
+          "name": "José Muñoz Rojas",
+          "name_fom": "MUÑOZ ROJAS, José"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        },
+        {
+          "name": "REDACCIÓN",
+          "name_fom": "REDACCIÓN"
+        }
+      ],
       "dialnet_ejemplar_id": "360656",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -13576,6 +16161,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54900",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N150_DICIEMBRE_1935.jpg",
       "cover_local": "covers/N150.jpg",
+      "note_authors": [
+        {
+          "name": "Manuel Abril",
+          "name_fom": "ABRIL, Manuel"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "360679",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1935",
       "contributions": [
@@ -13683,6 +16282,24 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54902",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N151_ENERO_1936.jpg",
       "cover_local": "covers/N151.jpg",
+      "note_authors": [
+        {
+          "name": "Corpus Barga",
+          "name_fom": "BARGA, Corpus (Andrés García de la Barga y Gómez de la Serna)"
+        },
+        {
+          "name": "José Antonio Maravall",
+          "name_fom": "MARAVALL, José Antonio"
+        },
+        {
+          "name": "Gustavo Pittaluga",
+          "name_fom": "PITTALUGA, Gustavo"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "349592",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1936",
       "contributions": [
@@ -13776,6 +16393,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54904",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N152_FEBRERO_1936.jpg",
       "cover_local": "covers/N152.jpg",
+      "note_authors": [
+        {
+          "name": "Juan Díaz del Moral",
+          "name_fom": "DÍAZ DEL MORAL, Juan"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "349618",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1936",
       "contributions": [
@@ -13855,6 +16482,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54906",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N153_MARZO_1936.jpg",
       "cover_local": "covers/N153.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Julián Marías",
+          "name_fom": "MARÍAS, Julián"
+        }
+      ],
       "dialnet_ejemplar_id": "349623",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1936",
       "contributions": [
@@ -13934,6 +16571,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54908",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N154_ABRIL_1936.jpg",
       "cover_local": "covers/N154.jpg",
+      "note_authors": [
+        {
+          "name": "Benjamín Jarnés",
+          "name_fom": "JARNÉS, Benjamín"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        }
+      ],
       "dialnet_ejemplar_id": "349638",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1936",
       "contributions": [
@@ -14013,6 +16660,20 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54910",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N155_MAYO_1936.jpg",
       "cover_local": "covers/N155.jpg",
+      "note_authors": [
+        {
+          "name": "Ricardo Gullón",
+          "name_fom": "GULLÓN, Ricardo"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "name_fom": "MARICHALAR, Antonio"
+        },
+        {
+          "name": "Fernando Vela",
+          "name_fom": "VELA, Fernando"
+        }
+      ],
       "dialnet_ejemplar_id": "349650",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1936",
       "contributions": [
@@ -14106,6 +16767,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54912",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N156_JUNIO_1936.jpg",
       "cover_local": "covers/N156.jpg",
+      "note_authors": [
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "name_fom": "TORRE, Guillermo de"
+        }
+      ],
       "dialnet_ejemplar_id": "349662",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1936",
       "contributions": [
@@ -14185,6 +16856,16 @@
       "fom_viewer_url": "https://ortegaygasset.edu/visor-pdfro/?pdf=54914",
       "cover_source_url": "https://ortegaygasset.edu/wp-content/uploads/2025/11/RDO_N157_JULIO_1936.jpg",
       "cover_local": "covers/N157.jpg",
+      "note_authors": [
+        {
+          "name": "Ricardo Gullón",
+          "name_fom": "GULLÓN, Ricardo"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "name_fom": "NOVÁS CALVO, Lino"
+        }
+      ],
       "dialnet_ejemplar_id": "349667",
       "dialnet_year_url": "https://dialnet.unirioja.es/revista/1203/A/1936",
       "contributions": [

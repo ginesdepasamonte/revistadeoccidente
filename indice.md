@@ -4,7 +4,8 @@
 
 - Los **ejemplares originales digitalizados** están alojados por la **Fundación Ortega-Marañón (FOM)**. Cada número enlaza a su facsímil en el visor oficial. Este proyecto **no aloja ni redistribuye** los PDF.
 - Los **metadatos bibliográficos** (autores, títulos, páginas) proceden principalmente de **Dialnet** (ISSN 0034-8635).
-- **Limitación importante:** Dialnet no siempre indexa la totalidad del contenido de cada número (puede omitir notas, reseñas, textos preliminares o secciones menores). Por tanto, este índice es una **herramienta de consulta bibliográfica (finding aid)**, no una transcripción exhaustiva página a página. Véase la [nota de metodología y cobertura](#metodologia-y-cobertura).
+- Los **autores de la sección «Notas»** (que Dialnet no indexa) se recuperan del **archivo por autor de la Fundación Ortega-Marañón** y se listan bajo cada «Notas».
+- **Limitación importante:** aun así, el detalle por contribución depende de Dialnet, que no siempre indexa la totalidad del contenido (puede omitir reseñas, textos preliminares o secciones menores). Por tanto, este índice es una **herramienta de consulta bibliográfica (finding aid)**, no una transcripción exhaustiva página a página. Véase la [nota de metodología y cobertura](#metodologia-y-cobertura).
 
 ---
 
@@ -33,6 +34,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Adolf Schulten** — *Tartessos, la más antigua ciudad de Occidente*, pp. 67–94
 * **Fernando Vela** — *El individuo y el medio (nuevas ideas biológicas)*, pp. 95–105
 * **Corpus Barga** — *La humanidad de espaldas*, pp. 106–113
+* *Notas*
+  * Corpus Barga
+  * Antonio Espina
+  * Antonio Marichalar
+  * Alfonso Reyes
 
 <a id="ejemplar-2"></a>
 ### Nº 2 — Agosto de 1923
@@ -49,6 +55,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **George Simmel** — *Filosofía de la moda. (Conclusión)*, pp. 211–230
 * **José Ortega y Gasset** — *Oknos el soguero*, pp. 231–241
 * **Enrique Díez Canedo** — *Shelley*, pp. 242–247
+* *Notas*
+  * Corpus Barga
+  * Enrique Díez-Canedo
+  * Antonio Espina
+  * José Ortega y Gasset
 
 <a id="ejemplar-3"></a>
 ### Nº 3 — Septiembre de 1923
@@ -64,6 +75,13 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Antonio Marichalar** — *El conde musageta*, pp. 334–342
 * **Corpus Barga** — *El amigo del hombre*, pp. 343–355
 * **Manuel García Morente** — *El chiste y su teoría*, pp. 356–364
+* *Notas*
+  * Corpus Barga
+  * Gerardo Diego
+  * Antonio Espina
+  * Manuel G. Morente
+  * José Ortega y Gasset
+  * Fernando Vela
 
 <a id="ejemplar-4"></a>
 ### Nº 4 — Octubre de 1923
@@ -80,6 +98,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Alejandro Kuprin** — *Del primero que encuentre*, pp. 100–114
 * **Angel Sánchez Rivero** — *Merimée en España, 1830*, pp. 115–120
 * *Notas*, pp. 120–135
+  * Corpus Barga
+  * Gerardo Diego
+  * Antonio Marichalar
+  * Ángel Sánchez Rivero
+  * Luis de Zulueta
 * *Asteriscos*, pp. 136–144
 
 <a id="ejemplar-5"></a>
@@ -96,6 +119,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **George Simmel** — *Lo masculino y lo femenino*, pp. 218–236
 * *El silencio por Mallarmé*, pp. 237–256
 * *Notas*, pp. 257–267
+  * Corpus Barga
+  * Enrique Díez-Canedo
+  * Antonio Marichalar
+  * José Miguel Sacristán
 * *Asteriscos*, pp. 268–271
 
 <a id="ejemplar-6"></a>
@@ -111,6 +138,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **George Simmel** — *Lo masculino y lo femenino*, pp. 336–363
 * **Ricardo Baeza** — *El caballero Casanova*, pp. 364–390
 * *Notas*, pp. 391–414
+  * Antonio Espina
+  * José Ortega y Gasset
+  * Fernando Vela
+  * Luis de Zulueta
 
 [↑ Años](#anios)
 
@@ -132,6 +163,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Gerardo Diego** — *Un escorzo de Góngora*, pp. 76–89
 * **Corpus Barga** — *Paul Bourget y la novela psicológica*, pp. 90–104
 * *Notas*, pp. 105–128
+  * Ricardo Baeza
+  * Antonio Espina
+  * Antonio Marichalar
+  * Ángel Sánchez Rivero
+  * Fernando Vela
 
 <a id="ejemplar-8"></a>
 ### Nº 8 — Febrero de 1924
@@ -147,6 +183,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ramón Pérez de Ayala** — *Clib (Conclusión)*, pp. 187–213
 * **Ricardo Baeza** — *Casanova en España*, pp. 214–240
 * *Notas*, pp. 241–271
+  * Ricardo Baeza
+  * Corpus Barga
+  * Antonio Marichalar
+  * Pedro Salinas
+  * Fernando Vela
 
 <a id="ejemplar-9"></a>
 ### Nº 9 — Marzo de 1924
@@ -161,6 +202,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Antonio Marichalar** — *El español inglés George Santayana*, pp. 340–359
 * **Ramón Gómez de la Serna** — *La Amazona airada*, pp. 360–373
 * *Notas*, pp. 374–400
+  * Gerardo Diego
+  * Enrique Díez-Canedo
+  * Antonio Espina
+  * Ángel Sánchez Rivero
+  * Fernando Vela
 
 <a id="ejemplar-10"></a>
 ### Nº 10 — Abril de 1924
@@ -174,6 +220,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Pedro Girard** — *Yuna, Felipe y el almirante*, pp. 60–85
 * **Ricardo Baeza** — *Casanova en España*, pp. 86–113
 * *Notas*, pp. 114–128
+  * Adolfo Bonilla y San Martín
+  * Enrique Díez-Canedo
+  * Manuel G. Morente
+  * Ramón Gómez de la Serna
 
 <a id="ejemplar-11"></a>
 ### Nº 11 — Mayo de 1924
@@ -188,6 +238,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Wilhelm Worringer** — *El espíritu del arte gótico*, pp. 178–211
 * **Antonio Espina** — *BI o el edificio en humo*, pp. 212–228
 * *Notas*, pp. 229–255
+  * Enrique Díez-Canedo
+  * José Ortega y Gasset
+  * Adolfo Salazar
+  * Ángel Sánchez Rivero
 * *Asteriscos*, pp. 256–260
 
 <a id="ejemplar-12"></a>
@@ -203,6 +257,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ricardo Baroja** — *El Pedigree*, pp. 318–363
 * **Ricardo Baeza** — *El Nuevo Teatro de la Rusia Soviatista*, pp. 364–380
 * *Notas*, pp. 381–396
+  * Enrique Díez-Canedo
+  * Eugenio Montes
+  * Ángel Sánchez Rivero
 
 <a id="ejemplar-13"></a>
 ### Nº 13 — Julio de 1924
@@ -217,6 +274,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Angel Sánchez Rivero** — *En la exposición de Códices Miniados Españoles*, pp. 88–103
 * **Ricardo Baroja** — *El Pedigree*, pp. 104–129
 * *Notas*, pp. 130–144
+  * Gerardo Diego
+  * Antonio Marichalar
+  * Adolfo Salazar
 
 <a id="ejemplar-14"></a>
 ### Nº 14 — Agosto de 1924
@@ -232,6 +292,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Benjamin Crémieux** — *Marcelo Proust*, pp. 191–227
 * **Ricardo Baroja** — *El Pedigree*, pp. 228–247
 * *Notas*, pp. 248–268
+  * Enrique Díez-Canedo
+  * Melchor Fernández Almagro
+  * Antonio Marichalar
+  * Pedro Perdomo
 * *Asterisco*, pp. 269–272
 * **Jorge Guillén** — *Poesías*, pp. 273–284
 
@@ -246,6 +310,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ramón Gómez de la Serna** — *La capa de Don Dámaso*, pp. 331–350
 * **Oswald Spengler** — *Pueblos y razas*, pp. 351–374
 * *Notas*, pp. 375–400
+  * Corpus Barga
+  * Enrique Díez-Canedo
+  * Antonio Marichalar
+  * Ángel Sánchez Rivero
 
 <a id="ejemplar-16"></a>
 ### Nº 16 — Octubre de 1924
@@ -261,6 +329,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Corpus Barga** — *Sobre un ídolo*, pp. 135–139
 * **Ernesto Giménez Caballero** — *Conmemoración de don Juan Valera*, pp. 140–150
 * *Notas*, pp. 151–169
+  * Melchor Fernández Almagro
+  * José Gómez de la Serna Favre
+  * Gonzalo Rodríguez Lafora
+  * Pedro Salinas
 * *Asteriscos*, pp. 170–176
 
 <a id="ejemplar-17"></a>
@@ -277,6 +349,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Jorge Luis Borges** — *Menoscabo y grandeza de Quevedo*, pp. 249–255
 * **Angel Sánchez Rivero** — *Enrique Wölfflin*, pp. 256–273
 * *Notas*, pp. 274–304
+  * Juan Chabás
+  * Gerardo Diego
+  * Manuel G. Morente
+  * Ernesto Giménez Caballero
+  * Guillermo de Torre
+  * J. J. de Urríes y Azara
 
 <a id="ejemplar-18"></a>
 ### Nº 18 — Diciembre de 1924
@@ -290,6 +368,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Guillermo Haas** — *La unidad de Europa*, pp. 353–396
 * **Gilberto Norwood** — *Al doblar los cuarenta*, pp. 397–416
 * *Notas*, pp. 417–434
+  * Ernesto Giménez Caballero
+  * Ángel Sánchez Rivero
+  * Fernando Vela
 * **José Moreno Villa** — *Autocríticas*, pp. 435–440
 
 [↑ Años](#anios)
@@ -313,6 +394,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Moritz Geiger** — *La "Christian Science" en América*, p. 58
 * **José María Salaverría** — *Meteorología para intelectuales*, pp. 100–109
 * *Notas*, pp. 110–128
+  * Melchor Fernández Almagro
+  * Manuel G. Morente
+  * Ángel Sánchez Rivero
+  * José Vallejo
 
 <a id="ejemplar-20"></a>
 ### Nº 20 — Febrero de 1925
@@ -327,6 +412,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Eduardo Schwartz** — *Un intelectual en la política: Cicerón*, pp. 199–228
 * **Luis Olariaga** — *Impresión de la Argentina en un economista*, pp. 229–235
 * *Notas*, pp. 236–256
+  * Pedro Bosch Gimpera
+  * Américo Castro
+  * Antonio Marichalar
+  * Luis de Zulueta
 
 <a id="ejemplar-21"></a>
 ### Nº 21 — Marzo de 1925
@@ -340,6 +429,14 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **George Bernard Shaw** — *Coloquio con A. Henderson*, pp. 302–332
 * **José Moreno Villa** — *Tras la morfología de Rubens*, pp. 333–350
 * *Notas*, pp. 351–384
+  * Mauricio Bacarisse
+  * Corpus Barga
+  * Juan Chabás
+  * José M. de Cossio
+  * Enrique Díez-Canedo
+  * Ernesto Giménez Caballero
+  * Antonio Marichalar
+  * Ramón María Tenreiro
 
 <a id="ejemplar-22"></a>
 ### Nº 22 — Abril de 1925
@@ -353,6 +450,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Matías Baumgartner** — *La filosofía de Santo Tomás de Aquino*, pp. 68–105
 * **Corpus Barga** — *Una novela de Baroja*, pp. 106–125
 * *Notas*, pp. 126–144
+  * Marcelle Auclair
+  * Melchor Fernández Almagro
+  * Manuel G. Morente
+  * J. M. S.
 
 <a id="ejemplar-23"></a>
 ### Nº 23 — Mayo de 1925
@@ -367,6 +468,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Fernando Vela** — *Desde la ribera oscura*, pp. 202–227
 * **Antonio Espina** — *Ganivet*, pp. 228–250
 * *Notas*, pp. 251–272
+  * Mauricio Bacarisse
+  * Juan Chabás
+  * Enrique Díez-Canedo
+  * Melchor Fernández Almagro
+  * Manuel G. Morente
+  * Benjamín Jarnés
 
 <a id="ejemplar-24"></a>
 ### Nº 24 — Junio de 1925
@@ -381,6 +488,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Antonio Machado** — *Reflexiones sobre la lírica*, pp. 359–377
 * **Henry de Montherlant** — *Las fuentes del Deseo*, pp. 378–386
 * *Notas*, pp. 387–408
+  * Mauricio Bacarisse
+  * Juan Chabás
+  * Enrique Díez-Canedo
+  * Antonio Espina
+  * Benjamín Jarnés
+  * P. J Lucia
 
 <a id="ejemplar-25"></a>
 ### Nº 25 — Julio de 1925
@@ -396,6 +509,13 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Antonio Espina** — *Varia fisga*, pp. 92–99
 * **Angel González Palencia** — *La Divina Comedia y el Islam*, pp. 100–116
 * *Notas*, pp. 117–143
+  * Pedro Bosch Gimpera
+  * Ramón Carande
+  * Melchor Fernández Almagro
+  * Benjamín Jarnés
+  * Antonio Marichalar
+  * Eugenio Montes
+  * Ramón María Tenreiro
 
 <a id="ejemplar-26"></a>
 ### Nº 26 — Agosto de 1925
@@ -410,6 +530,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Francisco Gachot** — *Raimunda*, pp. 198–210
 * **Paul Ludwig Landsberg** — *La Edad Media y nosotros*, pp. 211–245
 * *Notas*, pp. 246–270
+  * Juan Chabás
+  * José M. de Cossio
+  * Enrique Díez-Canedo
+  * Antonio Espina
+  * Ramón María Tenreiro
 
 <a id="ejemplar-27"></a>
 ### Nº 27 — Septiembre de 1925
@@ -425,6 +550,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Frank Bohn** — *El Ku Klux Klan*, pp. 324–358
 * **Manuel Bastos Ansart** — *Cirugía reconstructiva*, pp. 359–370
 * *Notas*, pp. 371–399
+  * Corpus Barga
+  * Gerardo Diego
+  * Melchor Fernández Almagro
+  * Ernesto Giménez Caballero
+  * Benjamín Jarnés
+  * Antonio Marichalar
 
 <a id="ejemplar-28"></a>
 ### Nº 28 — Octubre de 1925
@@ -439,6 +570,14 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Azorín** — *Doña Inés*, pp. 71–86
 * **Adolf Schulten** — *Mainake, una ciudad griega en el extremo Occidente*, pp. 87–99
 * *Notas*, pp. 100–127
+  * Blas Cabrera
+  * Gerardo Diego
+  * Antonio Espina
+  * José Gómez de la Serna Favre
+  * Benjamín Jarnés
+  * Eugenio Montes
+  * José Moreno Villa
+  * Adolfo Salazar
 
 <a id="ejemplar-29"></a>
 ### Nº 29 — Noviembre de 1925
@@ -453,6 +592,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **H. Spangenberg** — *Los períodos de la Historia Universal*, pp. 192–219
 * **Huberto Pérez de la Ossa** — *A porta inferi*, pp. 220–234
 * *Notas*, pp. 235–263
+  * Mauricio Bacarisse
+  * Antonio Espina
+  * Benjamín Jarnés
+  * Adolfo Salazar
+  * Xavier Zubiri
 
 <a id="ejemplar-30"></a>
 ### Nº 30 — Diciembre de 1925
@@ -468,6 +612,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **H. Spangenberg** — *Los períodos de la Historia Universal (conclusión)*, pp. 330–340
 * **Juan Dantín Cereceda** — *El hielo cósmico y la novísima meteorología de Hanns Fischer*, pp. 341–355
 * *Notas*, pp. 356–391
+  * Corpus Barga
+  * Juan Dantín Cereceda
+  * Antonio Marichalar
+  * José Miguel Sacristán
+  * Adolfo Salazar
+  * Fernando Vela
 
 [↑ Años](#anios)
 
@@ -488,6 +638,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **H. S. Jennings** — *Prometeo o la biología y el progreso del hombre*, pp. 75–118
 * **José Ortega y Gasset** — *Parerga*, pp. 119–134
 * *Notas*, pp. 130–143
+  * Corpus Barga
+  * José M. de Cossio
+  * Melchor Fernández Almagro
+  * Fernando Vela
 
 <a id="ejemplar-32"></a>
 ### Nº 32 — Febrero de 1926
@@ -502,6 +656,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Felipe P. Datz** — *Eugenio, príncipe de Dinamarca*, pp. 243–252
 * **Blas Cabrera Felipe** — *El éter, la relatividad y los resultados experimentales de Miller*, pp. 253–271
 * *Notas*, pp. 272–286
+  * Pedro Bosch Gimpera
+  * Ramón Carande
+  * Antonio Espina
+  * Antonio Marichalar
 * *Asterisco*, pp. 287–288
 
 <a id="ejemplar-33"></a>
@@ -517,6 +675,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Mauricio Bacarisse** — *Dafnis y Cloe*, pp. 362–368
 * **José Gómez de la Serna y Favre** — *La geopolítica y el porvenir del Pacífico*, pp. 369–392
 * *Notas*, pp. 393–415
+  * Manuel G. Morente
+  * Benjamín Jarnés
+  * Ramón María Tenreiro
+  * Guillermo de Torre
+  * Fernando Vela
 
 <a id="ejemplar-34"></a>
 ### Nº 34 — Abril de 1926
@@ -531,6 +694,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ramón Gómez de la Serna** — *El dueño del átomo*, pp. 59–84
 * **Wladimir Astrow** — *Por una nueva literatura rusa*, pp. 85–98
 * *Notas*, pp. 99–126
+  * Marcelle Auclair
+  * José M. de Cossio
+  * Melchor Fernández Almagro
+  * Benjamín Jarnés
+  * Adolfo Salazar
+  * Guillermo de Torre
 
 <a id="ejemplar-35"></a>
 ### Nº 35 — Mayo de 1926
@@ -544,6 +713,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Antonio Machado** — *Cancionero apócrifo. Abel Martín*, pp. 189–203
 * **Joseph Conrad** — *La Bestia*, pp. 204–238
 * *Notas*, pp. 239–262
+  * Melchor Fernández Almagro
+  * Emilio García Gómez
+  * Benjamín Jarnés
+  * Antonio Marichalar
+  * Esteban Salazar y Chapela
+  * Luis de Zulueta
 
 <a id="ejemplar-36"></a>
 ### Nº 36 — Junio de 1926
@@ -559,6 +734,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Antonio Marichalar** — *Girola*, pp. 329–343
 * **Leon Werth** — *En Extremo Oriente*, pp. 344–363
 * *Notas*, pp. 364–390
+  * Ramón Carande
+  * Gerardo Diego
+  * Antonio Espina
+  * Benjamín Jarnés
 
 <a id="ejemplar-37"></a>
 ### Nº 37 — Julio de 1926
@@ -573,6 +752,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Vicente García de Diego López** — *El léxico español*, pp. 67–76
 * **Georg Kaiser** — *De la mañana a media noche*, pp. 77–109
 * *Notas*, pp. 110–136
+  * Américo Castro
+  * Enrique Díez-Canedo
+  * Manuel G. Morente
+  * José Gómez de la Serna Favre
+  * Benjamín Jarnés
+  * Fernando Vela
 
 <a id="ejemplar-38"></a>
 ### Nº 38 — Agosto de 1926
@@ -586,6 +771,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Georg Kaiser** — *De la mañana a la media noche. (Conclusión)*, pp. 174–224
 * **Blas Cabrera Felipe** — *Cosmogonía*, pp. 225–245
 * *Notas*, pp. 246–270
+  * Juan Dantín Cereceda
+  * Antonio Espina
+  * Benjamín Jarnés
+  * Esteban Salazar y Chapela
+  * Adolfo Salazar
+  * Guillermo de Torre
 
 <a id="ejemplar-39"></a>
 ### Nº 39 — Septiembre de 1926
@@ -601,6 +792,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Antonio Marichalar** — *Desde el hombro de San Cristobal*, pp. 353–364
 * **Fausto María Martini** — *La vida y las palabras*, pp. 365–377
 * *Notas*, pp. 378–400
+  * Antonio Espina
+  * Melchor Fernández Almagro
+  * Benjamín Jarnés
+  * Esteban Salazar y Chapela
 
 <a id="ejemplar-40"></a>
 ### Nº 40 — Octubre de 1926
@@ -615,6 +810,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Dámaso Alonso** — *Torcedor de crepúsculo y violín*, pp. 70–85
 * **Antonio Marichalar** — *Desde el hombro de San Cristóbal. (Conclusión)*, pp. 86–102
 * *Notas*, pp. 103–134
+  * Ricardo Baeza
+  * Pedro Bosch Gimpera
+  * Ramón Carande
+  * Juan Chabás
+  * José M. de Cossio
+  * Guillermo de Torre
 
 <a id="ejemplar-41"></a>
 ### Nº 41 — Noviembre de 1926
@@ -629,6 +830,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Fernando Vela** — *La poesía pura*, pp. 217–240
 * **José Ortega y Gasset** — *Para una caracterología*, pp. 241–253
 * *Notas*, pp. 254–280
+  * Pedro Bosch Gimpera
+  * Juan Chabás
+  * Melchor Fernández Almagro
+  * Antonio Marichalar
+  * Guillermo de Torre
 
 <a id="ejemplar-42"></a>
 ### Nº 42 — Diciembre de 1926
@@ -644,6 +850,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Manuel Abril** — *Itinerario ideal del nuevo arte plástico*, pp. 343–367
 * **Massimo Bontempelli** — *El buen viento*, pp. 368–377
 * *Notas*, pp. 378–408
+  * Mauricio Bacarisse
+  * Pedro Bosch Gimpera
+  * Gerardo Diego
+  * José Gómez de la Serna Favre
+  * Benjamín Jarnés
+  * Xavier Zubiri
 
 [↑ Años](#anios)
 
@@ -667,6 +879,13 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Antonio Marichalar** — *El Ido (Rainer María Rilke)*, pp. 95–101
 * **Rainer Maria Rilke** — *De los "Cuadernos de Malte Laurids Brigge"*, pp. 102–113
 * *Notas*, pp. 114–144
+  * Corpus Barga
+  * Juan Chabás
+  * Gerardo Diego
+  * Antonio Espina
+  * Benjamín Jarnés
+  * Esteban Salazar y Chapela
+  * Ramón María Tenreiro
 
 <a id="ejemplar-44"></a>
 ### Nº 44 — Febrero de 1927
@@ -680,6 +899,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Juan Chabás** — *Las vueltas inútiles*, pp. 200–213
 * **Joseph Conrad** — *Gaspar Ruiz. (Conclusión)*, pp. 214–259
 * *Notas*, pp. 260–286
+  * José M. de Cossio
+  * Antonio Espina
+  * Benjamín Jarnés
+  * Antonio Marichalar
+  * Esteban Salazar y Chapela
+  * Guillermo de Torre
 
 <a id="ejemplar-45"></a>
 ### Nº 45 — Marzo de 1927
@@ -694,6 +919,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **J.B.S. Haldane** — *El juicio final*, pp. 379–400
 * **Cristóbal Hall** — *La pintura española, depósito de tiempo perenne*, pp. 401–406
 * *Notas*, pp. 407–427
+  * Corpus Barga
+  * Melchor Fernández Almagro
+  * Benjamín Jarnés
+  * Luis de Zulueta
 * *Asteriscos*, pp. 428–432
 
 <a id="ejemplar-46"></a>
@@ -708,6 +937,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ramón Gómez de la Serna** — *El gran griposo*, pp. 57–78
 * **Fernando Vela** — *El arte al cubo*, pp. 79–86
 * *Notas*, pp. 87–119
+  * Juan Chabás
+  * José M. de Cossio
+  * Benjamín Jarnés
+  * Esteban Salazar y Chapela
+  * Ángel Sánchez Rivero
 * *Asteriscos*, pp. 120–127
 
 <a id="ejemplar-47"></a>
@@ -723,6 +957,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ramón Gómez de la Serna** — *El gran español Goya*, pp. 191–203
 * **Franz Kafka** — *Un artista del hambre*, pp. 204–219
 * *Notas*, pp. 220–252
+  * Antonio Espina
+  * Benjamín Jarnés
+  * Emiliano Jos
+  * José Antonio Rubio
+  * Ángel Sánchez Rivero
 * *Asteriscos*, pp. 253–256
 
 <a id="ejemplar-48"></a>
@@ -738,6 +977,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Juan Chabás** — *Centenario de poesía amorosa*, pp. 335–355
 * **Lidiia Nikolaevna Seïfullina** — *La vieja*, pp. 356–367
 * *Notas*, pp. 368–395
+  * Francisco Ayala
+  * Rafael Calleja
+  * Melchor Fernández Almagro
+  * Emilio García Gómez
+  * Ramón María Tenreiro
 * *Asteriscos*, pp. 396–400
 
 <a id="ejemplar-49"></a>
@@ -753,6 +997,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Enrique Díez Canedo** — *H.-R. Lenormand y el paisaje dramático*, pp. 64–76
 * **Henrí-René Lenormand** — *El hombre y sus fantasmas*, pp. 77–104
 * *Notas*, pp. 105–125
+  * Juan Dantín Cereceda
+  * Antonio Espina
+  * Melchor Fernández Almagro
+  * Benjamín Jarnés
+  * Guillermo de Torre
 * *Asteriscos*, pp. 126–128
 
 <a id="ejemplar-50"></a>
@@ -767,6 +1016,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Juan Dantín Cereceda** — *El medio vivo y las asociaciones biogeográficas*, pp. 181–205
 * **Henrí-René Lenormand** — *El hombre y sus fantasmas*, pp. 206–238
 * *Notas*, pp. 239–255
+  * Francisco Ayala
+  * José M. de Cossio
+  * Benjamín Jarnés
+  * Antonio Marichalar
 
 <a id="ejemplar-51"></a>
 ### Nº 51 — Septiembre de 1927
@@ -784,6 +1037,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Henrí-René Lenormand** — *El Hombre y sus fantasmas*, pp. 339–356
 * **Ivan Luppol** — *La filosofía en la Rusia soviética*, pp. 357–370
 * *Notas*, pp. 371–389
+  * Gerardo Diego
+  * Benjamín Jarnés
+  * Antonio Marichalar
+  * Ramón María Tenreiro
 * *Asteriscos*, pp. 390–392
 
 <a id="ejemplar-52"></a>
@@ -799,6 +1056,14 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Max Aub** — *Geografía*, pp. 61–79
 * **David Herbert Lawrence** — *Dos abejarucos*, pp. 80–102
 * *Notas*, pp. 103–142
+  * Francisco Ayala
+  * Juan Chabás
+  * Ernesto Giménez Caballero
+  * José Gómez de la Serna Favre
+  * Ramón Gómez de la Serna
+  * Benjamín Jarnés
+  * Esteban Salazar y Chapela
+  * Fernando Vela
 * *Asteriscos*, pp. 143–144
 
 <a id="ejemplar-53"></a>
@@ -814,6 +1079,14 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Italo Svevo** — *Vino generoso*, pp. 205–228
 * **Rafael Calleja** — *Diez años despues*, pp. 229–250
 * *Notas*, pp. 251–287
+  * Juan Chabás
+  * José M. de Cossio
+  * Gerardo Diego
+  * Antonio Espina
+  * Melchor Fernández Almagro
+  * Ernesto Giménez Caballero
+  * Emiliano Jos
+  * José María Quiroga Plá
 * *Asterisco*, p. 288
 
 <a id="ejemplar-54"></a>
@@ -829,6 +1102,15 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Manuel Abril** — *Romanticismo, clasicismo y goticismo*, pp. 351–383
 * **Vsevolod Ivanov** — *Temerbej, el kirguiso*, pp. 384–395
 * *Notas*, pp. 396–429
+  * Dámaso Alonso
+  * Marcelle Auclair
+  * Francisco Ayala
+  * Juan Chabás
+  * Antonio Espina
+  * Melchor Fernández Almagro
+  * José Gómez de la Serna Favre
+  * Emiliano Jos
+  * Gustavo Pittaluga
 * *Asteriscos*, pp. 430–432
 
 [↑ Años](#anios)
@@ -851,6 +1133,13 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Rosa Chacel** — *Chinina Migone*, pp. 79–89
 * **Bruno Barilli** — *El país del melodrama*, pp. 90–108
 * *Notas*, pp. 109–136
+  * Francisco Ayala
+  * Américo Castro
+  * Juan Chabás
+  * Ernesto Giménez Caballero
+  * Benjamín Jarnés
+  * Antonio Marichalar
+  * José María Quiroga Plá
 * *Asteriscos*, pp. 137–139
 
 <a id="ejemplar-56"></a>
@@ -865,6 +1154,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Franz Werfel** — *El alejamiento*, pp. 203–246
 * **Edgar Neville** — *Stella Matutina*, pp. 247–270
 * *Notas*, pp. 271–303
+  * Corpus Barga
+  * Blas Cabrera
+  * Antonio Espina
+  * Benjamín Jarnés
+  * Antonio Marichalar
 * *Asterisco*, pp. 304–305
 
 <a id="ejemplar-57"></a>
@@ -880,6 +1174,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Lytton Strachey** — *La muerte del general Gordon*, pp. 359–378
 * **Franz Werfel** — *El alejamiento (Conclusión)*, pp. 379–416
 * *Notas*, pp. 417–434
+  * Francisco Ayala
+  * Juan Chabás
+  * Antonio Espina
+  * Antonio Marichalar
+  * Luis de Zulueta
 * *Asteriscos*, pp. 435–439
 
 <a id="ejemplar-58"></a>
@@ -895,6 +1194,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Lytton Strachey** — *La muerte del general Gordon*, pp. 57–85
 * **Lothar von Strauss und Torney** — *La imagen del mundo según la Física moderna*, pp. 86–108
 * *Notas*, pp. 109–137
+  * Marcelle Auclair
+  * Antonio Bermúdez Cañete
+  * Benjamín Jarnés
+  * José María Quiroga Plá
+  * Ángel Sánchez Rivero
+  * C. G. Yung
 * *Asteriscos*, pp. 138–140
 
 <a id="ejemplar-59"></a>
@@ -910,6 +1215,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Fernando Vela** — *Charlot*, pp. 231–237
 * **James Hopwood Jeans** — *Nuevos aspectos de la cosmogonía*, pp. 238–266
 * *Notas*, pp. 267–292
+  * Francisco Ayala
+  * José M. de Cossio
+  * José María Quiroga Plá
+  * Esteban Salazar y Chapela
+  * Adolfo Salazar
 
 <a id="ejemplar-60"></a>
 ### Nº 60 — Junio de 1928
@@ -924,6 +1234,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Sherwood Anderson** — *Soy un idiota*, pp. 358–377
 * **Antonio Bermúdez Cañete** — *Cultura y técnica*, pp. 378–397
 * *Notas*, pp. 398–416
+  * Rosa Chacel
+  * Melchor Fernández Almagro
+  * Antonio Marichalar
+  * José Ortega y Gasset
+  * José Miguel Sacristán
 * *Asteriscos*, pp. 417–420
 
 <a id="ejemplar-61"></a>
@@ -939,6 +1254,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Leopoldo Ziegler** — *La desdivinización del mundo*, pp. 61–79
 * **Manuel Abril** — *María Mallo*, pp. 80–95
 * *Notas*, pp. 96–124
+  * Juan Chabás
+  * Antonio Espina
+  * Emilio García Gómez
+  * Emiliano Jos
+  * José Antonio Rubio
+  * Ángel Sánchez Rivero
 * *Asterisco*, pp. 125–127
 
 <a id="ejemplar-62"></a>
@@ -954,6 +1275,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Georg Kaiser** — *Gas*, pp. 204–223
 * **Corpus Barga** — *Diálogo sobre el teatro judío de Moscu y el teatro chino de La Habana*, pp. 224–236
 * *Notas*, pp. 237–249
+  * Antonio Bermúdez Cañete
+  * Blas Cabrera
+  * Juan Chabás
+  * Antonio Espina
+  * Benjamín Jarnés
 * *Fe de erratas*, pp. 250–256
 
 <a id="ejemplar-63"></a>
@@ -970,6 +1296,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Georg Kaiser** — *Gas*, pp. 322–350
 * **Harold Lamb** — *La conquista de Persia por Genghis Khan*, pp. 351–372
 * *Notas*, pp. 373–389
+  * Antonio Espina
+  * Melchor Fernández Almagro
+  * Benjamín Jarnés
+  * Antonio Marichalar
+  * Adolfo Salazar
 
 <a id="ejemplar-64"></a>
 ### Nº 64 — Octubre de 1928
@@ -984,6 +1315,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Marcelle Auclair** — *El mundo de Marie Laurencin*, pp. 68–90
 * **Jules Supervielle** — *El suicidio de Filemón Biguá*, pp. 91–99
 * *Notas*, pp. 100–125
+  * Francisco Ayala
+  * José M. de Cossio
+  * José María Igual
+  * Benjamín Jarnés
+  * José María Quiroga Plá
 
 <a id="ejemplar-65"></a>
 ### Nº 65 — Noviembre de 1928
@@ -998,6 +1334,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ramón Gómez de la Serna** — *Azorín*, pp. 202–226
 * **Francisco Ayala** — *Medusa artificial*, pp. 227–238
 * *Notas*, pp. 239–253
+  * Antonio Espina
+  * José María Igual
+  * Benjamín Jarnés
+  * José Francisco Pastor
 
 <a id="ejemplar-66"></a>
 ### Nº 66 — Diciembre de 1928
@@ -1011,6 +1351,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Eduard Spranger** — *La erótica y la adolescencia*, pp. 299–333
 * **Adolfo Salazar** — *La música española en tiempos de Goya*, pp. 334–377
 * *Notas*, pp. 378–392
+  * Francisco Ayala
+  * Rosa Chacel
+  * Benjamín Jarnés
+  * Luis Villalonga
+  * Luis de Zulueta
 
 [↑ Años](#anios)
 
@@ -1032,6 +1377,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Waldo Frank** — *La mujer norteamericana*, pp. 70–82
 * **Waldo Frank** — *Las artes actuales en norteamérica*, pp. 83–102
 * *Notas*, pp. 103–128
+  * Francisco Ayala
+  * Antonio Espina
+  * José Gómez de la Serna Favre
+  * Benjamín Jarnés
+  * Antonio Marichalar
+  * José María Quiroga Plá
 
 <a id="ejemplar-68"></a>
 ### Nº 68 — Febrero de 1929
@@ -1045,6 +1396,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Arnold Metzger** — *La situación presente de la fenomenología*, pp. 178–209
 * **Rosa Chacel** — *Juego de las dos esquinas*, pp. 210–234
 * *Notas*, pp. 235–256
+  * Antonio Espina
+  * Melchor Fernández Almagro
+  * José María Igual
+  * Antonio Marichalar
+  * REDACCIÓN
+  * Luis G. de Valdeavellano
 
 <a id="ejemplar-69"></a>
 ### Nº 69 — Marzo de 1929
@@ -1059,6 +1416,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Corpus Barga** — *Pintura nunca vista*, pp. 341–351
 * **Franz Werfel** — *La muerte del pequeño burgués*, pp. 352–388
 * *Notas*, pp. 389–408
+  * Rosa Chacel
+  * Antonio Espina
+  * Manuel G. Morente
+  * Benjamín Jarnés
+  * José María Quiroga Plá
 
 <a id="ejemplar-70"></a>
 ### Nº 70 — Abril de 1929
@@ -1074,6 +1436,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Eugene O ' Neill** — *El Emperador Jones*, pp. 76–101
 * **Lothar von Strauss und Torney** — *La ley causal y la física moderna*, pp. 102–126
 * *Notas*, pp. 127–144
+  * Francisco Ayala
+  * Rafael Calleja
+  * Antonio Espina
+  * Benjamín Jarnés
+  * Esteban Salazar y Chapela
 
 <a id="ejemplar-71"></a>
 ### Nº 71 — Mayo de 1929
@@ -1087,6 +1454,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ricardo Baeza** — *El Teatro de Eugenio O' Neill*, pp. 189–234
 * **Eugene O ' Neill** — *El Emperador Jones (conclusión)*, pp. 235–262
 * *Notas*, pp. 263–278
+  * Francisco Ayala
+  * José María Igual
+  * Ramiro Ledesma Ramos
+  * REDACCIÓN
+  * Fernando Vela
 
 <a id="ejemplar-72"></a>
 ### Nº 72 — Junio de 1929
@@ -1100,6 +1472,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Paul Valéry** — *Le cimetiére marin / El cementerio marino*, pp. 340–353
 * **Waldo Frank** — *Europa destruída*, pp. 354–379
 * *Notas*, pp. 380–397
+  * Benjamín Jarnés
+  * Ramiro Ledesma Ramos
+  * Antonio Marichalar
+  * REDACCIÓN
+  * Esteban Salazar y Chapela
 * *Memento de revistas*, pp. 398–400
 
 <a id="ejemplar-73"></a>
@@ -1114,6 +1491,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Georg Kaiser** — *Un día de octubre (comedia en tres actos). Acto primero*, pp. 40–62
 * **Ramón Gómez de la Serna** — *Completa y verídica historia de Picasso y el cubismo*, pp. 63–102
 * *Notas*, pp. 103–138
+  * Francisco Ayala
+  * Emilio García Gómez
+  * Benjamín Jarnés
+  * Emiliano Jos
+  * José Ortega y Gasset
 
 <a id="ejemplar-74"></a>
 ### Nº 74 — Agosto de 1929
@@ -1127,6 +1509,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Georg Kaiser** — *Un día de octubre (comedia en tres actos). Segundo acto*, pp. 201–223
 * **Ramón Gómez de la Serna** — *Completa y verídica historia de Picasso y el cubismo (conclusión)*, pp. 224–250
 * *Notas*, pp. 251–266
+  * Luis Cernuda
+  * José María Igual
+  * José María Quiroga Plá
 
 <a id="ejemplar-75"></a>
 ### Nº 75 — Septiembre de 1929
@@ -1142,6 +1527,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Georg Kaiser** — *Un día de octubre (comedia en tres actos). Tercer acto*, pp. 329–351
 * **Jean Prévost** — *Primera y segunda juventud de Stendhal*, pp. 352–367
 * *Notas*, pp. 368–384
+  * Juan Dantín Cereceda
+  * Emiliano Jos
+  * Ramiro Ledesma Ramos
 
 <a id="ejemplar-76"></a>
 ### Nº 76 — Octubre de 1929
@@ -1157,6 +1545,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **José María Igual** — *Sanielevici, un lamarckista del siglo XX*, pp. 69–86
 * **Ramón Gómez de la Serna** — *Los medios seres. Comedia en tres actos (acto primero)*, pp. 87–120
 * *Notas*, pp. 121–144
+  * Luis Cernuda
+  * Antonio Espina
+  * Benjamín Jarnés
+  * Adolfo Salazar
 
 <a id="ejemplar-77"></a>
 ### Nº 77 — Noviembre de 1929
@@ -1171,6 +1563,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Luis de Zulueta** — *¿Un renacimiento católico?. Liturgia y espíritu*, pp. 202–222
 * **Rosa Chacel** — *Teresa (novela de amor)*, pp. 223–243
 * *Notas*, pp. 244–268
+  * Corpus Barga
+  * Antonio Espina
+  * Ernesto Giménez Caballero
+  * Benjamín Jarnés
 * *Memento de revistas*, pp. 269–272
 
 <a id="ejemplar-78"></a>
@@ -1185,6 +1581,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ramón Gómez de la Serna** — *Los medios seres. Comedia en tres actos (conclusión)*, pp. 348–394
 * **Blas Cabrera Felipe** — *Los mundos habitables*, pp. 395–418
 * *Notas*, pp. 419–432
+  * Ernesto Giménez Caballero
+  * Benjamín Jarnés
+  * Luis de Zulueta
 
 [↑ Años](#anios)
 
@@ -1205,6 +1604,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **K. Olbricht** — *Clima y evolución*, pp. 40–84
 * **Jaime Torres Bodet** — *"Close - up" de Mr. Lehar*, pp. 85–119
 * *Notas*, pp. 120–143
+  * Juan Chabás
+  * Antonio Espina
+  * Emilio García Gómez
+  * Fernando Vela
 
 <a id="ejemplar-80"></a>
 ### Nº 80 — Febrero de 1930
@@ -1219,6 +1622,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Carl Schmitt** — *El proceso de neutralización de la cultura*, pp. 199–221
 * **K. Olbricht** — *Clima y evolución (Conclusión)*, pp. 222–271
 * *Notas*, pp. 272–295
+  * Emilio García Gómez
+  * José Gómez de la Serna Favre
+  * Jaime Torres Bodet
 
 <a id="ejemplar-81"></a>
 ### Nº 81 — Marzo de 1930
@@ -1234,6 +1640,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ernesto Giménez Caballero** — *Monograma sobre la judería de Escopia*, pp. 356–376
 * **Theodor Lüddecke** — *El americanismo, realidad y tópico*, pp. 377–396
 * *Notas*, pp. 397–414
+  * Francisco Ayala
+  * Juan Chabás
+  * Antonio Espina
+  * José María Igual
+  * Benjamín Jarnés
+  * Antonio Marichalar
 
 <a id="ejemplar-82"></a>
 ### Nº 82 — Abril de 1930
@@ -1247,6 +1659,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Evgueni Ivánovich Zamiátin** — *El cazador de hombres*, pp. 45–75
 * **Hermann, Graf von Keyserling** — *El "sobreestimado" niño*, pp. 76–122
 * *Notas*, pp. 123–136
+  * Antonio Espina
+  * Ramiro Ledesma Ramos
 
 <a id="ejemplar-83"></a>
 ### Nº 83 — Mayo de 1930
@@ -1260,6 +1674,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ernesto Giménez Caballero** — *San José*, pp. 169–227
 * **Jean Cocteau** — *La voz humana*, pp. 228–249
 * *Notas*, pp. 250–264
+  * Valentín Andrés
+  * Emilio García Gómez
+  * Benjamín Jarnés
+  * Agustín Miranda Junco
 
 <a id="ejemplar-84"></a>
 ### Nº 84 — Junio de 1930
@@ -1273,6 +1691,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Edgar Neville** — *Su único amigo*, pp. 339–347
 * **Ramón Gómez de la Serna** — *Gravedad e importancia del humorismo*, pp. 348–391
 * *Notas*, pp. 392–408
+  * Francisco Ayala
+  * Emilio García Gómez
+  * Ramiro Ledesma Ramos
 
 <a id="ejemplar-85"></a>
 ### Nº 85 — Julio de 1930
@@ -1286,6 +1707,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Theodor Lüddecke** — *El reclamo y su influencia sobre la fisonomía de la cultura*, pp. 89–102
 * **Medina Azara , [Seud.]** — *El patriarca judío*, pp. 103–112
 * *Notas*, pp. 113–118
+  * Francisco Ayala
+  * Benjamín Jarnés
+  * Ramiro Ledesma Ramos
+  * Antonio Marichalar
 * *Asterisco*, pp. 119–120
 
 <a id="ejemplar-86"></a>
@@ -1300,6 +1725,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Jaime Torres Bodet** — *Muerte de Proserpina (conclusión)*, pp. 177–215
 * **André Job** — *Anfitrión 38 (conclusión)*, pp. 216–255
 * *Notas*, pp. 256–263
+  * Juan Dantín Cereceda
 
 <a id="ejemplar-87"></a>
 ### Nº 87 — Septiembre de 1930
@@ -1313,6 +1739,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Arthur Stanley Eddington** — *La ciencia y el mundo invisible*, pp. 324–370
 * **Rafael Porlán** — *Epístola a Rocío*, pp. 371–382
 * *Notas*, pp. 383–400
+  * Benjamín Jarnés
+  * Fernando Vela
 
 <a id="ejemplar-88"></a>
 ### Nº 88 — Octubre de 1930
@@ -1328,6 +1756,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Miguel Asín Palacios** — *De la vida monástica en el Islam*, pp. 102–116
 * **Gerda Walther** — *Ludwig Klages y su lucha contra el "espíritu" (Conclusión)*, pp. 117–136
 * *Notas*, pp. 137–143
+  * Antonio Espina
+  * Antonio Marichalar
 
 <a id="ejemplar-89"></a>
 ### Nº 89 — Noviembre de 1930
@@ -1341,6 +1771,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Søren Kierkegaard** — *Fragmentos sobre la angustia*, pp. 204–223
 * **Ricardo Baeza** — *La batalla de "Hernani"*, pp. 224–249
 * *Notas*, pp. 250–266
+  * Francisco Ayala
+  * Ramón Gómez de la Serna
+  * Ramiro Ledesma Ramos
+  * REDACCIÓN
 
 <a id="ejemplar-90"></a>
 ### Nº 90 — Diciembre de 1930
@@ -1355,6 +1789,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Antonio Espina** — *La paciencia o Eliú, hijo de Barachel*, pp. 328–344
 * **Gustavo Pittaluga** — *Climaterio de la cortesía*, pp. 345–360
 * *Notas*, pp. 361–378
+  * Antonio Espina
+  * Benjamín Jarnés
+  * Ramiro Ledesma Ramos
+  * Jaime Torres Bodet
 
 [↑ Años](#anios)
 
@@ -1375,6 +1813,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Angel Sánchez Rivero** — *Papeles póstumos*, pp. 29–51
 * **San Posidio** — *La vida de San Agustín*, pp. 52–100
 * *Notas*, pp. 101–112
+  * Antonio Marichalar
+  * Agustín Miranda Junco
 
 <a id="ejemplar-92"></a>
 ### Nº 92 — Febrero de 1931
@@ -1388,6 +1828,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Valentín Andrés Álvarez** — *La templanza*, pp. 181–196
 * **Jules Supervielle** — *La desconocida del Sena*, pp. 197–208
 * *Notas*, pp. 209–224
+  * Melchor Fernández Almagro
+  * Emilio García Gómez
+  * Emiliano Jos
 
 <a id="ejemplar-93"></a>
 ### Nº 93 — Marzo de 1931
@@ -1402,6 +1845,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Virginia Woolf** — *El tiempo pasa*, pp. 283–297
 * **Máximo José Kahn** — *Berlín 1931*, pp. 298–321
 * *Notas*, pp. 322–328
+  * Benjamín Jarnés
+  * Antonio Marichalar
 
 <a id="ejemplar-94"></a>
 ### Nº 94 — Abril de 1931
@@ -1415,6 +1860,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Aldous Huxley** — *La vulgaridad en la literatura (conclusión)*, pp. 72–107
 * **Agustín Miranda** — *La felicidad a la sombra de los capotes*, pp. 108–113
 * *Notas*, pp. 114–120
+  * Francisco Ayala
+  * Antonio Marichalar
 
 <a id="ejemplar-95"></a>
 ### Nº 95 — Mayo de 1931
@@ -1429,6 +1876,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Charlotte Lütkens** — *El capitalismo norteamericano*, pp. 177–192
 * **Antonio Marichalar** — *Visto y oido*, pp. 193–204
 * *Notas*, pp. 205–215
+  * Antonio Espina
+  * Benjamín Jarnés
+  * Agustín Miranda Junco
 
 <a id="ejemplar-96"></a>
 ### Nº 96 — Junio de 1931
@@ -1443,6 +1893,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Emilio García Gómez** — *Descensos de los astros y ascensiones de los iluminados*, pp. 280–296
 * **Antonio Marichalar** — *Visto y oido*, pp. 297–307
 * *Notas*, pp. 308–320
+  * José Gómez de la Serna Favre
+  * Benjamín Jarnés
+  * Antonio de Obregón
 
 <a id="ejemplar-97"></a>
 ### Nº 97 — Julio de 1931
@@ -1456,6 +1909,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Franz Werfel** — *Casa de tristeza*, pp. 51–89
 * **Roberto Nóvoa Santos** — *Interpretación patogenealógica del hombre*, pp. 90–120
 * *Notas*, pp. 121–128
+  * Emilio García Gómez
 
 <a id="ejemplar-98"></a>
 ### Nº 98 — Agosto de 1931
@@ -1469,6 +1923,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Hermann Weyl** — *Los grados de lo infinito*, pp. 170–200
 * **Franz Werfel** — *Casa de tristeza (conclusión)*, pp. 201–238
 * *Notas*, pp. 239–248
+  * Dámaso Alonso
+  * Agustín Miranda Junco
 
 <a id="ejemplar-99"></a>
 ### Nº 99 — Septiembre de 1931
@@ -1482,6 +1938,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Angel Sánchez Rivero** — *Los heroes*, pp. 328–342
 * **Fernando Vela** — *Visto y oido*, pp. 343–351
 * *Notas*, pp. 352–360
+  * Guillermo Díaz Plaja
+  * Antonio de Obregón
 
 <a id="ejemplar-100"></a>
 ### Nº 100 — Octubre de 1931
@@ -1496,6 +1954,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ferdinand Bruckner** — *Los criminales*, pp. 46–104
 * **M.J. Bonn** — *El sentido de la crisis norteamericana*, pp. 105–117
 * *Notas*, pp. 118–120
+  * Antonio Espina
 
 <a id="ejemplar-101"></a>
 ### Nº 101 — Noviembre de 1931
@@ -1509,6 +1968,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ferdinand Bruckner** — *Los criminales*, pp. 147–191
 * **Ludwig Pfandl** — *El principe Don Carlos*, pp. 192–222
 * *Notas*, pp. 223–232
+  * Emiliano Jos
+  * Agustín Miranda Junco
 
 <a id="ejemplar-102"></a>
 ### Nº 102 — Diciembre de 1931
@@ -1522,6 +1983,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ferdinand Bruckner** — *Los criminales*, pp. 300–338
 * **Medina Azara , [Seud.]** — *La vida poética de un judío toledano del siglo XII*, pp. 339–355
 * *Notas*, pp. 356–360
+  * Juan Chabás
 
 [↑ Años](#anios)
 
@@ -1542,6 +2004,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Liam O'Flaherty** — *El cadáver del zarismo*, pp. 62–82
 * **Lino Novás Calvo** — *La luna de los ñáñigos*, pp. 83–105
 * *Notas*, pp. 106–120
+  * Vicente Aleixandre
+  * Juan Dantín Cereceda
 
 <a id="ejemplar-104"></a>
 ### Nº 104 — Febrero de 1932
@@ -1568,6 +2032,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Aldous Huxley** — *Meditaciones sobre el Greco*, pp. 308–320
 * **Katherine Mansfield** — *Preludio (conclusión)*, pp. 321–356
 * *Notas*, pp. 357–360
+  * Manuel Altolaguirre
 
 <a id="ejemplar-106"></a>
 ### Nº 106 — Abril de 1932
@@ -1595,6 +2060,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Carl Gustav Jung** — *El problema psíquico del hombre moderno*, pp. 202–234
 * **Lino Novás Calvo** — *En el cayo*, pp. 235–269
 * *Notas*, pp. 270–280
+  * REDACCIÓN
 
 <a id="ejemplar-108"></a>
 ### Nº 108 — Junio de 1932
@@ -1609,6 +2075,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Jaime Torres Bodet** — *Galería nocturna*, pp. 331–352
 * **Emile Lederer** — *Salida de la crisis económica*, pp. 353–367
 * *Notas*, pp. 368–384
+  * Manuel Altolaguirre
+  * Juan Dantín Cereceda
+  * Ramón Gómez de la Serna
+  * Agustín Miranda Junco
 
 <a id="ejemplar-109"></a>
 ### Nº 109 — Julio de 1932
@@ -1623,6 +2093,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Emile Lederer** — *Salida de la crisis económica (conclusión)*, pp. 70–100
 * **Margarita de Pedroso** — *Hacia Galilea (conclusión)*, pp. 101–122
 * *Notas*, pp. 123–128
+  * Antonio Marichalar
+  * Agustín Miranda Junco
 
 <a id="ejemplar-110"></a>
 ### Nº 110 — Agosto de 1932
@@ -1637,6 +2109,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Alfonso Reyes** — *Mallarmé en castellano*, pp. 190–219
 * **J. Lillo Rodelgo** — *J. Ortega y Gasset: La manera veneciana de sus paisajes*, pp. 220–233
 * *Notas*, pp. 234–240
+  * Antonio Espina
 
 <a id="ejemplar-111"></a>
 ### Nº 111 — Septiembre de 1932
@@ -1651,6 +2124,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Joachim Hämmerling** — *El problema de la muerte natural*, pp. 311–328
 * **J. Lillo Rodelgo** — *J. Ortega y Gasset: La manera veneciana de sus paisajes (conclusión)*, pp. 329–344
 * *Notas*, pp. 345–352
+  * Ramón Gómez de la Serna
+  * Fernando Vela
 
 <a id="ejemplar-112"></a>
 ### Nº 112 — Octubre de 1932
@@ -1664,6 +2139,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Joachim Hämmerling** — *El problema de la muerte natural (conclusión)*, pp. 54–68
 * **M.J. Bonn** — *El destino del capitalismo alemán*, pp. 69–109
 * *Notas*, pp. 110–112
+  * Antonio Espina
 
 <a id="ejemplar-113"></a>
 ### Nº 113 — Noviembre de 1932
@@ -1678,6 +2154,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Francisco Rivera Pastor** — *La actitud íntima del hombre actual frente al derecho*, pp. 192–208
 * **Franz Kafka** — *Un artista del trapecio*, pp. 209–213
 * *Notas*, pp. 214–224
+  * Benjamín Jarnés
+  * Lino Novás Calvo
+  * Antonio de Obregón
 
 <a id="ejemplar-114"></a>
 ### Nº 114 — Diciembre de 1932
@@ -1692,6 +2171,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Louis Massignon** — *Los métodos de realización artística de los pueblos del Islam*, pp. 257–284
 * **Lino Novás Calvo** — *Aquella noche salieron los muertos*, pp. 285–322
 * *Notas*, pp. 323–344
+  * Dámaso Alonso
+  * Antonio de Obregón
+  * Guillermo de Torre
 
 [↑ Años](#anios)
 
@@ -1712,6 +2194,12 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Waldo Frank** — *El cuerpo de Lenin*, pp. 39–50
 * **Xavier Zubiri** — *Sobre el problema de la filosofía*, pp. 51–80
 * *Notas*, pp. 81–112
+  * Juan Chabás
+  * Benjamín Jarnés
+  * Lino Novás Calvo
+  * P. W.
+  * José Tudela
+  * María Zambrano
 
 <a id="ejemplar-116"></a>
 ### Nº 116 — Febrero de 1933
@@ -1726,6 +2214,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Ramón Gómez de la Serna** — *Ensayos heterogeneos*, pp. 174–208
 * **Franz Werfel** — *Secreto de un hombre (conclusión)*, pp. 209–234
 * *Notas*, pp. 235–240
+  * Benjamín Jarnés
+  * Louis Massignon
+  * P. W.
 
 <a id="ejemplar-117"></a>
 ### Nº 117 — Marzo de 1933
@@ -1739,6 +2230,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Blas Cabrera Felipe** — *Como ve el mundo la Física actual*, pp. 280–300
 * **Jaime Torres Bodet** — *Sin Piedad*, pp. 301–331
 * *Notas*, pp. 332–352
+  * P. W.
+  * Fernando Vela
+  * María Zambrano
 
 <a id="ejemplar-118"></a>
 ### Nº 118 — Abril de 1933
@@ -1753,6 +2247,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Luys Santa Marina** — *La Universidad de Alcalá*, pp. 65–82
 * **Xavier Zubiri** — *Sobre el problema de la filosofía (continuación)*, pp. 83–117
 * *Notas*, pp. 118–128
+  * José Antonio Maravall
+  * Antonio Marichalar
 
 <a id="ejemplar-119"></a>
 ### Nº 119 — Mayo de 1933
@@ -1766,6 +2262,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Medina Azara , [Seud.]** — *La cuna ibérica de los hebreos*, pp. 182–198
 * **Fernando Vela** — *Eugenesia y racismo*, pp. 199–221
 * *Notas*, pp. 222–240
+  * Juan Dantín Cereceda
+  * Guillermo de Torre
 
 <a id="ejemplar-120"></a>
 ### Nº 120 — Junio de 1933
@@ -1780,6 +2278,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Angel Sánchez Rivero** — *Sobre el sentido del trabajo intelectual*, pp. 326–340
 * **Emilio García Gómez** — *Elogio de Al-Andalus por al-Saqundi*, pp. 341–350
 * *Notas*, pp. 351–360
+  * José Mª Chacón y Calvo
+  * Hugo Obermaier
 
 <a id="ejemplar-121"></a>
 ### Nº 121 — Julio de 1933
@@ -1793,6 +2293,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **D. B. Wyndhan Lewis** — *Carlos de Europa*, pp. 70–92
 * **José Antonio Maravall** — *Teoría del Poema*, pp. 93–106
 * *Notas*, pp. 107–127
+  * Antonio Marichalar
+  * Lino Novás Calvo
+  * Antonio de Obregón
+  * REDACCIÓN
 
 <a id="ejemplar-122"></a>
 ### Nº 122 — Agosto de 1933
@@ -1807,6 +2311,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **M. Rabage** — *Los cien días*, pp. 203–220
 * **Pedro Salinas** — *Poemas*, pp. 221–228
 * *Notas*, pp. 229–240
+  * Lino Novás Calvo
+  * Fernando Vela
 
 <a id="ejemplar-123"></a>
 ### Nº 123 — Septiembre de 1933
@@ -1820,6 +2326,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Tor Andrae** — *Mahoma*, pp. 309–339
 * **José Ortega y Gasset** — *En el tránsito del cristianismo al racionalismo*, pp. 340–361
 * *Notas*, pp. 362–368
+  * Benjamín Jarnés
 
 <a id="ejemplar-124"></a>
 ### Nº 124 — Octubre de 1933
@@ -1833,6 +2340,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Antonio Marichalar** — *William Faulkner*, pp. 78–86
 * **William Faulkner** — *Todos los aviadores muertos*, pp. 87–117
 * *Notas*, pp. 118–128
+  * Benjamín Jarnés
+  * Antonio de Obregón
 
 <a id="ejemplar-125"></a>
 ### Nº 125 — Noviembre de 1933
@@ -1846,6 +2355,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Carmen Muñoz Roca-Tallada** — *La muerte de Doña María Pacheco*, pp. 188–196
 * **José Ortega y Gasset** — *Guilermo Dilthey y la idea de la vida*, pp. 197–214
 * *Notas*, pp. 215–240
+  * Benjamín Jarnés
+  * José Antonio Maravall
+  * Antonio Marichalar
+  * Lino Novás Calvo
 
 <a id="ejemplar-126"></a>
 ### Nº 126 — Diciembre de 1933
@@ -1859,6 +2372,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Hans Reichenbach** — *La filosofía científica (conclusión)*, pp. 293–311
 * **George Simmel** — *Rodin*, pp. 312–336
 * *Notas*, pp. 337–352
+  * Benjamín Jarnés
+  * Antonio de Obregón
 
 [↑ Años](#anios)
 
@@ -1880,6 +2395,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **José María Quiroga Plá** — *Venticuatro horas después*, pp. 66–86
 * **José Ortega y Gasset** — *Guillermo Dilthey y la idea de la vida (continuación)*, pp. 87–116
 * *Notas*, pp. 117–120
+  * María Zambrano
 
 <a id="ejemplar-128"></a>
 ### Nº 128 — Febrero de 1934
@@ -1893,6 +2409,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **José María Quiroga Plá** — *Ventiuatro horas despues (conclusión)*, pp. 167–186
 * **Oswald Spengler** — *La revolución mundial de color*, pp. 187–214
 * *Notas*, pp. 215–232
+  * José Antonio Maravall
+  * Fernando Vela
+  * María Zambrano
 
 <a id="ejemplar-129"></a>
 ### Nº 129 — Marzo de 1934
@@ -1906,6 +2425,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **José Antonio Maravall** — *De una cultura de progreso a una cultura de la vida*, pp. 288–313
 * **Hans Hahn** — *La crisis de la intuición*, pp. 314–348
 * *Notas*, pp. 349–360
+  * José Antonio Maravall
+  * Antonio de Obregón
 
 <a id="ejemplar-130"></a>
 ### Nº 130 — Abril de 1934
@@ -1919,6 +2440,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Paul Ludwig Landsberg** — *Ideología racista y ciencia de las razas*, pp. 52–71
 * **Benjamín Jarnés** — *Visita a Castelar*, pp. 72–94
 * *Notas*, pp. 95–112
+  * Emilio García Gómez
+  * Lino Novás Calvo
 
 <a id="ejemplar-131"></a>
 ### Nº 131 — Mayo de 1934
@@ -1932,6 +2455,11 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Paul Ludwig Landsberg** — *Ideología racista y ciencia de las razas (conclusión)*, pp. 154–175
 * **Eduardo Mallea** — *La angustía (conclusión)*, pp. 176–202
 * *Notas*, pp. 203–232
+  * Benjamín Jarnés
+  * Paul Ludwig Ladnsberg
+  * José Antonio Maravall
+  * Antonio de Obregón
+  * María Zambrano
 
 <a id="ejemplar-132"></a>
 ### Nº 132 — Junio de 1934
@@ -1945,6 +2473,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Antonio Marichalar** — *Musaraña*, pp. 304–317
 * **María Zambrano** — *Por qué se escribe*, pp. 318–328
 * *Notas*, pp. 329–344
+  * Antonio Espina
+  * Antonio de Obregón
 
 <a id="ejemplar-133"></a>
 ### Nº 133 — Julio de 1934
@@ -1958,6 +2488,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Jaime Torres Bodet** — *Despertar*, pp. 52–77
 * **Angel Sánchez Rivero** — *Las nacionalidades*, pp. 78–92
 * *Notas*, pp. 93–112
+  * Antonio Espina
+  * Benjamín Jarnés
+  * Antonio de Obregón
 
 <a id="ejemplar-134"></a>
 ### Nº 134 — Agosto de 1934
@@ -1970,6 +2503,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Luis Olariaga** — *La Revolución de Roosevelt*, pp. 162–189
 * **Ramón Gómez de la Serna** — *Las cosas y "el ello"*, pp. 190–208
 * *Notas*, pp. 209–224
+  * Antonio Espina
+  * José Antonio Maravall
+  * José Muñoz Rojas
 
 <a id="ejemplar-135"></a>
 ### Nº 135 — Septiembre de 1934
@@ -1983,6 +2519,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Augusto L. Mayer** — *El Escorial y Felipe II*, pp. 270–283
 * **Eduard Spranger** — *El hombre social*, pp. 284–311
 * *Notas*, pp. 312–327
+  * Lino Novás Calvo
+  * Gustavo Pittaluga
+  * Guillermo de Torre
 
 <a id="ejemplar-136"></a>
 ### Nº 136 — Octubre de 1934
@@ -1997,6 +2536,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **José Antonio Maravall** — *Castilla o la moral de la creación*, pp. 59–75
 * **Ramón Gómez de la Serna** — *La estufa de cristal*, pp. 76–96
 * *Notas*, pp. 97–112
+  * Lino Novás Calvo
+  * B. Taracena
+  * Guillermo de Torre
 
 <a id="ejemplar-137"></a>
 ### Nº 137 — Noviembre de 1934
@@ -2010,6 +2552,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Victoria Ocampo** — *Carta a Virginia Wolf*, pp. 170–177
 * **Igor Strawinsky** — *Juventud*, pp. 178–204
 * *Notas*, pp. 205–224
+  * Antonio Espina
+  * Antonio Porras
+  * María Zambrano
 
 <a id="ejemplar-138"></a>
 ### Nº 138 — Diciembre de 1934
@@ -2024,6 +2569,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Werner Heisenberg** — *La transformación de los principios de la ciencia natural exacta*, pp. 277–301
 * **Benjamín Jarnés** — *Tántalo*, pp. 302–329
 * *Notas*, pp. 330–344
+  * Lino Novás Calvo
 
 [↑ Años](#anios)
 
@@ -2044,6 +2590,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **José Antonio Muñoz Rojas** — *La Heloisada*, pp. 81–89
 * **Manuel García Morente** — *Ensayo sobre la vida privada*, pp. 90–110
 * *Notas*, pp. 111–128
+  * Corpus Barga
+  * José Antonio Maravall
+  * Lino Novás Calvo
 
 <a id="ejemplar-140"></a>
 ### Nº 140 — Febrero de 1935
@@ -2057,6 +2606,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Fritz Heinemann** — *El espiritu y la nada*, pp. 204–214
 * **Fernando Vela** — *Inmovilidades*, pp. 215–221
 * *Notas*, pp. 222–240
+  * Ricardo Gullón
+  * Guillermo de Torre
 
 <a id="ejemplar-141"></a>
 ### Nº 141 — Marzo de 1935
@@ -2071,6 +2622,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **José Gaos** — *La filosofía de Maimónides*, pp. 303–322
 * **Jaime Torres Bodet** — *Enterrado vivo*, pp. 323–330
 * *Notas*, pp. 331–351
+  * Antonio de Obregón
+  * Antonio Porras
+  * Fernando Vela
 
 <a id="ejemplar-142"></a>
 ### Nº 142 — Abril de 1935
@@ -2084,6 +2638,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Michael Alpatoff** — *Las Meninas de Velázquez*, pp. 35–68
 * **Thomas Mann** — *A bordo de Don Quijote*, pp. 69–105
 * *Notas*, pp. 106–120
+  * Corpus Barga
+  * Antonio Espina
+  * Fernando Vela
 
 <a id="ejemplar-143"></a>
 ### Nº 143 — Mayo de 1935
@@ -2097,6 +2654,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **José Tudela de la Orden** — *La población en el mundo*, pp. 190–217
 * **Fernando Vela** — *Embrutecimiento*, pp. 218–225
 * *Notas*, pp. 226–232
+  * Benjamín Jarnés
+  * José Antonio Maravall
+  * Hugo Obermaier
+  * Antonio de Obregón
 
 <a id="ejemplar-144"></a>
 ### Nº 144 — Junio de 1935
@@ -2110,6 +2671,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Gregorio Marañón** — *Más sobre nuestro siglo XVIII*, pp. 278–312
 * **Corpus Barga** — *Política y literatura*, pp. 313–330
 * *Notas*, pp. 331–348
+  * Dámaso Alonso
+  * Antonio Espina
+  * José Antonio Maravall
 
 <a id="ejemplar-145"></a>
 ### Nº 145 — Julio de 1935
@@ -2121,6 +2685,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **F. Scheminzky** — *¿Puede obtenerse artificialmente la vida?*, pp. 58–91
 * **Corpus Barga** — *Política y Literatura (Continuación)*, pp. 92–116
 * *Notas*, pp. 117–128
+  * Guillermo de Torre
 
 <a id="ejemplar-146"></a>
 ### Nº 146 — Agosto de 1935
@@ -2134,6 +2699,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Corpus Barga** — *Política y Literatura (Conclusión)*, pp. 182–199
 * **Hans Thirring** — *¿Se puede volar por el espacio cósmico?*, pp. 200–234
 * *Notas*, pp. 235–256
+  * Luis Amado Blanco
+  * Benjamín Jarnés
+  * Fernando Vela
+  * María Zambrano
 
 <a id="ejemplar-147"></a>
 ### Nº 147 — Septiembre de 1935
@@ -2147,6 +2716,7 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Karl Vossler (1872-1949)** — *Introducción a Gracián*, pp. 330–348
 * **Francisco Rivera Pastor** — *Economía y vida*, pp. 349–362
 * *Notas*, pp. 363–375
+  * José Antonio Maravall
 
 <a id="ejemplar-148"></a>
 ### Nº 148 — Octubre de 1935
@@ -2160,6 +2730,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Francisco Rivera Pastor** — *Economía y vida (Conclusión)*, pp. 75–92
 * **Emilio García Gómez** — *Españoles en el Sudán*, pp. 93–117
 * *Notas*, pp. 118–128
+  * Agustín Miranda Junco
+  * Lino Novás Calvo
 
 <a id="ejemplar-149"></a>
 ### Nº 149 — Noviembre de 1935
@@ -2173,6 +2745,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Émile-Felix Gautier** — *Algo nuevo en el Sahara*, pp. 176–194
 * **Benjamín Jarnés** — *Un himno gigante*, pp. 195–224
 * *Notas*, pp. 225–248
+  * Agustín Miranda Junco
+  * José Muñoz Rojas
+  * Lino Novás Calvo
+  * REDACCIÓN
 
 <a id="ejemplar-150"></a>
 ### Nº 150 — Diciembre de 1935
@@ -2188,6 +2764,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Miguel Hernández** — *Poemas*, pp. 299–307
 * **Miguel Hernández** — *Arquitectura adrede*, pp. 308–317
 * *Notas*, pp. 318–349
+  * Manuel Abril
+  * Lino Novás Calvo
+  * Fernando Vela
 
 [↑ Años](#anios)
 
@@ -2209,6 +2788,10 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Germán Bleiberg** — *Oración a la muerte*, pp. 50–55
 * **Ramón Gómez de la Serna** — *Las palabras y lo indecible*, pp. 56–87
 * *Notas*, pp. 88–107
+  * Corpus Barga
+  * José Antonio Maravall
+  * Gustavo Pittaluga
+  * Fernando Vela
 
 <a id="ejemplar-152"></a>
 ### Nº 152 — Febrero de 1936
@@ -2222,6 +2805,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Max Scheler** — *La experiencia fenomenológica*, pp. 187–208
 * **José Antonio Maravall** — *La tentación adrede*, pp. 209–219
 * *Notas*, pp. 220–231
+  * Juan Díaz del Moral
+  * Fernando Vela
 
 <a id="ejemplar-153"></a>
 ### Nº 153 — Marzo de 1936
@@ -2235,6 +2820,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Gregorio Marañón** — *La obra política del Conde-Duque de Olivares*, pp. 283–321
 * **Rodolfo Pechel** — *Para la psicología del político Robespierre-Talleyrand*, pp. 322–335
 * *Notas*, pp. 336–348
+  * Benjamín Jarnés
+  * Julián Marías
 
 <a id="ejemplar-154"></a>
 ### Nº 154 — Abril de 1936
@@ -2248,6 +2835,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Eugenio Imaz** — *En busca de nuestro tiempo*, pp. 54–78
 * **Fernando Vela** — *Mapa real de las fuerzas francesas*, pp. 79–100
 * *Notas*, pp. 101–119
+  * Benjamín Jarnés
+  * Lino Novás Calvo
 
 <a id="ejemplar-155"></a>
 ### Nº 155 — Mayo de 1936
@@ -2262,6 +2851,9 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Raymond Lacoste** — *Roberto Cunninghame Graham*, pp. 174–187
 * **Robert B.- Cunninghame Graham** — *Prosas selectas*, pp. 188–220
 * *Notas*, pp. 221–238
+  * Ricardo Gullón
+  * Antonio Marichalar
+  * Fernando Vela
 
 <a id="ejemplar-156"></a>
 ### Nº 156 — Junio de 1936
@@ -2275,6 +2867,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Miguel Hernández** — *Poemas*, pp. 293–301
 * **James Hopwood Jeans** — *La nueva imagen física del mundo*, pp. 302–328
 * *Notas*, pp. 329–346
+  * Lino Novás Calvo
+  * Guillermo de Torre
 
 <a id="ejemplar-157"></a>
 ### Nº 157 — Julio de 1936
@@ -2287,6 +2881,8 @@ Otros índices: [Índice de autores](#indice-de-autores) · [Índice de títulos
 * **Erich Franzen** — *La crisis de la novela individualista en Francia*, pp. 57–72
 * **Manuel de Terán Álvarez** — *Baja Andalucía*, pp. 73–110
 * *Notas*, pp. 111–128
+  * Ricardo Gullón
+  * Lino Novás Calvo
 
 [↑ Años](#anios)
 
@@ -4847,7 +5443,8 @@ Ordenado alfabéticamente por título.
 - **Cobertura de ejemplares:** 157/157 números de la primera época (julio de 1923 – julio de 1936).
 - **Enlaces al original:** todos los enlaces «📖 Leer el ejemplar digitalizado» apuntan al **visor oficial de la Fundación Ortega-Marañón**. El proyecto no aloja, descarga ni redistribuye los facsímiles PDF.
 - **Origen de los datos bibliográficos:** las contribuciones (autor, título, páginas, tipo) proceden principalmente de **Dialnet** (código de revista 1203, ISSN 0034-8635).
-- **Cobertura bibliográfica (no exhaustiva):** Dialnet no indexa necesariamente todo el contenido de cada número. Es habitual que falten notas, reseñas, textos preliminares y secciones menores. Cuando la paginación sugiere que faltan páginas entre contribuciones, puede tratarse de material no indexado; **no se ha rellenado por conjetura**.
+- **Cobertura bibliográfica (no exhaustiva):** Dialnet no indexa necesariamente todo el contenido de cada número. Es habitual que falten reseñas, textos preliminares y secciones menores. Cuando la paginación sugiere que faltan páginas entre contribuciones, puede tratarse de material no indexado; **no se ha rellenado por conjetura**.
+- **Autores de «Notas» (índice inverso):** Dialnet suele registrar la sección de notas como una sola entrada «Notas» sin autor. Los nombres que aparecen bajo cada «Notas» se han recuperado del **archivo por autor de la FOM** cruzando por año y mes. Se listan **solo los autores** (sin título ni páginas de cada nota). El nombre se invierte de «Apellidos, Nombre» a «Nombre Apellidos» usando la coma como separador (sin adivinar el apellido).
 - **Fidelidad:** se preservan los títulos y nombres de autor tal como los registra la fuente. No se moderniza la ortografía, no se expanden iniciales, no se resuelven seudónimos ni se traducen los títulos.
 - **Nombres de autor:** en el índice de autores se muestran tal como aparecen en Dialnet («Nombre Apellidos») y se ordenan por esa forma. No se invierten a «Apellidos, Nombre» para no adivinar el apellido en nombres compuestos (p. ej. «Ortega y Gasset», «Gómez de la Serna»). El script incluye una opción (`--author-canonical`) que obtiene la forma catalogada `DC.creator` de Dialnet, pero Dialnet limita el ritmo de peticiones y por defecto no se utiliza.
 - **Portadas:** las miniaturas (carpeta `covers/`) se han descargado del archivo de la Fundación Ortega-Marañón y enlazan al visor oficial. No se descargan ni redistribuyen los PDF. El Nº 145 no tiene miniatura porque su ficha en el archivo muestra una imagen equivocada (la del Nº 148).
@@ -4864,5 +5461,6 @@ Se registran (sin resolverlas por conjetura) para transparencia y futuras correc
 * Nº 2: posible contenido no indexado (termina en pág. 247; el Nº 3 empieza en pág. 265)
 * Nº 55: posible contenido no indexado (termina en pág. 139; el Nº 56 empieza en pág. 145)
 * Nº 151: posible contenido no indexado (termina en pág. 107; el Nº 152 empieza en pág. 113)
+* Notas presentes en el archivo por autor de la FOM pero sin entrada «Notas» en Dialnet en el/los número(s) [1, 2, 3] (se añade la sección con sus autores).
 
 *Índice generado automáticamente a partir de `data/indice.json` mediante `scripts/build_index.py`.*
