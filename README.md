@@ -5,7 +5,7 @@ julio de 1936), con enlace al facsímil oficial de cada ejemplar.
 
 ## 📖 → [Abrir el índice](indice.md)
 
-Números por año, **índice de autores** e **índice de títulos**.
+Números por año, **[índice de autores](autores.md)** e **[índice de títulos](titulos.md)**.
 
 ---
 

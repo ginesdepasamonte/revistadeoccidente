@@ -773,8 +773,8 @@ def generate_indice_md(dataset: dict) -> str:
     L.append("")
     L.append(" · ".join(f"[{y}](#anio-{y})" for y in years))
     L.append("")
-    L.append("Otros índices: [Índice de autores](#indice-de-autores) · "
-             "[Índice de títulos](#indice-de-titulos)")
+    L.append("Otros índices: **[Índice de autores](autores.md)** · "
+             "**[Índice de títulos](titulos.md)**")
     L.append("")
     L.append("---")
     L.append("")
@@ -832,76 +832,6 @@ def generate_indice_md(dataset: dict) -> str:
         L.append("")
         L.append("---")
         L.append("")
-
-    # Índice de autores
-    L.append('<a id="indice-de-autores"></a>')
-    L.append("# Índice de autores")
-    L.append("")
-    L.append(
-        "Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las "
-        "páginas de año (forma «Nombre Apellidos»). Para no introducir errores, los nombres "
-        "**no se han invertido ni corregido por conjetura**; puedes usar la búsqueda del "
-        "navegador (Ctrl/Cmd-F) para localizar a un autor por cualquier parte del nombre. "
-        "Las 180 contribuciones sin autor identificado en Dialnet no aparecen en este "
-        "índice, pero sí en la lista por años."
-    )
-    L.append("")
-    authors_meta = dataset.get("authors", {})
-    # agrupar por autor (clave = autor_id si existe, si no el nombre)
-    authors_map: dict[str, dict] = {}
-    for iss in issues:
-        for c in iss["contributions"]:
-            for a in c["authors"]:
-                key = a["autor_id"] or ("name:" + a["name"])
-                meta = authors_meta.get(a["autor_id"] or "", {})
-                display = meta.get("name_index") or a["name"]  # inverso solo si --author-canonical
-                entry = authors_map.setdefault(
-                    key, {"name": display, "items": []}
-                )
-                entry["items"].append((iss, c))
-    for key in sorted(authors_map, key=lambda k: sort_key(authors_map[k]["name"])):
-        entry = authors_map[key]
-        L.append(f"## {entry['name']}")
-        L.append("")
-        items = sorted(entry["items"], key=lambda ic: ic[0]["issue_number"])
-        for iss, c in items:
-            pages = fmt_pages(c)
-            pg = f", {pages}" if pages else ""
-            L.append(
-                f"* [Nº {iss['issue_number']}](#ejemplar-{iss['issue_number']}) — "
-                f"{iss['month_name']} de {iss['year']} — *{c['title']}*{pg}"
-            )
-        L.append("")
-    L.append("[↑ Años](#anios)")
-    L.append("")
-    L.append("---")
-    L.append("")
-
-    # Índice de títulos
-    L.append('<a id="indice-de-titulos"></a>')
-    L.append("# Índice de títulos")
-    L.append("")
-    L.append("Ordenado alfabéticamente por título.")
-    L.append("")
-    title_rows = []
-    for iss in issues:
-        for c in iss["contributions"]:
-            title_rows.append((iss, c))
-    for iss, c in sorted(title_rows, key=lambda ic: sort_key(ic[1]["title"])):
-        au = authors_display(c)
-        au = f" — {au}" if au else ""
-        pages = fmt_pages(c)
-        pg = f" — {pages}" if pages else ""
-        L.append(
-            f"* *{c['title']}*{au} — "
-            f"[Nº {iss['issue_number']}](#ejemplar-{iss['issue_number']}) — "
-            f"{iss['month_name']} de {iss['year']}{pg}"
-        )
-    L.append("")
-    L.append("[↑ Años](#anios)")
-    L.append("")
-    L.append("---")
-    L.append("")
 
     # Metodología y cobertura
     L.append('<a id="metodologia-y-cobertura"></a>')
@@ -976,6 +906,83 @@ def generate_indice_md(dataset: dict) -> str:
 
 
 # --------------------------------------------------------------------------- #
+# Pasos 6 y 7 — índices separados (autores.md, titulos.md)
+# --------------------------------------------------------------------------- #
+
+_NAV = "[← Índice por años](indice.md) · [Índice de autores](autores.md) · [Índice de títulos](titulos.md)"
+
+
+def generate_autores_md(dataset: dict) -> str:
+    issues = dataset["issues"]
+    authors_meta = dataset.get("authors", {})
+    L: list[str] = []
+    L.append("# Índice de autores")
+    L.append("")
+    L.append(_NAV)
+    L.append("")
+    L.append(
+        "Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las "
+        "páginas de año (forma «Nombre Apellidos»). Para no introducir errores, los nombres "
+        "**no se han invertido ni corregido por conjetura**; usa la búsqueda del navegador "
+        "(Ctrl/Cmd-F) para localizar a un autor por cualquier parte del nombre. Las "
+        "contribuciones sin autor identificado en Dialnet no aparecen aquí, pero sí en el "
+        "[índice por años](indice.md); los autores de la sección «Notas» tampoco se listan aquí "
+        "(véanse bajo cada «Notas» en el índice por años)."
+    )
+    L.append("")
+    authors_map: dict[str, dict] = {}
+    for iss in issues:
+        for c in iss["contributions"]:
+            for a in c["authors"]:
+                key = a["autor_id"] or ("name:" + a["name"])
+                meta = authors_meta.get(a["autor_id"] or "", {})
+                display = meta.get("name_index") or a["name"]
+                entry = authors_map.setdefault(key, {"name": display, "items": []})
+                entry["items"].append((iss, c))
+    for key in sorted(authors_map, key=lambda k: sort_key(authors_map[k]["name"])):
+        entry = authors_map[key]
+        L.append(f"## {entry['name']}")
+        L.append("")
+        for iss, c in sorted(entry["items"], key=lambda ic: ic[0]["issue_number"]):
+            pages = fmt_pages(c)
+            pg = f", {pages}" if pages else ""
+            L.append(
+                f"* [Nº {iss['issue_number']}](indice.md#ejemplar-{iss['issue_number']}) — "
+                f"{iss['month_name']} de {iss['year']} — *{c['title']}*{pg}"
+            )
+        L.append("")
+    L.append(_NAV)
+    L.append("")
+    return "\n".join(L)
+
+
+def generate_titulos_md(dataset: dict) -> str:
+    issues = dataset["issues"]
+    L: list[str] = []
+    L.append("# Índice de títulos")
+    L.append("")
+    L.append(_NAV)
+    L.append("")
+    L.append("Ordenado alfabéticamente por título.")
+    L.append("")
+    rows = [(iss, c) for iss in issues for c in iss["contributions"]]
+    for iss, c in sorted(rows, key=lambda ic: sort_key(ic[1]["title"])):
+        au = authors_display(c)
+        au = f" — {au}" if au else ""
+        pages = fmt_pages(c)
+        pg = f" — {pages}" if pages else ""
+        L.append(
+            f"* *{c['title']}*{au} — "
+            f"[Nº {iss['issue_number']}](indice.md#ejemplar-{iss['issue_number']}) — "
+            f"{iss['month_name']} de {iss['year']}{pg}"
+        )
+    L.append("")
+    L.append(_NAV)
+    L.append("")
+    return "\n".join(L)
+
+
+# --------------------------------------------------------------------------- #
 # Paso 9 — README.md
 # --------------------------------------------------------------------------- #
 
@@ -989,7 +996,7 @@ julio de 1936), con enlace al facsímil oficial de cada ejemplar.
 
 ## 📖 → [Abrir el índice](indice.md)
 
-Números por año, **índice de autores** e **índice de títulos**.
+Números por año, **[índice de autores](autores.md)** e **[índice de títulos](titulos.md)**.
 
 ---
 
@@ -1066,8 +1073,10 @@ def main() -> None:
         json.dumps(dataset, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     (ROOT / "indice.md").write_text(generate_indice_md(dataset), encoding="utf-8")
+    (ROOT / "autores.md").write_text(generate_autores_md(dataset), encoding="utf-8")
+    (ROOT / "titulos.md").write_text(generate_titulos_md(dataset), encoding="utf-8")
     (ROOT / "README.md").write_text(generate_readme(dataset), encoding="utf-8")
-    print("\nGenerado: data/indice.json, indice.md, README.md")
+    print("\nGenerado: data/indice.json, indice.md, autores.md, titulos.md, README.md")
 
 
 if __name__ == "__main__":
