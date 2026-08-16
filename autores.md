@@ -2,7 +2,7 @@
 
 [← Índice por años](indice.md) · [Índice de autores](autores.md) · [Índice de títulos](titulos.md)
 
-Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las páginas de año (forma «Nombre Apellidos»). Para no introducir errores, los nombres **no se han invertido ni corregido por conjetura**; usa la búsqueda del navegador (Ctrl/Cmd-F) para localizar a un autor por cualquier parte del nombre. Las contribuciones sin autor identificado en Dialnet no aparecen aquí, pero sí en el [índice por años](indice.md); los autores de la sección «Notas» tampoco se listan aquí (véanse bajo cada «Notas» en el índice por años).
+Incluye tanto los **artículos** (fuente: Dialnet) como los autores de la sección **«Notas»** (fuente: archivo por autor de la FOM). Las entradas de notas se marcan como *Notas* y no llevan título ni páginas. Los nombres se muestran tal como los registran las fuentes; **no se corrigen por conjetura**. Usa la búsqueda del navegador (Ctrl/Cmd-F) para localizar a un autor por cualquier parte del nombre.
 
 ## Adán C. Diehl
 
@@ -13,13 +13,39 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 1](indice.md#ejemplar-1) — julio de 1923 — *Tartessos, la más antigua ciudad de Occidente*, pp. 67–94
 * [Nº 28](indice.md#ejemplar-28) — octubre de 1925 — *Mainake, una ciudad griega en el extremo Occidente*, pp. 87–99
 
+## Adolfo Bonilla y San Martín
+
+* [Nº 10](indice.md#ejemplar-10) — abril de 1924 — *Notas*
+
 ## Adolfo Salazar
 
+* [Nº 11](indice.md#ejemplar-11) — mayo de 1924 — *Notas*
+* [Nº 13](indice.md#ejemplar-13) — julio de 1924 — *Notas*
+* [Nº 28](indice.md#ejemplar-28) — octubre de 1925 — *Notas*
+* [Nº 29](indice.md#ejemplar-29) — noviembre de 1925 — *Notas*
+* [Nº 30](indice.md#ejemplar-30) — diciembre de 1925 — *Notas*
+* [Nº 34](indice.md#ejemplar-34) — abril de 1926 — *Notas*
+* [Nº 38](indice.md#ejemplar-38) — agosto de 1926 — *Notas*
+* [Nº 59](indice.md#ejemplar-59) — mayo de 1928 — *Notas*
+* [Nº 63](indice.md#ejemplar-63) — septiembre de 1928 — *Notas*
 * [Nº 66](indice.md#ejemplar-66) — diciembre de 1928 — *La música española en tiempos de Goya*, pp. 334–377
+* [Nº 76](indice.md#ejemplar-76) — octubre de 1929 — *Notas*
 
 ## Agustín Miranda
 
 * [Nº 94](indice.md#ejemplar-94) — abril de 1931 — *La felicidad a la sombra de los capotes*, pp. 108–113
+
+## Agustín Miranda Junco
+
+* [Nº 83](indice.md#ejemplar-83) — mayo de 1930 — *Notas*
+* [Nº 91](indice.md#ejemplar-91) — enero de 1931 — *Notas*
+* [Nº 95](indice.md#ejemplar-95) — mayo de 1931 — *Notas*
+* [Nº 98](indice.md#ejemplar-98) — agosto de 1931 — *Notas*
+* [Nº 101](indice.md#ejemplar-101) — noviembre de 1931 — *Notas*
+* [Nº 108](indice.md#ejemplar-108) — junio de 1932 — *Notas*
+* [Nº 109](indice.md#ejemplar-109) — julio de 1932 — *Notas*
+* [Nº 148](indice.md#ejemplar-148) — octubre de 1935 — *Notas*
+* [Nº 149](indice.md#ejemplar-149) — noviembre de 1935 — *Notas*
 
 ## Albert Einstein
 
@@ -48,6 +74,7 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## Alfonso Reyes
 
+* [Nº 1](indice.md#ejemplar-1) — julio de 1923 — *Notas*
 * [Nº 110](indice.md#ejemplar-110) — agosto de 1932 — *Mallarmé en castellano*, pp. 190–219
 
 ## Alfred North Whitehead
@@ -61,8 +88,11 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Américo Castro
 
 * [Nº 17](indice.md#ejemplar-17) — noviembre de 1924 — *Cervantes pensador*, pp. 216–231
+* [Nº 20](indice.md#ejemplar-20) — febrero de 1925 — *Notas*
 * [Nº 33](indice.md#ejemplar-33) — marzo de 1926 — *Lo picaresco y Cervantes*, pp. 349–361
+* [Nº 37](indice.md#ejemplar-37) — julio de 1926 — *Notas*
 * [Nº 51](indice.md#ejemplar-51) — septiembre de 1927 — *¿Cervantes, inconsciente?*, pp. 285–290
+* [Nº 55](indice.md#ejemplar-55) — enero de 1928 — *Notas*
 
 ## Amparo Parrilla
 
@@ -81,11 +111,23 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Angel Sánchez Rivero
 
 * [Nº 4](indice.md#ejemplar-4) — octubre de 1923 — *Merimée en España, 1830*, pp. 115–120
+* [Nº 4](indice.md#ejemplar-4) — octubre de 1923 — *Notas*
+* [Nº 7](indice.md#ejemplar-7) — enero de 1924 — *Notas*
+* [Nº 9](indice.md#ejemplar-9) — marzo de 1924 — *Notas*
+* [Nº 11](indice.md#ejemplar-11) — mayo de 1924 — *Notas*
+* [Nº 12](indice.md#ejemplar-12) — junio de 1924 — *Notas*
 * [Nº 13](indice.md#ejemplar-13) — julio de 1924 — *En la exposición de Códices Miniados Españoles*, pp. 88–103
+* [Nº 15](indice.md#ejemplar-15) — septiembre de 1924 — *Notas*
 * [Nº 17](indice.md#ejemplar-17) — noviembre de 1924 — *Enrique Wölfflin*, pp. 256–273
+* [Nº 18](indice.md#ejemplar-18) — diciembre de 1924 — *Notas*
+* [Nº 19](indice.md#ejemplar-19) — enero de 1925 — *Notas*
+* [Nº 46](indice.md#ejemplar-46) — abril de 1927 — *Notas*
+* [Nº 47](indice.md#ejemplar-47) — mayo de 1927 — *Notas*
 * [Nº 49](indice.md#ejemplar-49) — julio de 1927 — *Las ventas del "Quijote"*, pp. 1–22
 * [Nº 51](indice.md#ejemplar-51) — septiembre de 1927 — *Contestación*, pp. 291–316
 * [Nº 54](indice.md#ejemplar-54) — diciembre de 1927 — *Vida de Disraeli*, pp. 296–328
+* [Nº 58](indice.md#ejemplar-58) — abril de 1928 — *Notas*
+* [Nº 61](indice.md#ejemplar-61) — julio de 1928 — *Notas*
 * [Nº 75](indice.md#ejemplar-75) — septiembre de 1929 — *Correo de Venecia*, pp. 292–307
 * [Nº 88](indice.md#ejemplar-88) — octubre de 1930 — *Papeles póstumos*, pp. 1–26
 * [Nº 89](indice.md#ejemplar-89) — noviembre de 1930 — *Papeles póstumos*, pp. 177–203
@@ -97,27 +139,89 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## Antonio Bermúdez Cañete
 
+* [Nº 58](indice.md#ejemplar-58) — abril de 1928 — *Notas*
 * [Nº 60](indice.md#ejemplar-60) — junio de 1928 — *Cultura y técnica*, pp. 378–397
+* [Nº 62](indice.md#ejemplar-62) — agosto de 1928 — *Notas*
 
 ## Antonio de Obregón
 
+* [Nº 96](indice.md#ejemplar-96) — junio de 1931 — *Notas*
+* [Nº 99](indice.md#ejemplar-99) — septiembre de 1931 — *Notas*
 * [Nº 107](indice.md#ejemplar-107) — mayo de 1932 — *Hermes en la vía pública*, pp. 170–201
+* [Nº 113](indice.md#ejemplar-113) — noviembre de 1932 — *Notas*
+* [Nº 114](indice.md#ejemplar-114) — diciembre de 1932 — *Notas*
+* [Nº 121](indice.md#ejemplar-121) — julio de 1933 — *Notas*
+* [Nº 124](indice.md#ejemplar-124) — octubre de 1933 — *Notas*
+* [Nº 126](indice.md#ejemplar-126) — diciembre de 1933 — *Notas*
+* [Nº 129](indice.md#ejemplar-129) — marzo de 1934 — *Notas*
+* [Nº 131](indice.md#ejemplar-131) — mayo de 1934 — *Notas*
+* [Nº 132](indice.md#ejemplar-132) — junio de 1934 — *Notas*
+* [Nº 133](indice.md#ejemplar-133) — julio de 1934 — *Notas*
+* [Nº 141](indice.md#ejemplar-141) — marzo de 1935 — *Notas*
+* [Nº 143](indice.md#ejemplar-143) — mayo de 1935 — *Notas*
 
 ## Antonio Espina
 
+* [Nº 1](indice.md#ejemplar-1) — julio de 1923 — *Notas*
+* [Nº 2](indice.md#ejemplar-2) — agosto de 1923 — *Notas*
+* [Nº 3](indice.md#ejemplar-3) — septiembre de 1923 — *Notas*
+* [Nº 6](indice.md#ejemplar-6) — diciembre de 1923 — *Notas*
+* [Nº 7](indice.md#ejemplar-7) — enero de 1924 — *Notas*
+* [Nº 9](indice.md#ejemplar-9) — marzo de 1924 — *Notas*
 * [Nº 11](indice.md#ejemplar-11) — mayo de 1924 — *BI o el edificio en humo*, pp. 212–228
 * [Nº 23](indice.md#ejemplar-23) — mayo de 1925 — *Ganivet*, pp. 228–250
+* [Nº 24](indice.md#ejemplar-24) — junio de 1925 — *Notas*
 * [Nº 25](indice.md#ejemplar-25) — julio de 1925 — *Varia fisga*, pp. 92–99
+* [Nº 26](indice.md#ejemplar-26) — agosto de 1925 — *Notas*
+* [Nº 28](indice.md#ejemplar-28) — octubre de 1925 — *Notas*
+* [Nº 29](indice.md#ejemplar-29) — noviembre de 1925 — *Notas*
 * [Nº 30](indice.md#ejemplar-30) — diciembre de 1925 — *Las dramáticas del momento*, pp. 316–329
+* [Nº 32](indice.md#ejemplar-32) — febrero de 1926 — *Notas*
+* [Nº 36](indice.md#ejemplar-36) — junio de 1926 — *Notas*
+* [Nº 38](indice.md#ejemplar-38) — agosto de 1926 — *Notas*
+* [Nº 39](indice.md#ejemplar-39) — septiembre de 1926 — *Notas*
 * [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *Reflexiones sobre cinematografía*, pp. 36–46
+* [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *Notas*
+* [Nº 44](indice.md#ejemplar-44) — febrero de 1927 — *Notas*
+* [Nº 47](indice.md#ejemplar-47) — mayo de 1927 — *Notas*
+* [Nº 49](indice.md#ejemplar-49) — julio de 1927 — *Notas*
 * [Nº 52](indice.md#ejemplar-52) — octubre de 1927 — *Bacante*, pp. 1–28
 * [Nº 53](indice.md#ejemplar-53) — noviembre de 1927 — *Bacante. (Conclusión)*, pp. 185–204
+* [Nº 53](indice.md#ejemplar-53) — noviembre de 1927 — *Notas*
+* [Nº 54](indice.md#ejemplar-54) — diciembre de 1927 — *Notas*
+* [Nº 56](indice.md#ejemplar-56) — febrero de 1928 — *Notas*
+* [Nº 57](indice.md#ejemplar-57) — marzo de 1928 — *Notas*
 * [Nº 60](indice.md#ejemplar-60) — junio de 1928 — *Momentos de Goya*, pp. 293–313
+* [Nº 61](indice.md#ejemplar-61) — julio de 1928 — *Notas*
+* [Nº 62](indice.md#ejemplar-62) — agosto de 1928 — *Notas*
+* [Nº 63](indice.md#ejemplar-63) — septiembre de 1928 — *Notas*
+* [Nº 65](indice.md#ejemplar-65) — noviembre de 1928 — *Notas*
+* [Nº 67](indice.md#ejemplar-67) — enero de 1929 — *Notas*
+* [Nº 68](indice.md#ejemplar-68) — febrero de 1929 — *Notas*
+* [Nº 69](indice.md#ejemplar-69) — marzo de 1929 — *Notas*
+* [Nº 70](indice.md#ejemplar-70) — abril de 1929 — *Notas*
 * [Nº 71](indice.md#ejemplar-71) — mayo de 1929 — *Luis Candelas*, pp. 160–188
+* [Nº 76](indice.md#ejemplar-76) — octubre de 1929 — *Notas*
+* [Nº 77](indice.md#ejemplar-77) — noviembre de 1929 — *Notas*
+* [Nº 79](indice.md#ejemplar-79) — enero de 1930 — *Notas*
 * [Nº 81](indice.md#ejemplar-81) — marzo de 1930 — *La historia y su estereoscopia*, pp. 297–309
+* [Nº 81](indice.md#ejemplar-81) — marzo de 1930 — *Notas*
+* [Nº 82](indice.md#ejemplar-82) — abril de 1930 — *Notas*
+* [Nº 88](indice.md#ejemplar-88) — octubre de 1930 — *Notas*
 * [Nº 90](indice.md#ejemplar-90) — diciembre de 1930 — *La paciencia o Eliú, hijo de Barachel*, pp. 328–344
+* [Nº 90](indice.md#ejemplar-90) — diciembre de 1930 — *Notas*
+* [Nº 95](indice.md#ejemplar-95) — mayo de 1931 — *Notas*
+* [Nº 100](indice.md#ejemplar-100) — octubre de 1931 — *Notas*
 * [Nº 106](indice.md#ejemplar-106) — abril de 1932 — *Apuntes al Werther*, pp. 118–130
+* [Nº 110](indice.md#ejemplar-110) — agosto de 1932 — *Notas*
+* [Nº 112](indice.md#ejemplar-112) — octubre de 1932 — *Notas*
 * [Nº 129](indice.md#ejemplar-129) — marzo de 1934 — *Cliché romántico*, pp. 257–287
+* [Nº 132](indice.md#ejemplar-132) — junio de 1934 — *Notas*
+* [Nº 133](indice.md#ejemplar-133) — julio de 1934 — *Notas*
+* [Nº 134](indice.md#ejemplar-134) — agosto de 1934 — *Notas*
+* [Nº 137](indice.md#ejemplar-137) — noviembre de 1934 — *Notas*
+* [Nº 142](indice.md#ejemplar-142) — abril de 1935 — *Notas*
+* [Nº 144](indice.md#ejemplar-144) — junio de 1935 — *Notas*
 
 ## Antonio Machado
 
@@ -130,30 +234,70 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## Antonio Marichalar
 
+* [Nº 1](indice.md#ejemplar-1) — julio de 1923 — *Notas*
 * [Nº 3](indice.md#ejemplar-3) — septiembre de 1923 — *El conde musageta*, pp. 334–342
+* [Nº 4](indice.md#ejemplar-4) — octubre de 1923 — *Notas*
+* [Nº 5](indice.md#ejemplar-5) — noviembre de 1923 — *Notas*
+* [Nº 7](indice.md#ejemplar-7) — enero de 1924 — *Notas*
+* [Nº 8](indice.md#ejemplar-8) — febrero de 1924 — *Notas*
 * [Nº 9](indice.md#ejemplar-9) — marzo de 1924 — *El español inglés George Santayana*, pp. 340–359
+* [Nº 13](indice.md#ejemplar-13) — julio de 1924 — *Notas*
+* [Nº 14](indice.md#ejemplar-14) — agosto de 1924 — *Notas*
+* [Nº 15](indice.md#ejemplar-15) — septiembre de 1924 — *Notas*
 * [Nº 17](indice.md#ejemplar-17) — noviembre de 1924 — *James Joyce en su laberinto*, pp. 177–202
+* [Nº 20](indice.md#ejemplar-20) — febrero de 1925 — *Notas*
+* [Nº 21](indice.md#ejemplar-21) — marzo de 1925 — *Notas*
+* [Nº 25](indice.md#ejemplar-25) — julio de 1925 — *Notas*
+* [Nº 27](indice.md#ejemplar-27) — septiembre de 1925 — *Notas*
+* [Nº 30](indice.md#ejemplar-30) — diciembre de 1925 — *Notas*
+* [Nº 32](indice.md#ejemplar-32) — febrero de 1926 — *Notas*
+* [Nº 35](indice.md#ejemplar-35) — mayo de 1926 — *Notas*
 * [Nº 36](indice.md#ejemplar-36) — junio de 1926 — *Girola*, pp. 329–343
 * [Nº 39](indice.md#ejemplar-39) — septiembre de 1926 — *Desde el hombro de San Cristobal*, pp. 353–364
 * [Nº 40](indice.md#ejemplar-40) — octubre de 1926 — *Desde el hombro de San Cristóbal. (Conclusión)*, pp. 86–102
+* [Nº 41](indice.md#ejemplar-41) — noviembre de 1926 — *Notas*
 * [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *El Ido (Rainer María Rilke)*, pp. 95–101
+* [Nº 44](indice.md#ejemplar-44) — febrero de 1927 — *Notas*
+* [Nº 50](indice.md#ejemplar-50) — agosto de 1927 — *Notas*
+* [Nº 51](indice.md#ejemplar-51) — septiembre de 1927 — *Notas*
+* [Nº 55](indice.md#ejemplar-55) — enero de 1928 — *Notas*
+* [Nº 56](indice.md#ejemplar-56) — febrero de 1928 — *Notas*
 * [Nº 57](indice.md#ejemplar-57) — marzo de 1928 — *Las "vidas" y Lytton Strachey*, pp. 343–358
+* [Nº 57](indice.md#ejemplar-57) — marzo de 1928 — *Notas*
+* [Nº 60](indice.md#ejemplar-60) — junio de 1928 — *Notas*
+* [Nº 63](indice.md#ejemplar-63) — septiembre de 1928 — *Notas*
 * [Nº 64](indice.md#ejemplar-64) — octubre de 1928 — *Baco*, pp. 1–30
 * [Nº 64](indice.md#ejemplar-64) — octubre de 1928 — *Introducción al método de Monsieur Teste*, pp. 31–43
+* [Nº 67](indice.md#ejemplar-67) — enero de 1929 — *Notas*
+* [Nº 68](indice.md#ejemplar-68) — febrero de 1929 — *Notas*
+* [Nº 72](indice.md#ejemplar-72) — junio de 1929 — *Notas*
 * [Nº 74](indice.md#ejemplar-74) — agosto de 1929 — *Inciso del malogrado*, pp. 139–168
+* [Nº 81](indice.md#ejemplar-81) — marzo de 1930 — *Notas*
 * [Nº 82](indice.md#ejemplar-82) — abril de 1930 — *Alerta*, pp. 34–44
+* [Nº 85](indice.md#ejemplar-85) — julio de 1930 — *Notas*
+* [Nº 88](indice.md#ejemplar-88) — octubre de 1930 — *Notas*
+* [Nº 91](indice.md#ejemplar-91) — enero de 1931 — *Notas*
+* [Nº 93](indice.md#ejemplar-93) — marzo de 1931 — *Notas*
+* [Nº 94](indice.md#ejemplar-94) — abril de 1931 — *Notas*
 * [Nº 95](indice.md#ejemplar-95) — mayo de 1931 — *Visto y oido*, pp. 193–204
 * [Nº 96](indice.md#ejemplar-96) — junio de 1931 — *Visto y oido*, pp. 297–307
 * [Nº 103](indice.md#ejemplar-103) — enero de 1932 — *Varios poemas*, pp. 43–61
+* [Nº 109](indice.md#ejemplar-109) — julio de 1932 — *Notas*
 * [Nº 110](indice.md#ejemplar-110) — agosto de 1932 — *Poesía eres tú*, pp. 171–189
 * [Nº 111](indice.md#ejemplar-111) — septiembre de 1932 — *Poesía eres tú (conclusión)*, pp. 285–310
+* [Nº 118](indice.md#ejemplar-118) — abril de 1933 — *Notas*
+* [Nº 121](indice.md#ejemplar-121) — julio de 1933 — *Notas*
 * [Nº 124](indice.md#ejemplar-124) — octubre de 1933 — *William Faulkner*, pp. 78–86
+* [Nº 125](indice.md#ejemplar-125) — noviembre de 1933 — *Notas*
 * [Nº 132](indice.md#ejemplar-132) — junio de 1934 — *Musaraña*, pp. 304–317
 * [Nº 147](indice.md#ejemplar-147) — septiembre de 1935 — *Cuestión personal*, pp. 257–277
 * [Nº 155](indice.md#ejemplar-155) — mayo de 1936 — *Espronceda, ademán lírico*, pp. 121–145
+* [Nº 155](indice.md#ejemplar-155) — mayo de 1936 — *Notas*
 
 ## Antonio Porras
 
+* [Nº 137](indice.md#ejemplar-137) — noviembre de 1934 — *Notas*
+* [Nº 141](indice.md#ejemplar-141) — marzo de 1935 — *Notas*
 * [Nº 154](indice.md#ejemplar-154) — abril de 1936 — *El Apocalipsis de Cervantes*, pp. 1–23
 * [Nº 155](indice.md#ejemplar-155) — mayo de 1936 — *El Apocalipsis de Cervantes (conclusión)*, pp. 157–173
 
@@ -186,6 +330,10 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 28](indice.md#ejemplar-28) — octubre de 1925 — *Doña Inés*, pp. 71–86
 * [Nº 77](indice.md#ejemplar-77) — noviembre de 1929 — *Superrealismo*, pp. 145–157
 
+## B. Taracena
+
+* [Nº 136](indice.md#ejemplar-136) — octubre de 1934 — *Notas*
+
 ## Balduin Schwarz
 
 * [Nº 90](indice.md#ejemplar-90) — diciembre de 1930 — *La psicología del llanto*, pp. 267–302
@@ -202,27 +350,87 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Benjamín Jarnés
 
 * [Nº 23](indice.md#ejemplar-23) — mayo de 1925 — *El rio fiel*, pp. 145–169
+* [Nº 23](indice.md#ejemplar-23) — mayo de 1925 — *Notas*
+* [Nº 24](indice.md#ejemplar-24) — junio de 1925 — *Notas*
+* [Nº 25](indice.md#ejemplar-25) — julio de 1925 — *Notas*
+* [Nº 27](indice.md#ejemplar-27) — septiembre de 1925 — *Notas*
+* [Nº 28](indice.md#ejemplar-28) — octubre de 1925 — *Notas*
 * [Nº 29](indice.md#ejemplar-29) — noviembre de 1925 — *Paula y Paulita*, pp. 129–160
+* [Nº 29](indice.md#ejemplar-29) — noviembre de 1925 — *Notas*
+* [Nº 33](indice.md#ejemplar-33) — marzo de 1926 — *Notas*
+* [Nº 34](indice.md#ejemplar-34) — abril de 1926 — *Notas*
+* [Nº 35](indice.md#ejemplar-35) — mayo de 1926 — *Notas*
+* [Nº 36](indice.md#ejemplar-36) — junio de 1926 — *Notas*
+* [Nº 37](indice.md#ejemplar-37) — julio de 1926 — *Notas*
 * [Nº 38](indice.md#ejemplar-38) — agosto de 1926 — *Andrómeda*, pp. 137–167
+* [Nº 38](indice.md#ejemplar-38) — agosto de 1926 — *Notas*
+* [Nº 39](indice.md#ejemplar-39) — septiembre de 1926 — *Notas*
+* [Nº 42](indice.md#ejemplar-42) — diciembre de 1926 — *Notas*
+* [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *Notas*
+* [Nº 44](indice.md#ejemplar-44) — febrero de 1927 — *Notas*
 * [Nº 45](indice.md#ejemplar-45) — marzo de 1927 — *Circe*, pp. 289–323
+* [Nº 45](indice.md#ejemplar-45) — marzo de 1927 — *Notas*
+* [Nº 46](indice.md#ejemplar-46) — abril de 1927 — *Notas*
+* [Nº 47](indice.md#ejemplar-47) — mayo de 1927 — *Notas*
+* [Nº 49](indice.md#ejemplar-49) — julio de 1927 — *Notas*
+* [Nº 50](indice.md#ejemplar-50) — agosto de 1927 — *Notas*
+* [Nº 51](indice.md#ejemplar-51) — septiembre de 1927 — *Notas*
+* [Nº 52](indice.md#ejemplar-52) — octubre de 1927 — *Notas*
 * [Nº 55](indice.md#ejemplar-55) — enero de 1928 — *Locura y muerte de Nadie*, pp. 1–39
+* [Nº 55](indice.md#ejemplar-55) — enero de 1928 — *Notas*
+* [Nº 56](indice.md#ejemplar-56) — febrero de 1928 — *Notas*
+* [Nº 58](indice.md#ejemplar-58) — abril de 1928 — *Notas*
 * [Nº 60](indice.md#ejemplar-60) — junio de 1928 — *Sherwood Anderson*, pp. 349–357
+* [Nº 62](indice.md#ejemplar-62) — agosto de 1928 — *Notas*
+* [Nº 63](indice.md#ejemplar-63) — septiembre de 1928 — *Notas*
+* [Nº 64](indice.md#ejemplar-64) — octubre de 1928 — *Notas*
 * [Nº 65](indice.md#ejemplar-65) — noviembre de 1928 — *Vida de San Alejo*, pp. 129–170
+* [Nº 65](indice.md#ejemplar-65) — noviembre de 1928 — *Notas*
+* [Nº 66](indice.md#ejemplar-66) — diciembre de 1928 — *Notas*
+* [Nº 67](indice.md#ejemplar-67) — enero de 1929 — *Notas*
 * [Nº 68](indice.md#ejemplar-68) — febrero de 1929 — *Sor Patrocinio*, pp. 145–177
+* [Nº 69](indice.md#ejemplar-69) — marzo de 1929 — *Notas*
+* [Nº 70](indice.md#ejemplar-70) — abril de 1929 — *Notas*
 * [Nº 72](indice.md#ejemplar-72) — junio de 1929 — *Viviana y Merlín*, pp. 281–311
+* [Nº 72](indice.md#ejemplar-72) — junio de 1929 — *Notas*
+* [Nº 73](indice.md#ejemplar-73) — julio de 1929 — *Notas*
+* [Nº 76](indice.md#ejemplar-76) — octubre de 1929 — *Notas*
+* [Nº 77](indice.md#ejemplar-77) — noviembre de 1929 — *Notas*
+* [Nº 78](indice.md#ejemplar-78) — diciembre de 1929 — *Notas*
 * [Nº 79](indice.md#ejemplar-79) — enero de 1930 — *Teoría del zumbel*, pp. 11–39
 * [Nº 80](indice.md#ejemplar-80) — febrero de 1930 — *Elegía a un amor beodo*, pp. 145–155
+* [Nº 81](indice.md#ejemplar-81) — marzo de 1930 — *Notas*
+* [Nº 83](indice.md#ejemplar-83) — mayo de 1930 — *Notas*
+* [Nº 85](indice.md#ejemplar-85) — julio de 1930 — *Notas*
 * [Nº 87](indice.md#ejemplar-87) — septiembre de 1930 — *Elvira*, pp. 295–323
+* [Nº 87](indice.md#ejemplar-87) — septiembre de 1930 — *Notas*
 * [Nº 89](indice.md#ejemplar-89) — noviembre de 1930 — *Zumalacárregui*, pp. 145–176
+* [Nº 90](indice.md#ejemplar-90) — diciembre de 1930 — *Notas*
+* [Nº 93](indice.md#ejemplar-93) — marzo de 1931 — *Notas*
 * [Nº 94](indice.md#ejemplar-94) — abril de 1931 — *Escenas junto a la muerte*, pp. 37–71
+* [Nº 95](indice.md#ejemplar-95) — mayo de 1931 — *Notas*
+* [Nº 96](indice.md#ejemplar-96) — junio de 1931 — *Notas*
 * [Nº 98](indice.md#ejemplar-98) — agosto de 1931 — *Mi analfabeta*, pp. 129–154
 * [Nº 100](indice.md#ejemplar-100) — octubre de 1931 — *Lo rojo y lo azul*, pp. 1–30
 * [Nº 112](indice.md#ejemplar-112) — octubre de 1932 — *Trótula*, pp. 1–30
+* [Nº 113](indice.md#ejemplar-113) — noviembre de 1932 — *Notas*
+* [Nº 115](indice.md#ejemplar-115) — enero de 1933 — *Notas*
+* [Nº 116](indice.md#ejemplar-116) — febrero de 1933 — *Notas*
 * [Nº 122](indice.md#ejemplar-122) — agosto de 1933 — *Discurso a Herminia*, pp. 166–196
+* [Nº 123](indice.md#ejemplar-123) — septiembre de 1933 — *Notas*
+* [Nº 124](indice.md#ejemplar-124) — octubre de 1933 — *Notas*
+* [Nº 125](indice.md#ejemplar-125) — noviembre de 1933 — *Notas*
+* [Nº 126](indice.md#ejemplar-126) — diciembre de 1933 — *Notas*
 * [Nº 130](indice.md#ejemplar-130) — abril de 1934 — *Visita a Castelar*, pp. 72–94
+* [Nº 131](indice.md#ejemplar-131) — mayo de 1934 — *Notas*
+* [Nº 133](indice.md#ejemplar-133) — julio de 1934 — *Notas*
 * [Nº 135](indice.md#ejemplar-135) — septiembre de 1934 — *Hombre del Sinaí*, pp. 249–269
 * [Nº 138](indice.md#ejemplar-138) — diciembre de 1934 — *Tántalo*, pp. 302–329
+* [Nº 143](indice.md#ejemplar-143) — mayo de 1935 — *Notas*
+* [Nº 146](indice.md#ejemplar-146) — agosto de 1935 — *Notas*
 * [Nº 149](indice.md#ejemplar-149) — noviembre de 1935 — *Un himno gigante*, pp. 195–224
+* [Nº 153](indice.md#ejemplar-153) — marzo de 1936 — *Notas*
+* [Nº 154](indice.md#ejemplar-154) — abril de 1936 — *Notas*
 
 ## Benjamín Palencia
 
@@ -236,6 +444,12 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 99](indice.md#ejemplar-99) — septiembre de 1931 — *Ciencia y religión*, pp. 294–327
 * [Nº 151](indice.md#ejemplar-151) — enero de 1936 — *Conocimientos "inútiles"*, pp. 1–16
 
+## Blas Cabrera
+
+* [Nº 28](indice.md#ejemplar-28) — octubre de 1925 — *Notas*
+* [Nº 56](indice.md#ejemplar-56) — febrero de 1928 — *Notas*
+* [Nº 62](indice.md#ejemplar-62) — agosto de 1928 — *Notas*
+
 ## Blas Cabrera Felipe
 
 * [Nº 32](indice.md#ejemplar-32) — febrero de 1926 — *El éter, la relatividad y los resultados experimentales de Miller*, pp. 253–271
@@ -248,6 +462,10 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Bruno Barilli
 
 * [Nº 55](indice.md#ejemplar-55) — enero de 1928 — *El país del melodrama*, pp. 90–108
+
+## C. G. Yung
+
+* [Nº 58](indice.md#ejemplar-58) — abril de 1928 — *Notas*
 
 ## Carl Albrecht Bernoulli
 
@@ -310,18 +528,36 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Corpus Barga
 
 * [Nº 1](indice.md#ejemplar-1) — julio de 1923 — *La humanidad de espaldas*, pp. 106–113
+* [Nº 1](indice.md#ejemplar-1) — julio de 1923 — *Notas*
 * [Nº 2](indice.md#ejemplar-2) — agosto de 1923 — *Viaje occidental*, pp. 202–210
+* [Nº 2](indice.md#ejemplar-2) — agosto de 1923 — *Notas*
 * [Nº 3](indice.md#ejemplar-3) — septiembre de 1923 — *El amigo del hombre*, pp. 343–355
+* [Nº 3](indice.md#ejemplar-3) — septiembre de 1923 — *Notas*
+* [Nº 4](indice.md#ejemplar-4) — octubre de 1923 — *Notas*
+* [Nº 5](indice.md#ejemplar-5) — noviembre de 1923 — *Notas*
 * [Nº 7](indice.md#ejemplar-7) — enero de 1924 — *Paul Bourget y la novela psicológica*, pp. 90–104
+* [Nº 8](indice.md#ejemplar-8) — febrero de 1924 — *Notas*
 * [Nº 9](indice.md#ejemplar-9) — marzo de 1924 — *Venus novísima*, pp. 332–339
+* [Nº 15](indice.md#ejemplar-15) — septiembre de 1924 — *Notas*
 * [Nº 16](indice.md#ejemplar-16) — octubre de 1924 — *Sobre un ídolo*, pp. 135–139
+* [Nº 21](indice.md#ejemplar-21) — marzo de 1925 — *Notas*
 * [Nº 22](indice.md#ejemplar-22) — abril de 1925 — *Una novela de Baroja*, pp. 106–125
+* [Nº 27](indice.md#ejemplar-27) — septiembre de 1925 — *Notas*
+* [Nº 30](indice.md#ejemplar-30) — diciembre de 1925 — *Notas*
+* [Nº 31](indice.md#ejemplar-31) — enero de 1926 — *Notas*
 * [Nº 33](indice.md#ejemplar-33) — marzo de 1926 — *Pasión y muerte*, pp. 302–348
+* [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *Notas*
+* [Nº 45](indice.md#ejemplar-45) — marzo de 1927 — *Notas*
+* [Nº 56](indice.md#ejemplar-56) — febrero de 1928 — *Notas*
 * [Nº 62](indice.md#ejemplar-62) — agosto de 1928 — *Diálogo sobre el teatro judío de Moscu y el teatro chino de La Habana*, pp. 224–236
 * [Nº 69](indice.md#ejemplar-69) — marzo de 1929 — *Pintura nunca vista*, pp. 341–351
+* [Nº 77](indice.md#ejemplar-77) — noviembre de 1929 — *Notas*
+* [Nº 139](indice.md#ejemplar-139) — enero de 1935 — *Notas*
+* [Nº 142](indice.md#ejemplar-142) — abril de 1935 — *Notas*
 * [Nº 144](indice.md#ejemplar-144) — junio de 1935 — *Política y literatura*, pp. 313–330
 * [Nº 145](indice.md#ejemplar-145) — julio de 1935 — *Política y Literatura (Continuación)*, pp. 92–116
 * [Nº 146](indice.md#ejemplar-146) — agosto de 1935 — *Política y Literatura (Conclusión)*, pp. 182–199
+* [Nº 151](indice.md#ejemplar-151) — enero de 1936 — *Notas*
 
 ## Cristóbal Hall
 
@@ -334,9 +570,13 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Dámaso Alonso
 
 * [Nº 40](indice.md#ejemplar-40) — octubre de 1926 — *Torcedor de crepúsculo y violín*, pp. 70–85
+* [Nº 54](indice.md#ejemplar-54) — diciembre de 1927 — *Notas*
 * [Nº 56](indice.md#ejemplar-56) — febrero de 1928 — *Alusión y elusión en la poesía de Góngora*, pp. 177–202
 * [Nº 58](indice.md#ejemplar-58) — abril de 1928 — *Cédula de eternidad*, pp. 1–19
+* [Nº 98](indice.md#ejemplar-98) — agosto de 1931 — *Notas*
 * [Nº 112](indice.md#ejemplar-112) — octubre de 1932 — *El crepúsculo de Erasmo*, pp. 31–53
+* [Nº 114](indice.md#ejemplar-114) — diciembre de 1932 — *Notas*
+* [Nº 144](indice.md#ejemplar-144) — junio de 1935 — *Notas*
 
 ## David Herbert Lawrence
 
@@ -402,17 +642,39 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 149](indice.md#ejemplar-149) — noviembre de 1935 — *Algo nuevo en el Sahara*, pp. 176–194
 
+## Emiliano Jos
+
+* [Nº 47](indice.md#ejemplar-47) — mayo de 1927 — *Notas*
+* [Nº 53](indice.md#ejemplar-53) — noviembre de 1927 — *Notas*
+* [Nº 54](indice.md#ejemplar-54) — diciembre de 1927 — *Notas*
+* [Nº 61](indice.md#ejemplar-61) — julio de 1928 — *Notas*
+* [Nº 73](indice.md#ejemplar-73) — julio de 1929 — *Notas*
+* [Nº 75](indice.md#ejemplar-75) — septiembre de 1929 — *Notas*
+* [Nº 92](indice.md#ejemplar-92) — febrero de 1931 — *Notas*
+* [Nº 101](indice.md#ejemplar-101) — noviembre de 1931 — *Notas*
+
 ## Emilio Cecchi
 
 * [Nº 156](indice.md#ejemplar-156) — junio de 1936 — *Peces de colores*, pp. 241–266
 
 ## Emilio García Gómez
 
+* [Nº 35](indice.md#ejemplar-35) — mayo de 1926 — *Notas*
+* [Nº 48](indice.md#ejemplar-48) — junio de 1927 — *Notas*
+* [Nº 61](indice.md#ejemplar-61) — julio de 1928 — *Notas*
 * [Nº 62](indice.md#ejemplar-62) — agosto de 1928 — *Poemas arábigoandaluces*, pp. 177–203
+* [Nº 73](indice.md#ejemplar-73) — julio de 1929 — *Notas*
+* [Nº 79](indice.md#ejemplar-79) — enero de 1930 — *Notas*
+* [Nº 80](indice.md#ejemplar-80) — febrero de 1930 — *Notas*
+* [Nº 83](indice.md#ejemplar-83) — mayo de 1930 — *Notas*
+* [Nº 84](indice.md#ejemplar-84) — junio de 1930 — *Notas*
+* [Nº 92](indice.md#ejemplar-92) — febrero de 1931 — *Notas*
 * [Nº 96](indice.md#ejemplar-96) — junio de 1931 — *Descensos de los astros y ascensiones de los iluminados*, pp. 280–296
+* [Nº 97](indice.md#ejemplar-97) — julio de 1931 — *Notas*
 * [Nº 114](indice.md#ejemplar-114) — diciembre de 1932 — *Louis Massignon*, pp. 254–256
 * [Nº 120](indice.md#ejemplar-120) — junio de 1933 — *Elogio de Al-Andalus por al-Saqundi*, pp. 341–350
 * [Nº 127](indice.md#ejemplar-127) — enero de 1934 — *Bagdad y los Reinos de Taifas*, pp. 1–22
+* [Nº 130](indice.md#ejemplar-130) — abril de 1934 — *Notas*
 * [Nº 137](indice.md#ejemplar-137) — noviembre de 1934 — *Tres capítulos del "Collar de la Paloma"*, pp. 150–169
 * [Nº 148](indice.md#ejemplar-148) — octubre de 1935 — *Españoles en el Sudán*, pp. 93–117
 
@@ -427,6 +689,19 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Enrique Díez Canedo
 
 * [Nº 2](indice.md#ejemplar-2) — agosto de 1923 — *Shelley*, pp. 242–247
+* [Nº 2](indice.md#ejemplar-2) — agosto de 1923 — *Notas*
+* [Nº 5](indice.md#ejemplar-5) — noviembre de 1923 — *Notas*
+* [Nº 9](indice.md#ejemplar-9) — marzo de 1924 — *Notas*
+* [Nº 10](indice.md#ejemplar-10) — abril de 1924 — *Notas*
+* [Nº 11](indice.md#ejemplar-11) — mayo de 1924 — *Notas*
+* [Nº 12](indice.md#ejemplar-12) — junio de 1924 — *Notas*
+* [Nº 14](indice.md#ejemplar-14) — agosto de 1924 — *Notas*
+* [Nº 15](indice.md#ejemplar-15) — septiembre de 1924 — *Notas*
+* [Nº 21](indice.md#ejemplar-21) — marzo de 1925 — *Notas*
+* [Nº 23](indice.md#ejemplar-23) — mayo de 1925 — *Notas*
+* [Nº 24](indice.md#ejemplar-24) — junio de 1925 — *Notas*
+* [Nº 26](indice.md#ejemplar-26) — agosto de 1925 — *Notas*
+* [Nº 37](indice.md#ejemplar-37) — julio de 1926 — *Notas*
 * [Nº 49](indice.md#ejemplar-49) — julio de 1927 — *H.-R. Lenormand y el paisaje dramático*, pp. 64–76
 * [Nº 57](indice.md#ejemplar-57) — marzo de 1928 — *Epigramas americanos*, pp. 305–308
 
@@ -447,8 +722,17 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Ernesto Giménez Caballero
 
 * [Nº 16](indice.md#ejemplar-16) — octubre de 1924 — *Conmemoración de don Juan Valera*, pp. 140–150
+* [Nº 17](indice.md#ejemplar-17) — noviembre de 1924 — *Notas*
+* [Nº 18](indice.md#ejemplar-18) — diciembre de 1924 — *Notas*
+* [Nº 21](indice.md#ejemplar-21) — marzo de 1925 — *Notas*
+* [Nº 27](indice.md#ejemplar-27) — septiembre de 1925 — *Notas*
 * [Nº 49](indice.md#ejemplar-49) — julio de 1927 — *Datos para una solución*, pp. 23–37
+* [Nº 52](indice.md#ejemplar-52) — octubre de 1927 — *Notas*
+* [Nº 53](indice.md#ejemplar-53) — noviembre de 1927 — *Notas*
+* [Nº 55](indice.md#ejemplar-55) — enero de 1928 — *Notas*
 * [Nº 57](indice.md#ejemplar-57) — marzo de 1928 — *Eoántropo*, pp. 309–342
+* [Nº 77](indice.md#ejemplar-77) — noviembre de 1929 — *Notas*
+* [Nº 78](indice.md#ejemplar-78) — diciembre de 1929 — *Notas*
 * [Nº 81](indice.md#ejemplar-81) — marzo de 1930 — *Monograma sobre la judería de Escopia*, pp. 356–376
 * [Nº 83](indice.md#ejemplar-83) — mayo de 1930 — *San José*, pp. 169–227
 
@@ -459,6 +743,19 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Erwin Schrödinger
 
 * [Nº 113](indice.md#ejemplar-113) — noviembre de 1932 — *¿Está la ciencia natural condicionada por el medio?*, pp. 125–159
+
+## Esteban Salazar y Chapela
+
+* [Nº 35](indice.md#ejemplar-35) — mayo de 1926 — *Notas*
+* [Nº 38](indice.md#ejemplar-38) — agosto de 1926 — *Notas*
+* [Nº 39](indice.md#ejemplar-39) — septiembre de 1926 — *Notas*
+* [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *Notas*
+* [Nº 44](indice.md#ejemplar-44) — febrero de 1927 — *Notas*
+* [Nº 46](indice.md#ejemplar-46) — abril de 1927 — *Notas*
+* [Nº 52](indice.md#ejemplar-52) — octubre de 1927 — *Notas*
+* [Nº 59](indice.md#ejemplar-59) — mayo de 1928 — *Notas*
+* [Nº 70](indice.md#ejemplar-70) — abril de 1929 — *Notas*
+* [Nº 72](indice.md#ejemplar-72) — junio de 1929 — *Notas*
 
 ## Eugene O ' Neill
 
@@ -473,6 +770,12 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Eugenio Imaz
 
 * [Nº 154](indice.md#ejemplar-154) — abril de 1936 — *En busca de nuestro tiempo*, pp. 54–78
+
+## Eugenio Montes
+
+* [Nº 12](indice.md#ejemplar-12) — junio de 1924 — *Notas*
+* [Nº 25](indice.md#ejemplar-25) — julio de 1925 — *Notas*
+* [Nº 28](indice.md#ejemplar-28) — octubre de 1925 — *Notas*
 
 ## Evaristo Correa Calderón
 
@@ -512,21 +815,46 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Fernando Vela
 
 * [Nº 1](indice.md#ejemplar-1) — julio de 1923 — *El individuo y el medio (nuevas ideas biológicas)*, pp. 95–105
+* [Nº 3](indice.md#ejemplar-3) — septiembre de 1923 — *Notas*
+* [Nº 6](indice.md#ejemplar-6) — diciembre de 1923 — *Notas*
+* [Nº 7](indice.md#ejemplar-7) — enero de 1924 — *Notas*
+* [Nº 8](indice.md#ejemplar-8) — febrero de 1924 — *Notas*
+* [Nº 9](indice.md#ejemplar-9) — marzo de 1924 — *Notas*
+* [Nº 18](indice.md#ejemplar-18) — diciembre de 1924 — *Notas*
 * [Nº 23](indice.md#ejemplar-23) — mayo de 1925 — *Desde la ribera oscura*, pp. 202–227
+* [Nº 30](indice.md#ejemplar-30) — diciembre de 1925 — *Notas*
+* [Nº 31](indice.md#ejemplar-31) — enero de 1926 — *Notas*
+* [Nº 33](indice.md#ejemplar-33) — marzo de 1926 — *Notas*
+* [Nº 37](indice.md#ejemplar-37) — julio de 1926 — *Notas*
 * [Nº 41](indice.md#ejemplar-41) — noviembre de 1926 — *La poesía pura*, pp. 217–240
 * [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *Sobre el problema de la filosofía*, pp. 49–68
 * [Nº 46](indice.md#ejemplar-46) — abril de 1927 — *El arte al cubo*, pp. 79–86
+* [Nº 52](indice.md#ejemplar-52) — octubre de 1927 — *Notas*
 * [Nº 59](indice.md#ejemplar-59) — mayo de 1928 — *Charlot*, pp. 231–237
 * [Nº 67](indice.md#ejemplar-67) — enero de 1929 — *Fragmentos*, pp. 1–18
+* [Nº 71](indice.md#ejemplar-71) — mayo de 1929 — *Notas*
+* [Nº 79](indice.md#ejemplar-79) — enero de 1930 — *Notas*
+* [Nº 87](indice.md#ejemplar-87) — septiembre de 1930 — *Notas*
 * [Nº 99](indice.md#ejemplar-99) — septiembre de 1931 — *Visto y oido*, pp. 343–351
+* [Nº 111](indice.md#ejemplar-111) — septiembre de 1932 — *Notas*
+* [Nº 117](indice.md#ejemplar-117) — marzo de 1933 — *Notas*
 * [Nº 119](indice.md#ejemplar-119) — mayo de 1933 — *Eugenesia y racismo*, pp. 199–221
+* [Nº 122](indice.md#ejemplar-122) — agosto de 1933 — *Notas*
+* [Nº 128](indice.md#ejemplar-128) — febrero de 1934 — *Notas*
 * [Nº 131](indice.md#ejemplar-131) — mayo de 1934 — *Mundo limitado*, pp. 123–153
 * [Nº 140](indice.md#ejemplar-140) — febrero de 1935 — *Inmovilidades*, pp. 215–221
 * [Nº 141](indice.md#ejemplar-141) — marzo de 1935 — *Inmovilidades*, pp. 288–302
+* [Nº 141](indice.md#ejemplar-141) — marzo de 1935 — *Notas*
+* [Nº 142](indice.md#ejemplar-142) — abril de 1935 — *Notas*
 * [Nº 143](indice.md#ejemplar-143) — mayo de 1935 — *Embrutecimiento*, pp. 218–225
 * [Nº 146](indice.md#ejemplar-146) — agosto de 1935 — *Sociología de la crisis*, pp. 129–160
+* [Nº 146](indice.md#ejemplar-146) — agosto de 1935 — *Notas*
+* [Nº 150](indice.md#ejemplar-150) — diciembre de 1935 — *Notas*
 * [Nº 151](indice.md#ejemplar-151) — enero de 1936 — *La muy francesa historia del coñac*, pp. 37–49
+* [Nº 151](indice.md#ejemplar-151) — enero de 1936 — *Notas*
+* [Nº 152](indice.md#ejemplar-152) — febrero de 1936 — *Notas*
 * [Nº 154](indice.md#ejemplar-154) — abril de 1936 — *Mapa real de las fuerzas francesas*, pp. 79–100
+* [Nº 155](indice.md#ejemplar-155) — mayo de 1936 — *Notas*
 
 ## Francisco A. Icaza
 
@@ -536,11 +864,29 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Francisco Ayala
 
 * [Nº 47](indice.md#ejemplar-47) — mayo de 1927 — *Hora muerta*, pp. 151–164
+* [Nº 48](indice.md#ejemplar-48) — junio de 1927 — *Notas*
+* [Nº 50](indice.md#ejemplar-50) — agosto de 1927 — *Notas*
+* [Nº 52](indice.md#ejemplar-52) — octubre de 1927 — *Notas*
+* [Nº 54](indice.md#ejemplar-54) — diciembre de 1927 — *Notas*
+* [Nº 55](indice.md#ejemplar-55) — enero de 1928 — *Notas*
+* [Nº 57](indice.md#ejemplar-57) — marzo de 1928 — *Notas*
+* [Nº 59](indice.md#ejemplar-59) — mayo de 1928 — *Notas*
+* [Nº 64](indice.md#ejemplar-64) — octubre de 1928 — *Notas*
 * [Nº 65](indice.md#ejemplar-65) — noviembre de 1928 — *Medusa artificial*, pp. 227–238
+* [Nº 66](indice.md#ejemplar-66) — diciembre de 1928 — *Notas*
+* [Nº 67](indice.md#ejemplar-67) — enero de 1929 — *Notas*
 * [Nº 70](indice.md#ejemplar-70) — abril de 1929 — *Indagación del Cinema*, pp. 31–42
+* [Nº 70](indice.md#ejemplar-70) — abril de 1929 — *Notas*
+* [Nº 71](indice.md#ejemplar-71) — mayo de 1929 — *Notas*
+* [Nº 73](indice.md#ejemplar-73) — julio de 1929 — *Notas*
 * [Nº 75](indice.md#ejemplar-75) — septiembre de 1929 — *Cazador en el alba*, pp. 308–328
 * [Nº 76](indice.md#ejemplar-76) — octubre de 1929 — *Cazador en el alba*, pp. 38–56
+* [Nº 81](indice.md#ejemplar-81) — marzo de 1930 — *Notas*
+* [Nº 84](indice.md#ejemplar-84) — junio de 1930 — *Notas*
+* [Nº 85](indice.md#ejemplar-85) — julio de 1930 — *Notas*
 * [Nº 88](indice.md#ejemplar-88) — octubre de 1930 — *Erika ante el invierno*, pp. 85–101
+* [Nº 89](indice.md#ejemplar-89) — noviembre de 1930 — *Notas*
+* [Nº 94](indice.md#ejemplar-94) — abril de 1931 — *Notas*
 
 ## Francisco Gachot
 
@@ -646,11 +992,23 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## Gerardo Diego
 
+* [Nº 3](indice.md#ejemplar-3) — septiembre de 1923 — *Notas*
+* [Nº 4](indice.md#ejemplar-4) — octubre de 1923 — *Notas*
 * [Nº 7](indice.md#ejemplar-7) — enero de 1924 — *Un escorzo de Góngora*, pp. 76–89
+* [Nº 9](indice.md#ejemplar-9) — marzo de 1924 — *Notas*
+* [Nº 13](indice.md#ejemplar-13) — julio de 1924 — *Notas*
+* [Nº 17](indice.md#ejemplar-17) — noviembre de 1924 — *Notas*
 * [Nº 27](indice.md#ejemplar-27) — septiembre de 1925 — *Bodega y Azotea*, pp. 293–301
+* [Nº 27](indice.md#ejemplar-27) — septiembre de 1925 — *Notas*
+* [Nº 28](indice.md#ejemplar-28) — octubre de 1925 — *Notas*
+* [Nº 36](indice.md#ejemplar-36) — junio de 1926 — *Notas*
 * [Nº 37](indice.md#ejemplar-37) — julio de 1926 — *Cuadrante*, pp. 1–24
 * [Nº 41](indice.md#ejemplar-41) — noviembre de 1926 — *El virtuoso divo Orfeo*, pp. 182–201
+* [Nº 42](indice.md#ejemplar-42) — diciembre de 1926 — *Notas*
+* [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *Notas*
 * [Nº 50](indice.md#ejemplar-50) — agosto de 1927 — *Devoción y meditación de Juan Gris*, pp. 160–180
+* [Nº 51](indice.md#ejemplar-51) — septiembre de 1927 — *Notas*
+* [Nº 53](indice.md#ejemplar-53) — noviembre de 1927 — *Notas*
 * [Nº 115](indice.md#ejemplar-115) — enero de 1933 — *Poemas*, pp. 33–38
 
 ## Gerda Walther
@@ -670,6 +1028,10 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 116](indice.md#ejemplar-116) — febrero de 1933 — *La reforma de la moral sexual*, pp. 150–173
 
+## Gonzalo Rodríguez Lafora
+
+* [Nº 16](indice.md#ejemplar-16) — octubre de 1924 — *Notas*
+
 ## Gregorio Marañón
 
 * [Nº 7](indice.md#ejemplar-7) — enero de 1924 — *Notas para la biología de Don Juan*, pp. 15–53
@@ -680,6 +1042,28 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 144](indice.md#ejemplar-144) — junio de 1935 — *Más sobre nuestro siglo XVIII*, pp. 278–312
 * [Nº 153](indice.md#ejemplar-153) — marzo de 1936 — *La obra política del Conde-Duque de Olivares*, pp. 283–321
 
+## Guillermo de Torre
+
+* [Nº 17](indice.md#ejemplar-17) — noviembre de 1924 — *Notas*
+* [Nº 33](indice.md#ejemplar-33) — marzo de 1926 — *Notas*
+* [Nº 34](indice.md#ejemplar-34) — abril de 1926 — *Notas*
+* [Nº 38](indice.md#ejemplar-38) — agosto de 1926 — *Notas*
+* [Nº 40](indice.md#ejemplar-40) — octubre de 1926 — *Notas*
+* [Nº 41](indice.md#ejemplar-41) — noviembre de 1926 — *Notas*
+* [Nº 44](indice.md#ejemplar-44) — febrero de 1927 — *Notas*
+* [Nº 49](indice.md#ejemplar-49) — julio de 1927 — *Notas*
+* [Nº 114](indice.md#ejemplar-114) — diciembre de 1932 — *Notas*
+* [Nº 119](indice.md#ejemplar-119) — mayo de 1933 — *Notas*
+* [Nº 135](indice.md#ejemplar-135) — septiembre de 1934 — *Notas*
+* [Nº 136](indice.md#ejemplar-136) — octubre de 1934 — *Notas*
+* [Nº 140](indice.md#ejemplar-140) — febrero de 1935 — *Notas*
+* [Nº 145](indice.md#ejemplar-145) — julio de 1935 — *Notas*
+* [Nº 156](indice.md#ejemplar-156) — junio de 1936 — *Notas*
+
+## Guillermo Díaz Plaja
+
+* [Nº 99](indice.md#ejemplar-99) — septiembre de 1931 — *Notas*
+
 ## Guillermo Haas
 
 * [Nº 18](indice.md#ejemplar-18) — diciembre de 1924 — *La unidad de Europa*, pp. 353–396
@@ -689,7 +1073,10 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 17](indice.md#ejemplar-17) — noviembre de 1924 — *Pre-Oriente. Días de Yugoeslavia*, pp. 232–248
 * [Nº 20](indice.md#ejemplar-20) — febrero de 1925 — *Biología de los vicios*, pp. 146–175
 * [Nº 47](indice.md#ejemplar-47) — mayo de 1927 — *Ironía, temperamento y carácter*, pp. 129–150
+* [Nº 54](indice.md#ejemplar-54) — diciembre de 1927 — *Notas*
 * [Nº 90](indice.md#ejemplar-90) — diciembre de 1930 — *Climaterio de la cortesía*, pp. 345–360
+* [Nº 135](indice.md#ejemplar-135) — septiembre de 1934 — *Notas*
+* [Nº 151](indice.md#ejemplar-151) — enero de 1936 — *Notas*
 
 ## H. S. Jennings
 
@@ -771,6 +1158,8 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 34](indice.md#ejemplar-34) — abril de 1926 — *La vida de nuestros antepasados cuaternarios en Europa*, pp. 8–51
 * [Nº 35](indice.md#ejemplar-35) — mayo de 1926 — *La vida de nuestros antepasados cuaternarios en Europa*, pp. 145–188
+* [Nº 120](indice.md#ejemplar-120) — junio de 1933 — *Notas*
+* [Nº 143](indice.md#ejemplar-143) — mayo de 1935 — *Notas*
 
 ## Igor Strawinsky
 
@@ -788,10 +1177,18 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 51](indice.md#ejemplar-51) — septiembre de 1927 — *La filosofía en la Rusia soviética*, pp. 357–370
 
+## J. J. de Urríes y Azara
+
+* [Nº 17](indice.md#ejemplar-17) — noviembre de 1924 — *Notas*
+
 ## J. Lillo Rodelgo
 
 * [Nº 110](indice.md#ejemplar-110) — agosto de 1932 — *J. Ortega y Gasset: La manera veneciana de sus paisajes*, pp. 220–233
 * [Nº 111](indice.md#ejemplar-111) — septiembre de 1932 — *J. Ortega y Gasset: La manera veneciana de sus paisajes (conclusión)*, pp. 329–344
+
+## J. M. S.
+
+* [Nº 22](indice.md#ejemplar-22) — abril de 1925 — *Notas*
 
 ## J.B.S. Haldane
 
@@ -810,9 +1207,11 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 59](indice.md#ejemplar-59) — mayo de 1928 — *Parálisis*, pp. 145–156
 * [Nº 79](indice.md#ejemplar-79) — enero de 1930 — *"Close - up" de Mr. Lehar*, pp. 85–119
+* [Nº 80](indice.md#ejemplar-80) — febrero de 1930 — *Notas*
 * [Nº 83](indice.md#ejemplar-83) — mayo de 1930 — *Destierro*, pp. 162–168
 * [Nº 85](indice.md#ejemplar-85) — julio de 1930 — *Muerte de Proserpina*, pp. 1–36
 * [Nº 86](indice.md#ejemplar-86) — agosto de 1930 — *Muerte de Proserpina (conclusión)*, pp. 177–215
+* [Nº 90](indice.md#ejemplar-90) — diciembre de 1930 — *Notas*
 * [Nº 95](indice.md#ejemplar-95) — mayo de 1931 — *Entrada en materia*, pp. 157–176
 * [Nº 101](indice.md#ejemplar-101) — noviembre de 1931 — *Nacimiento de Venus*, pp. 133–146
 * [Nº 108](indice.md#ejemplar-108) — junio de 1932 — *Galería nocturna*, pp. 331–352
@@ -881,37 +1280,101 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## José Antonio Maravall
 
+* [Nº 118](indice.md#ejemplar-118) — abril de 1933 — *Notas*
 * [Nº 121](indice.md#ejemplar-121) — julio de 1933 — *Teoría del Poema*, pp. 93–106
+* [Nº 125](indice.md#ejemplar-125) — noviembre de 1933 — *Notas*
+* [Nº 128](indice.md#ejemplar-128) — febrero de 1934 — *Notas*
 * [Nº 129](indice.md#ejemplar-129) — marzo de 1934 — *De una cultura de progreso a una cultura de la vida*, pp. 288–313
+* [Nº 129](indice.md#ejemplar-129) — marzo de 1934 — *Notas*
+* [Nº 131](indice.md#ejemplar-131) — mayo de 1934 — *Notas*
+* [Nº 134](indice.md#ejemplar-134) — agosto de 1934 — *Notas*
 * [Nº 136](indice.md#ejemplar-136) — octubre de 1934 — *Castilla o la moral de la creación*, pp. 59–75
+* [Nº 139](indice.md#ejemplar-139) — enero de 1935 — *Notas*
+* [Nº 143](indice.md#ejemplar-143) — mayo de 1935 — *Notas*
+* [Nº 144](indice.md#ejemplar-144) — junio de 1935 — *Notas*
 * [Nº 146](indice.md#ejemplar-146) — agosto de 1935 — *Hacia el hombre*, pp. 161–181
+* [Nº 147](indice.md#ejemplar-147) — septiembre de 1935 — *Notas*
+* [Nº 151](indice.md#ejemplar-151) — enero de 1936 — *Notas*
 * [Nº 152](indice.md#ejemplar-152) — febrero de 1936 — *La tentación adrede*, pp. 209–219
 
 ## José Antonio Muñoz Rojas
 
 * [Nº 139](indice.md#ejemplar-139) — enero de 1935 — *La Heloisada*, pp. 81–89
 
+## José Antonio Rubio
+
+* [Nº 47](indice.md#ejemplar-47) — mayo de 1927 — *Notas*
+* [Nº 61](indice.md#ejemplar-61) — julio de 1928 — *Notas*
+
 ## José Camón Aznar
 
 * [Nº 86](indice.md#ejemplar-86) — agosto de 1930 — *Teoría del Renacimiento*, pp. 121–144
+
+## José Francisco Pastor
+
+* [Nº 65](indice.md#ejemplar-65) — noviembre de 1928 — *Notas*
 
 ## José Gaos
 
 * [Nº 141](indice.md#ejemplar-141) — marzo de 1935 — *La filosofía de Maimónides*, pp. 303–322
 * [Nº 142](indice.md#ejemplar-142) — abril de 1935 — *La filosofía de Maimónides*, pp. 11–34
 
+## José Gómez de la Serna Favre
+
+* [Nº 16](indice.md#ejemplar-16) — octubre de 1924 — *Notas*
+* [Nº 28](indice.md#ejemplar-28) — octubre de 1925 — *Notas*
+* [Nº 37](indice.md#ejemplar-37) — julio de 1926 — *Notas*
+* [Nº 42](indice.md#ejemplar-42) — diciembre de 1926 — *Notas*
+* [Nº 52](indice.md#ejemplar-52) — octubre de 1927 — *Notas*
+* [Nº 54](indice.md#ejemplar-54) — diciembre de 1927 — *Notas*
+* [Nº 67](indice.md#ejemplar-67) — enero de 1929 — *Notas*
+* [Nº 80](indice.md#ejemplar-80) — febrero de 1930 — *Notas*
+* [Nº 96](indice.md#ejemplar-96) — junio de 1931 — *Notas*
+
 ## José Gómez de la Serna y Favre
 
 * [Nº 33](indice.md#ejemplar-33) — marzo de 1926 — *La geopolítica y el porvenir del Pacífico*, pp. 369–392
 
+## José M. de Cossio
+
+* [Nº 21](indice.md#ejemplar-21) — marzo de 1925 — *Notas*
+* [Nº 26](indice.md#ejemplar-26) — agosto de 1925 — *Notas*
+* [Nº 31](indice.md#ejemplar-31) — enero de 1926 — *Notas*
+* [Nº 34](indice.md#ejemplar-34) — abril de 1926 — *Notas*
+* [Nº 40](indice.md#ejemplar-40) — octubre de 1926 — *Notas*
+* [Nº 44](indice.md#ejemplar-44) — febrero de 1927 — *Notas*
+* [Nº 46](indice.md#ejemplar-46) — abril de 1927 — *Notas*
+* [Nº 50](indice.md#ejemplar-50) — agosto de 1927 — *Notas*
+* [Nº 53](indice.md#ejemplar-53) — noviembre de 1927 — *Notas*
+* [Nº 59](indice.md#ejemplar-59) — mayo de 1928 — *Notas*
+* [Nº 64](indice.md#ejemplar-64) — octubre de 1928 — *Notas*
+
+## José Mª Chacón y Calvo
+
+* [Nº 120](indice.md#ejemplar-120) — junio de 1933 — *Notas*
+
 ## José María Igual
 
 * [Nº 63](indice.md#ejemplar-63) — septiembre de 1928 — *La última ecuación de Atlantis*, pp. 292–321
+* [Nº 64](indice.md#ejemplar-64) — octubre de 1928 — *Notas*
+* [Nº 65](indice.md#ejemplar-65) — noviembre de 1928 — *Notas*
+* [Nº 68](indice.md#ejemplar-68) — febrero de 1929 — *Notas*
+* [Nº 71](indice.md#ejemplar-71) — mayo de 1929 — *Notas*
+* [Nº 74](indice.md#ejemplar-74) — agosto de 1929 — *Notas*
 * [Nº 76](indice.md#ejemplar-76) — octubre de 1929 — *Sanielevici, un lamarckista del siglo XX*, pp. 69–86
+* [Nº 81](indice.md#ejemplar-81) — marzo de 1930 — *Notas*
 
 ## José María Quiroga Plá
 
 * [Nº 52](indice.md#ejemplar-52) — octubre de 1927 — *Baladas para acordeón*, pp. 56–60
+* [Nº 53](indice.md#ejemplar-53) — noviembre de 1927 — *Notas*
+* [Nº 55](indice.md#ejemplar-55) — enero de 1928 — *Notas*
+* [Nº 58](indice.md#ejemplar-58) — abril de 1928 — *Notas*
+* [Nº 59](indice.md#ejemplar-59) — mayo de 1928 — *Notas*
+* [Nº 64](indice.md#ejemplar-64) — octubre de 1928 — *Notas*
+* [Nº 67](indice.md#ejemplar-67) — enero de 1929 — *Notas*
+* [Nº 69](indice.md#ejemplar-69) — marzo de 1929 — *Notas*
+* [Nº 74](indice.md#ejemplar-74) — agosto de 1929 — *Notas*
 * [Nº 108](indice.md#ejemplar-108) — junio de 1932 — *Alta tensión*, pp. 301–310
 * [Nº 127](indice.md#ejemplar-127) — enero de 1934 — *Venticuatro horas después*, pp. 66–86
 * [Nº 128](indice.md#ejemplar-128) — febrero de 1934 — *Ventiuatro horas despues (conclusión)*, pp. 167–186
@@ -923,6 +1386,9 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## José Miguel Sacristán
 
+* [Nº 5](indice.md#ejemplar-5) — noviembre de 1923 — *Notas*
+* [Nº 30](indice.md#ejemplar-30) — diciembre de 1925 — *Notas*
+* [Nº 60](indice.md#ejemplar-60) — junio de 1928 — *Notas*
 * [Nº 106](indice.md#ejemplar-106) — abril de 1932 — *Goethe, según la psicopatología*, pp. 42–91
 
 ## José Moreno Villa
@@ -931,16 +1397,26 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 18](indice.md#ejemplar-18) — diciembre de 1924 — *Autocríticas*, pp. 435–440
 * [Nº 21](indice.md#ejemplar-21) — marzo de 1925 — *Tras la morfología de Rubens*, pp. 333–350
 * [Nº 25](indice.md#ejemplar-25) — julio de 1925 — *Nuevos artistas*, pp. 80–91
+* [Nº 28](indice.md#ejemplar-28) — octubre de 1925 — *Notas*
+
+## José Muñoz Rojas
+
+* [Nº 134](indice.md#ejemplar-134) — agosto de 1934 — *Notas*
+* [Nº 149](indice.md#ejemplar-149) — noviembre de 1935 — *Notas*
 
 ## José Ortega y Gasset
 
 * [Nº 1](indice.md#ejemplar-1) — julio de 1923 — *La poesía de Ana de Noailles*, pp. 29–41
 * [Nº 2](indice.md#ejemplar-2) — agosto de 1923 — *Oknos el soguero*, pp. 231–241
+* [Nº 2](indice.md#ejemplar-2) — agosto de 1923 — *Notas*
 * [Nº 3](indice.md#ejemplar-3) — septiembre de 1923 — *Para una topografía de la soberbia española*, pp. 265–280
+* [Nº 3](indice.md#ejemplar-3) — septiembre de 1923 — *Notas*
 * [Nº 4](indice.md#ejemplar-4) — octubre de 1923 — *¿Qué son los valores?*, pp. 39–70
+* [Nº 6](indice.md#ejemplar-6) — diciembre de 1923 — *Notas*
 * [Nº 8](indice.md#ejemplar-8) — febrero de 1924 — *Sobre el punto de vista en las artes*, pp. 129–148
 * [Nº 10](indice.md#ejemplar-10) — abril de 1924 — *Kant*, pp. 1–32
 * [Nº 11](indice.md#ejemplar-11) — mayo de 1924 — *Kant*, pp. 129–144
+* [Nº 11](indice.md#ejemplar-11) — mayo de 1924 — *Notas*
 * [Nº 14](indice.md#ejemplar-14) — agosto de 1924 — *Abejas milenarias*, pp. 145–152
 * [Nº 16](indice.md#ejemplar-16) — octubre de 1924 — *Ni vitalismo ni racionalismo*, pp. 1–16
 * [Nº 18](indice.md#ejemplar-18) — diciembre de 1924 — *Parerga: Cosmopolitísmo*, pp. 343–352
@@ -949,6 +1425,8 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 31](indice.md#ejemplar-31) — enero de 1926 — *Parerga*, pp. 119–134
 * [Nº 41](indice.md#ejemplar-41) — noviembre de 1926 — *Para una caracterología*, pp. 241–253
 * [Nº 56](indice.md#ejemplar-56) — febrero de 1928 — *La "Filosofía de la historia" de Hegel, y la historiología*, pp. 145–176
+* [Nº 60](indice.md#ejemplar-60) — junio de 1928 — *Notas*
+* [Nº 73](indice.md#ejemplar-73) — julio de 1929 — *Notas*
 * [Nº 106](indice.md#ejemplar-106) — abril de 1932 — *Pidiendo un Goethe desde dentro*, pp. 1–41
 * [Nº 123](indice.md#ejemplar-123) — septiembre de 1933 — *En el tránsito del cristianismo al racionalismo*, pp. 340–361
 * [Nº 125](indice.md#ejemplar-125) — noviembre de 1933 — *Guilermo Dilthey y la idea de la vida*, pp. 197–214
@@ -957,9 +1435,17 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 143](indice.md#ejemplar-143) — mayo de 1935 — *Misión del bibliotecario*, pp. 121–162
 * [Nº 150](indice.md#ejemplar-150) — diciembre de 1935 — *Discursos con el P.E.N. Club*, pp. 249–266
 
+## José Tudela
+
+* [Nº 115](indice.md#ejemplar-115) — enero de 1933 — *Notas*
+
 ## José Tudela de la Orden
 
 * [Nº 143](indice.md#ejemplar-143) — mayo de 1935 — *La población en el mundo*, pp. 190–217
+
+## José Vallejo
+
+* [Nº 19](indice.md#ejemplar-19) — enero de 1925 — *Notas*
 
 ## Joseph Conrad
 
@@ -975,17 +1461,49 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Juan Chabás
 
 * [Nº 13](indice.md#ejemplar-13) — julio de 1924 — *Peregrino sentado*, pp. 69–87
+* [Nº 17](indice.md#ejemplar-17) — noviembre de 1924 — *Notas*
+* [Nº 21](indice.md#ejemplar-21) — marzo de 1925 — *Notas*
+* [Nº 23](indice.md#ejemplar-23) — mayo de 1925 — *Notas*
+* [Nº 24](indice.md#ejemplar-24) — junio de 1925 — *Notas*
+* [Nº 26](indice.md#ejemplar-26) — agosto de 1925 — *Notas*
+* [Nº 40](indice.md#ejemplar-40) — octubre de 1926 — *Notas*
+* [Nº 41](indice.md#ejemplar-41) — noviembre de 1926 — *Notas*
+* [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *Notas*
 * [Nº 44](indice.md#ejemplar-44) — febrero de 1927 — *Las vueltas inútiles*, pp. 200–213
+* [Nº 46](indice.md#ejemplar-46) — abril de 1927 — *Notas*
 * [Nº 48](indice.md#ejemplar-48) — junio de 1927 — *Centenario de poesía amorosa*, pp. 335–355
+* [Nº 52](indice.md#ejemplar-52) — octubre de 1927 — *Notas*
+* [Nº 53](indice.md#ejemplar-53) — noviembre de 1927 — *Notas*
+* [Nº 54](indice.md#ejemplar-54) — diciembre de 1927 — *Notas*
+* [Nº 55](indice.md#ejemplar-55) — enero de 1928 — *Notas*
+* [Nº 57](indice.md#ejemplar-57) — marzo de 1928 — *Notas*
+* [Nº 61](indice.md#ejemplar-61) — julio de 1928 — *Notas*
+* [Nº 62](indice.md#ejemplar-62) — agosto de 1928 — *Notas*
+* [Nº 79](indice.md#ejemplar-79) — enero de 1930 — *Notas*
+* [Nº 81](indice.md#ejemplar-81) — marzo de 1930 — *Notas*
+* [Nº 102](indice.md#ejemplar-102) — diciembre de 1931 — *Notas*
+* [Nº 115](indice.md#ejemplar-115) — enero de 1933 — *Notas*
 
 ## Juan Dantín Cereceda
 
 * [Nº 4](indice.md#ejemplar-4) — octubre de 1923 — *La génesis de los continentes y de los mares, según la teoría de Wegener*, pp. 71–85
 * [Nº 24](indice.md#ejemplar-24) — junio de 1925 — *España vista por Don Antonio Ponz*, pp. 331–358
 * [Nº 30](indice.md#ejemplar-30) — diciembre de 1925 — *El hielo cósmico y la novísima meteorología de Hanns Fischer*, pp. 341–355
+* [Nº 30](indice.md#ejemplar-30) — diciembre de 1925 — *Notas*
+* [Nº 38](indice.md#ejemplar-38) — agosto de 1926 — *Notas*
 * [Nº 42](indice.md#ejemplar-42) — diciembre de 1926 — *Mamíferos y reptiles gigantescos de China y Mongolia*, pp. 324–342
+* [Nº 49](indice.md#ejemplar-49) — julio de 1927 — *Notas*
 * [Nº 50](indice.md#ejemplar-50) — agosto de 1927 — *El medio vivo y las asociaciones biogeográficas*, pp. 181–205
+* [Nº 75](indice.md#ejemplar-75) — septiembre de 1929 — *Notas*
 * [Nº 81](indice.md#ejemplar-81) — marzo de 1930 — *¡Excelsior! La reciente exploración antártica*, pp. 337–355
+* [Nº 86](indice.md#ejemplar-86) — agosto de 1930 — *Notas*
+* [Nº 103](indice.md#ejemplar-103) — enero de 1932 — *Notas*
+* [Nº 108](indice.md#ejemplar-108) — junio de 1932 — *Notas*
+* [Nº 119](indice.md#ejemplar-119) — mayo de 1933 — *Notas*
+
+## Juan Díaz del Moral
+
+* [Nº 152](indice.md#ejemplar-152) — febrero de 1936 — *Notas*
 
 ## Juan José Domenchina
 
@@ -1009,6 +1527,10 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 14](indice.md#ejemplar-14) — agosto de 1924 — *Gravitación*, pp. 158–160
 * [Nº 64](indice.md#ejemplar-64) — octubre de 1928 — *El suicidio de Filemón Biguá*, pp. 91–99
 * [Nº 92](indice.md#ejemplar-92) — febrero de 1931 — *La desconocida del Sena*, pp. 197–208
+
+## Julián Marías
+
+* [Nº 153](indice.md#ejemplar-153) — marzo de 1936 — *Notas*
 
 ## Julius Ebbinghaus
 
@@ -1074,7 +1596,23 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 103](indice.md#ejemplar-103) — enero de 1932 — *La luna de los ñáñigos*, pp. 83–105
 * [Nº 107](indice.md#ejemplar-107) — mayo de 1932 — *En el cayo*, pp. 235–269
+* [Nº 113](indice.md#ejemplar-113) — noviembre de 1932 — *Notas*
 * [Nº 114](indice.md#ejemplar-114) — diciembre de 1932 — *Aquella noche salieron los muertos*, pp. 285–322
+* [Nº 115](indice.md#ejemplar-115) — enero de 1933 — *Notas*
+* [Nº 121](indice.md#ejemplar-121) — julio de 1933 — *Notas*
+* [Nº 122](indice.md#ejemplar-122) — agosto de 1933 — *Notas*
+* [Nº 125](indice.md#ejemplar-125) — noviembre de 1933 — *Notas*
+* [Nº 130](indice.md#ejemplar-130) — abril de 1934 — *Notas*
+* [Nº 135](indice.md#ejemplar-135) — septiembre de 1934 — *Notas*
+* [Nº 136](indice.md#ejemplar-136) — octubre de 1934 — *Notas*
+* [Nº 138](indice.md#ejemplar-138) — diciembre de 1934 — *Notas*
+* [Nº 139](indice.md#ejemplar-139) — enero de 1935 — *Notas*
+* [Nº 148](indice.md#ejemplar-148) — octubre de 1935 — *Notas*
+* [Nº 149](indice.md#ejemplar-149) — noviembre de 1935 — *Notas*
+* [Nº 150](indice.md#ejemplar-150) — diciembre de 1935 — *Notas*
+* [Nº 154](indice.md#ejemplar-154) — abril de 1936 — *Notas*
+* [Nº 156](indice.md#ejemplar-156) — junio de 1936 — *Notas*
+* [Nº 157](indice.md#ejemplar-157) — julio de 1936 — *Notas*
 
 ## Lord Dunsany
 
@@ -1098,6 +1636,7 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Louis Massignon
 
 * [Nº 114](indice.md#ejemplar-114) — diciembre de 1932 — *Los métodos de realización artística de los pueblos del Islam*, pp. 257–284
+* [Nº 116](indice.md#ejemplar-116) — febrero de 1933 — *Notas*
 
 ## Ludwig Pfandl
 
@@ -1111,23 +1650,45 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 7](indice.md#ejemplar-7) — enero de 1924 — *La tragedia de un personaje*, pp. 1–14
 
+## Luis Amado Blanco
+
+* [Nº 146](indice.md#ejemplar-146) — agosto de 1935 — *Notas*
+
 ## Luis Cernuda
 
 * [Nº 30](indice.md#ejemplar-30) — diciembre de 1925 — *Versos*, pp. 309–315
+* [Nº 74](indice.md#ejemplar-74) — agosto de 1929 — *Notas*
+* [Nº 76](indice.md#ejemplar-76) — octubre de 1929 — *Notas*
 * [Nº 77](indice.md#ejemplar-77) — noviembre de 1929 — *Cuerpo en pena*, pp. 158–160
 * [Nº 114](indice.md#ejemplar-114) — diciembre de 1932 — *Donde habite el olvido*, pp. 248–253
 
 ## Luis de Zulueta
 
+* [Nº 4](indice.md#ejemplar-4) — octubre de 1923 — *Notas*
+* [Nº 6](indice.md#ejemplar-6) — diciembre de 1923 — *Notas*
+* [Nº 20](indice.md#ejemplar-20) — febrero de 1925 — *Notas*
 * [Nº 27](indice.md#ejemplar-27) — septiembre de 1925 — *El enigma de Rusia*, pp. 273–292
+* [Nº 35](indice.md#ejemplar-35) — mayo de 1926 — *Notas*
+* [Nº 45](indice.md#ejemplar-45) — marzo de 1927 — *Notas*
 * [Nº 47](indice.md#ejemplar-47) — mayo de 1927 — *Felipe II*, pp. 165–190
+* [Nº 57](indice.md#ejemplar-57) — marzo de 1928 — *Notas*
 * [Nº 63](indice.md#ejemplar-63) — septiembre de 1928 — *León Tolstoy y el siglo XX*, pp. 257–269
+* [Nº 66](indice.md#ejemplar-66) — diciembre de 1928 — *Notas*
 * [Nº 77](indice.md#ejemplar-77) — noviembre de 1929 — *¿Un renacimiento católico?. Liturgia y espíritu*, pp. 202–222
+* [Nº 78](indice.md#ejemplar-78) — diciembre de 1929 — *Notas*
+
+## Luis G. de Valdeavellano
+
+* [Nº 68](indice.md#ejemplar-68) — febrero de 1929 — *Notas*
 
 ## Luis Olariaga
 
 * [Nº 20](indice.md#ejemplar-20) — febrero de 1925 — *Impresión de la Argentina en un economista*, pp. 229–235
 * [Nº 134](indice.md#ejemplar-134) — agosto de 1934 — *La Revolución de Roosevelt*, pp. 162–189
+
+## Luis Villalonga
+
+* [Nº 66](indice.md#ejemplar-66) — diciembre de 1928 — *Notas*
 
 ## Luys Santa Marina
 
@@ -1159,11 +1720,14 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 42](indice.md#ejemplar-42) — diciembre de 1926 — *Itinerario ideal del nuevo arte plástico*, pp. 343–367
 * [Nº 54](indice.md#ejemplar-54) — diciembre de 1927 — *Romanticismo, clasicismo y goticismo*, pp. 351–383
 * [Nº 61](indice.md#ejemplar-61) — julio de 1928 — *María Mallo*, pp. 80–95
+* [Nº 150](indice.md#ejemplar-150) — diciembre de 1935 — *Notas*
 
 ## Manuel Altolaguirre
 
 * [Nº 93](indice.md#ejemplar-93) — marzo de 1931 — *Soledades juntas*, pp. 276–282
 * [Nº 100](indice.md#ejemplar-100) — octubre de 1931 — *Poesía sin fecha*, pp. 31–36
+* [Nº 105](indice.md#ejemplar-105) — marzo de 1932 — *Notas*
+* [Nº 108](indice.md#ejemplar-108) — junio de 1932 — *Notas*
 * [Nº 110](indice.md#ejemplar-110) — agosto de 1932 — *Roca maternal*, pp. 166–170
 
 ## Manuel Bastos Ansart
@@ -1173,6 +1737,18 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Manuel de Terán Álvarez
 
 * [Nº 157](indice.md#ejemplar-157) — julio de 1936 — *Baja Andalucía*, pp. 73–110
+
+## Manuel G. Morente
+
+* [Nº 3](indice.md#ejemplar-3) — septiembre de 1923 — *Notas*
+* [Nº 10](indice.md#ejemplar-10) — abril de 1924 — *Notas*
+* [Nº 17](indice.md#ejemplar-17) — noviembre de 1924 — *Notas*
+* [Nº 19](indice.md#ejemplar-19) — enero de 1925 — *Notas*
+* [Nº 22](indice.md#ejemplar-22) — abril de 1925 — *Notas*
+* [Nº 23](indice.md#ejemplar-23) — mayo de 1925 — *Notas*
+* [Nº 33](indice.md#ejemplar-33) — marzo de 1926 — *Notas*
+* [Nº 37](indice.md#ejemplar-37) — julio de 1926 — *Notas*
+* [Nº 69](indice.md#ejemplar-69) — marzo de 1929 — *Notas*
 
 ## Manuel García Morente
 
@@ -1196,6 +1772,10 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## Marcelle Auclair
 
+* [Nº 22](indice.md#ejemplar-22) — abril de 1925 — *Notas*
+* [Nº 34](indice.md#ejemplar-34) — abril de 1926 — *Notas*
+* [Nº 54](indice.md#ejemplar-54) — diciembre de 1927 — *Notas*
+* [Nº 58](indice.md#ejemplar-58) — abril de 1928 — *Notas*
 * [Nº 64](indice.md#ejemplar-64) — octubre de 1928 — *El mundo de Marie Laurencin*, pp. 68–90
 
 ## Margarita de Pedroso
@@ -1205,8 +1785,15 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## María Zambrano
 
+* [Nº 115](indice.md#ejemplar-115) — enero de 1933 — *Notas*
+* [Nº 117](indice.md#ejemplar-117) — marzo de 1933 — *Notas*
+* [Nº 127](indice.md#ejemplar-127) — enero de 1934 — *Notas*
+* [Nº 128](indice.md#ejemplar-128) — febrero de 1934 — *Notas*
+* [Nº 131](indice.md#ejemplar-131) — mayo de 1934 — *Notas*
 * [Nº 132](indice.md#ejemplar-132) — junio de 1934 — *Por qué se escribe*, pp. 318–328
+* [Nº 137](indice.md#ejemplar-137) — noviembre de 1934 — *Notas*
 * [Nº 138](indice.md#ejemplar-138) — diciembre de 1934 — *Hacia un saber sobre el alma*, pp. 261–276
+* [Nº 146](indice.md#ejemplar-146) — agosto de 1935 — *Notas*
 
 ## Marjan Paszkiewicz
 
@@ -1226,7 +1813,12 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## Mauricio Bacarisse
 
+* [Nº 21](indice.md#ejemplar-21) — marzo de 1925 — *Notas*
+* [Nº 23](indice.md#ejemplar-23) — mayo de 1925 — *Notas*
+* [Nº 24](indice.md#ejemplar-24) — junio de 1925 — *Notas*
+* [Nº 29](indice.md#ejemplar-29) — noviembre de 1925 — *Notas*
 * [Nº 33](indice.md#ejemplar-33) — marzo de 1926 — *Dafnis y Cloe*, pp. 362–368
+* [Nº 42](indice.md#ejemplar-42) — diciembre de 1926 — *Notas*
 
 ## Max Aub
 
@@ -1263,8 +1855,29 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## Melchor Fernández Almagro
 
+* [Nº 14](indice.md#ejemplar-14) — agosto de 1924 — *Notas*
+* [Nº 16](indice.md#ejemplar-16) — octubre de 1924 — *Notas*
+* [Nº 19](indice.md#ejemplar-19) — enero de 1925 — *Notas*
+* [Nº 22](indice.md#ejemplar-22) — abril de 1925 — *Notas*
+* [Nº 23](indice.md#ejemplar-23) — mayo de 1925 — *Notas*
+* [Nº 25](indice.md#ejemplar-25) — julio de 1925 — *Notas*
 * [Nº 27](indice.md#ejemplar-27) — septiembre de 1925 — *Del brazo de mí mismo*, pp. 317–323
+* [Nº 27](indice.md#ejemplar-27) — septiembre de 1925 — *Notas*
+* [Nº 31](indice.md#ejemplar-31) — enero de 1926 — *Notas*
+* [Nº 34](indice.md#ejemplar-34) — abril de 1926 — *Notas*
+* [Nº 35](indice.md#ejemplar-35) — mayo de 1926 — *Notas*
+* [Nº 39](indice.md#ejemplar-39) — septiembre de 1926 — *Notas*
+* [Nº 41](indice.md#ejemplar-41) — noviembre de 1926 — *Notas*
+* [Nº 45](indice.md#ejemplar-45) — marzo de 1927 — *Notas*
+* [Nº 48](indice.md#ejemplar-48) — junio de 1927 — *Notas*
+* [Nº 49](indice.md#ejemplar-49) — julio de 1927 — *Notas*
+* [Nº 53](indice.md#ejemplar-53) — noviembre de 1927 — *Notas*
+* [Nº 54](indice.md#ejemplar-54) — diciembre de 1927 — *Notas*
 * [Nº 58](indice.md#ejemplar-58) — abril de 1928 — *Un fantasma del Dorado*, pp. 45–56
+* [Nº 60](indice.md#ejemplar-60) — junio de 1928 — *Notas*
+* [Nº 63](indice.md#ejemplar-63) — septiembre de 1928 — *Notas*
+* [Nº 68](indice.md#ejemplar-68) — febrero de 1929 — *Notas*
+* [Nº 92](indice.md#ejemplar-92) — febrero de 1931 — *Notas*
 
 ## Michael Alpatoff
 
@@ -1312,9 +1925,19 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 60](indice.md#ejemplar-60) — junio de 1928 — *Problemas de la colonización fenicia de España y del Mediterraneo occidental*, pp. 314–348
 * [Nº 72](indice.md#ejemplar-72) — junio de 1929 — *Problemas de la colonización griega de España*, pp. 312–339
 
+## P. J Lucia
+
+* [Nº 24](indice.md#ejemplar-24) — junio de 1925 — *Notas*
+
 ## P. J. Lucía
 
 * [Nº 118](indice.md#ejemplar-118) — abril de 1933 — *Bosquejo de una filosofía de la técnica*, pp. 38–57
+
+## P. W.
+
+* [Nº 115](indice.md#ejemplar-115) — enero de 1933 — *Notas*
+* [Nº 116](indice.md#ejemplar-116) — febrero de 1933 — *Notas*
+* [Nº 117](indice.md#ejemplar-117) — marzo de 1933 — *Notas*
 
 ## Pablo Neruda
 
@@ -1334,6 +1957,10 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 96](indice.md#ejemplar-96) — junio de 1931 — *Situación actual de la Rusia soviética*, pp. 256–279
 
+## Paul Ludwig Ladnsberg
+
+* [Nº 131](indice.md#ejemplar-131) — mayo de 1934 — *Notas*
+
 ## Paul Ludwig Landsberg
 
 * [Nº 26](indice.md#ejemplar-26) — agosto de 1925 — *La Edad Media y nosotros*, pp. 211–245
@@ -1351,11 +1978,24 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 46](indice.md#ejemplar-46) — abril de 1927 — *Notas sobre la grandeza y la decadencia de Europa*, pp. 1–14
 * [Nº 72](indice.md#ejemplar-72) — junio de 1929 — *Le cimetiére marin / El cementerio marino*, pp. 340–353
 
+## Pedro Bosch Gimpera
+
+* [Nº 20](indice.md#ejemplar-20) — febrero de 1925 — *Notas*
+* [Nº 25](indice.md#ejemplar-25) — julio de 1925 — *Notas*
+* [Nº 32](indice.md#ejemplar-32) — febrero de 1926 — *Notas*
+* [Nº 40](indice.md#ejemplar-40) — octubre de 1926 — *Notas*
+* [Nº 41](indice.md#ejemplar-41) — noviembre de 1926 — *Notas*
+* [Nº 42](indice.md#ejemplar-42) — diciembre de 1926 — *Notas*
+
 ## Pedro Girard
 
 * [Nº 10](indice.md#ejemplar-10) — abril de 1924 — *Yuna, Felipe y el almirante*, pp. 60–85
 * [Nº 11](indice.md#ejemplar-11) — mayo de 1924 — *Yuna, Felipe y el almirante (Conclusión)*, pp. 152–177
 * [Nº 31](indice.md#ejemplar-31) — enero de 1926 — *Curiosa metamorfosis de John*, pp. 1–40
+
+## Pedro Perdomo
+
+* [Nº 14](indice.md#ejemplar-14) — agosto de 1924 — *Notas*
 
 ## Pedro R. Salinas
 
@@ -1367,7 +2007,9 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## Pedro Salinas
 
+* [Nº 8](indice.md#ejemplar-8) — febrero de 1924 — *Notas*
 * [Nº 11](indice.md#ejemplar-11) — mayo de 1924 — *Delirios del chopo y el ciprés*, pp. 145–151
+* [Nº 16](indice.md#ejemplar-16) — octubre de 1924 — *Notas*
 * [Nº 26](indice.md#ejemplar-26) — agosto de 1925 — *Entrada en Sevilla*, pp. 145–152
 * [Nº 29](indice.md#ejemplar-29) — noviembre de 1925 — *Poesías*, pp. 184–191
 * [Nº 34](indice.md#ejemplar-34) — abril de 1926 — *Aurora de verdad*, pp. 1–7
@@ -1395,7 +2037,9 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## Rafael Calleja
 
+* [Nº 48](indice.md#ejemplar-48) — junio de 1927 — *Notas*
 * [Nº 53](indice.md#ejemplar-53) — noviembre de 1927 — *Diez años despues*, pp. 229–250
+* [Nº 70](indice.md#ejemplar-70) — abril de 1929 — *Notas*
 
 ## Rafael Porlán
 
@@ -1405,6 +2049,24 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *De los "Cuadernos de Malte Laurids Brigge"*, pp. 102–113
 
+## Ramiro Ledesma Ramos
+
+* [Nº 71](indice.md#ejemplar-71) — mayo de 1929 — *Notas*
+* [Nº 72](indice.md#ejemplar-72) — junio de 1929 — *Notas*
+* [Nº 75](indice.md#ejemplar-75) — septiembre de 1929 — *Notas*
+* [Nº 82](indice.md#ejemplar-82) — abril de 1930 — *Notas*
+* [Nº 84](indice.md#ejemplar-84) — junio de 1930 — *Notas*
+* [Nº 85](indice.md#ejemplar-85) — julio de 1930 — *Notas*
+* [Nº 89](indice.md#ejemplar-89) — noviembre de 1930 — *Notas*
+* [Nº 90](indice.md#ejemplar-90) — diciembre de 1930 — *Notas*
+
+## Ramón Carande
+
+* [Nº 25](indice.md#ejemplar-25) — julio de 1925 — *Notas*
+* [Nº 32](indice.md#ejemplar-32) — febrero de 1926 — *Notas*
+* [Nº 36](indice.md#ejemplar-36) — junio de 1926 — *Notas*
+* [Nº 40](indice.md#ejemplar-40) — octubre de 1926 — *Notas*
+
 ## Ramón de Basterra
 
 * [Nº 42](indice.md#ejemplar-42) — diciembre de 1926 — *Nuevo fabulario*, pp. 318–323
@@ -1413,6 +2075,7 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 2](indice.md#ejemplar-2) — agosto de 1923 — *María Yarsilovna. (Falsa novela rusa)*, pp. 183–201
 * [Nº 9](indice.md#ejemplar-9) — marzo de 1924 — *La Amazona airada*, pp. 360–373
+* [Nº 10](indice.md#ejemplar-10) — abril de 1924 — *Notas*
 * [Nº 15](indice.md#ejemplar-15) — septiembre de 1924 — *La capa de Don Dámaso*, pp. 331–350
 * [Nº 28](indice.md#ejemplar-28) — octubre de 1925 — *La casa triangular*, pp. 56–70
 * [Nº 34](indice.md#ejemplar-34) — abril de 1926 — *El dueño del átomo*, pp. 59–84
@@ -1420,6 +2083,7 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 46](indice.md#ejemplar-46) — abril de 1927 — *El gran griposo*, pp. 57–78
 * [Nº 47](indice.md#ejemplar-47) — mayo de 1927 — *El gran español Goya*, pp. 191–203
 * [Nº 51](indice.md#ejemplar-51) — septiembre de 1927 — *El defensor del cementerio*, pp. 317–338
+* [Nº 52](indice.md#ejemplar-52) — octubre de 1927 — *Notas*
 * [Nº 58](indice.md#ejemplar-58) — abril de 1928 — *Concepto de Goya*, pp. 20–44
 * [Nº 62](indice.md#ejemplar-62) — agosto de 1928 — *Suspensión del Destino*, pp. 129–143
 * [Nº 65](indice.md#ejemplar-65) — noviembre de 1928 — *Azorín*, pp. 202–226
@@ -1430,11 +2094,14 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 78](indice.md#ejemplar-78) — diciembre de 1929 — *Los medios seres. Comedia en tres actos (conclusión)*, pp. 348–394
 * [Nº 84](indice.md#ejemplar-84) — junio de 1930 — *Gravedad e importancia del humorismo*, pp. 348–391
 * [Nº 88](indice.md#ejemplar-88) — octubre de 1930 — *El hijo surrealista*, pp. 27–52
+* [Nº 89](indice.md#ejemplar-89) — noviembre de 1930 — *Notas*
 * [Nº 90](indice.md#ejemplar-90) — diciembre de 1930 — *Botellismo*, pp. 303–320
 * [Nº 95](indice.md#ejemplar-95) — mayo de 1931 — *Retrato de Juan Cocteau*, pp. 121–139
 * [Nº 105](indice.md#ejemplar-105) — marzo de 1932 — *Aventuras de un sinsombrerista*, pp. 282–307
 * [Nº 107](indice.md#ejemplar-107) — mayo de 1932 — *Ensayo sobre las mariposas*, pp. 153–169
+* [Nº 108](indice.md#ejemplar-108) — junio de 1932 — *Notas*
 * [Nº 109](indice.md#ejemplar-109) — julio de 1932 — *El cólera azul*, pp. 41–69
+* [Nº 111](indice.md#ejemplar-111) — septiembre de 1932 — *Notas*
 * [Nº 116](indice.md#ejemplar-116) — febrero de 1933 — *Ensayos heterogéneos*, pp. 174–208
 * [Nº 116](indice.md#ejemplar-116) — febrero de 1933 — *Ensayos heterogeneos*, pp. 174–208
 * [Nº 128](indice.md#ejemplar-128) — febrero de 1934 — *Peluquería Feliz*, pp. 121–148
@@ -1447,6 +2114,16 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Ramón Iglesia
 
 * [Nº 80](indice.md#ejemplar-80) — febrero de 1930 — *El hombre Colón*, pp. 156–192
+
+## Ramón María Tenreiro
+
+* [Nº 21](indice.md#ejemplar-21) — marzo de 1925 — *Notas*
+* [Nº 25](indice.md#ejemplar-25) — julio de 1925 — *Notas*
+* [Nº 26](indice.md#ejemplar-26) — agosto de 1925 — *Notas*
+* [Nº 33](indice.md#ejemplar-33) — marzo de 1926 — *Notas*
+* [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *Notas*
+* [Nº 48](indice.md#ejemplar-48) — junio de 1927 — *Notas*
+* [Nº 51](indice.md#ejemplar-51) — septiembre de 1927 — *Notas*
 
 ## Ramón Menéndez Pidal
 
@@ -1464,12 +2141,25 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 151](indice.md#ejemplar-151) — enero de 1936 — *El arte chino en Londres*, pp. 17–36
 * [Nº 155](indice.md#ejemplar-155) — mayo de 1936 — *Roberto Cunninghame Graham*, pp. 174–187
 
+## REDACCIÓN
+
+* [Nº 68](indice.md#ejemplar-68) — febrero de 1929 — *Notas*
+* [Nº 71](indice.md#ejemplar-71) — mayo de 1929 — *Notas*
+* [Nº 72](indice.md#ejemplar-72) — junio de 1929 — *Notas*
+* [Nº 89](indice.md#ejemplar-89) — noviembre de 1930 — *Notas*
+* [Nº 107](indice.md#ejemplar-107) — mayo de 1932 — *Notas*
+* [Nº 121](indice.md#ejemplar-121) — julio de 1933 — *Notas*
+* [Nº 149](indice.md#ejemplar-149) — noviembre de 1935 — *Notas*
+
 ## Ricardo Baeza
 
 * [Nº 6](indice.md#ejemplar-6) — diciembre de 1923 — *El caballero Casanova*, pp. 364–390
+* [Nº 7](indice.md#ejemplar-7) — enero de 1924 — *Notas*
 * [Nº 8](indice.md#ejemplar-8) — febrero de 1924 — *Casanova en España*, pp. 214–240
+* [Nº 8](indice.md#ejemplar-8) — febrero de 1924 — *Notas*
 * [Nº 10](indice.md#ejemplar-10) — abril de 1924 — *Casanova en España*, pp. 86–113
 * [Nº 12](indice.md#ejemplar-12) — junio de 1924 — *El Nuevo Teatro de la Rusia Soviatista*, pp. 364–380
+* [Nº 40](indice.md#ejemplar-40) — octubre de 1926 — *Notas*
 * [Nº 43](indice.md#ejemplar-43) — enero de 1927 — *Samuel Butler, "dilettante" consumado*, pp. 69–94
 * [Nº 70](indice.md#ejemplar-70) — abril de 1929 — *Nota sobre "El Emperador Jones", de Eugenio O'Neill*, pp. 74–75
 * [Nº 71](indice.md#ejemplar-71) — mayo de 1929 — *El Teatro de Eugenio O' Neill*, pp. 189–234
@@ -1480,6 +2170,12 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 * [Nº 12](indice.md#ejemplar-12) — junio de 1924 — *El Pedigree*, pp. 318–363
 * [Nº 13](indice.md#ejemplar-13) — julio de 1924 — *El Pedigree*, pp. 104–129
 * [Nº 14](indice.md#ejemplar-14) — agosto de 1924 — *El Pedigree*, pp. 228–247
+
+## Ricardo Gullón
+
+* [Nº 140](indice.md#ejemplar-140) — febrero de 1935 — *Notas*
+* [Nº 155](indice.md#ejemplar-155) — mayo de 1936 — *Notas*
+* [Nº 157](indice.md#ejemplar-157) — julio de 1936 — *Notas*
 
 ## Robert B.- Cunninghame Graham
 
@@ -1501,7 +2197,10 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 48](indice.md#ejemplar-48) — junio de 1927 — *Estación, ida y vuelta*, pp. 257–273
 * [Nº 55](indice.md#ejemplar-55) — enero de 1928 — *Chinina Migone*, pp. 79–89
+* [Nº 60](indice.md#ejemplar-60) — junio de 1928 — *Notas*
+* [Nº 66](indice.md#ejemplar-66) — diciembre de 1928 — *Notas*
 * [Nº 68](indice.md#ejemplar-68) — febrero de 1929 — *Juego de las dos esquinas*, pp. 210–234
+* [Nº 69](indice.md#ejemplar-69) — marzo de 1929 — *Notas*
 * [Nº 77](indice.md#ejemplar-77) — noviembre de 1929 — *Teresa (novela de amor)*, pp. 223–243
 * [Nº 92](indice.md#ejemplar-92) — febrero de 1931 — *Esquema de los problemas prácticos y actuales del amor*, pp. 129–180
 
@@ -1539,6 +2238,10 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 * [Nº 123](indice.md#ejemplar-123) — septiembre de 1933 — *Mahoma*, pp. 309–339
 
+## Valentín Andrés
+
+* [Nº 83](indice.md#ejemplar-83) — mayo de 1930 — *Notas*
+
 ## Valentín Andrés Álvarez
 
 * [Nº 22](indice.md#ejemplar-22) — abril de 1925 — *Sentimental - Dancing*, pp. 1–33
@@ -1549,6 +2252,7 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 ## Vicente Aleixandre
 
 * [Nº 38](indice.md#ejemplar-38) — agosto de 1926 — *Número*, pp. 168–173
+* [Nº 103](indice.md#ejemplar-103) — enero de 1932 — *Notas*
 * [Nº 104](indice.md#ejemplar-104) — febrero de 1932 — *Espadas como labios*, pp. 167–173
 * [Nº 118](indice.md#ejemplar-118) — abril de 1933 — *La destrucción o el amor*, pp. 58–64
 
@@ -1607,6 +2311,8 @@ Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las 
 
 ## Xavier Zubiri
 
+* [Nº 29](indice.md#ejemplar-29) — noviembre de 1925 — *Notas*
+* [Nº 42](indice.md#ejemplar-42) — diciembre de 1926 — *Notas*
 * [Nº 115](indice.md#ejemplar-115) — enero de 1933 — *Sobre el problema de la filosofía*, pp. 51–80
 * [Nº 118](indice.md#ejemplar-118) — abril de 1933 — *Sobre el problema de la filosofía (continuación)*, pp. 83–117
 * [Nº 149](indice.md#ejemplar-149) — noviembre de 1935 — *En torno al problema de Dios*, pp. 129–159

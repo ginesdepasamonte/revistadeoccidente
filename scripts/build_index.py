@@ -204,6 +204,12 @@ def sort_key(s: str) -> str:
     return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii").lower()
 
 
+def merge_key(name: str) -> str:
+    """Clave para unir el mismo autor entre fuentes (sin acentos, guiones ni mayúsculas)."""
+    s = sort_key(name).replace("-", " ")
+    return re.sub(r"\s+", " ", s).strip()
+
+
 def _case_word(w: str) -> str:
     return "-".join(p[:1].upper() + p[1:].lower() for p in w.split("-"))
 
@@ -864,7 +870,8 @@ def generate_indice_md(dataset: dict) -> str:
         "«Notas» se han recuperado del **archivo por autor de la FOM** cruzando por año y mes. "
         "Se listan **solo los autores** (sin título ni páginas de cada nota). El nombre se "
         "invierte de «Apellidos, Nombre» a «Nombre Apellidos» usando la coma como separador "
-        "(sin adivinar el apellido)."
+        "(sin adivinar el apellido). Estos autores también aparecen en el "
+        "[índice de autores](autores.md), con sus entradas marcadas como *Notas*."
     )
     L.append(
         "- **Fidelidad:** se preservan los títulos y nombres de autor tal como los "
@@ -921,35 +928,66 @@ def generate_autores_md(dataset: dict) -> str:
     L.append(_NAV)
     L.append("")
     L.append(
-        "Ordenado alfabéticamente por el **nombre tal como lo registra Dialnet** en las "
-        "páginas de año (forma «Nombre Apellidos»). Para no introducir errores, los nombres "
-        "**no se han invertido ni corregido por conjetura**; usa la búsqueda del navegador "
-        "(Ctrl/Cmd-F) para localizar a un autor por cualquier parte del nombre. Las "
-        "contribuciones sin autor identificado en Dialnet no aparecen aquí, pero sí en el "
-        "[índice por años](indice.md); los autores de la sección «Notas» tampoco se listan aquí "
-        "(véanse bajo cada «Notas» en el índice por años)."
+        "Incluye tanto los **artículos** (fuente: Dialnet) como los autores de la sección "
+        "**«Notas»** (fuente: archivo por autor de la FOM). Las entradas de notas se marcan "
+        "como *Notas* y no llevan título ni páginas. Los nombres se muestran tal como los "
+        "registran las fuentes; **no se corrigen por conjetura**. Usa la búsqueda del "
+        "navegador (Ctrl/Cmd-F) para localizar a un autor por cualquier parte del nombre."
     )
     L.append("")
-    authors_map: dict[str, dict] = {}
+
+    groups: dict[str, dict] = {}         # gid -> {name, items:[(num, iss, kind, c)]}
+    norm_to_gids: dict[str, set] = {}    # merge_key -> {gid}
+
+    def ensure_group(gid: str, display: str) -> dict:
+        g = groups.get(gid)
+        if g is None:
+            g = groups[gid] = {"name": display, "items": []}
+            norm_to_gids.setdefault(merge_key(display), set()).add(gid)
+        return g
+
+    # 1) Artículos de Dialnet, agrupados por autor_id
     for iss in issues:
         for c in iss["contributions"]:
             for a in c["authors"]:
-                key = a["autor_id"] or ("name:" + a["name"])
+                gid = a["autor_id"] or ("name:" + a["name"])
                 meta = authors_meta.get(a["autor_id"] or "", {})
                 display = meta.get("name_index") or a["name"]
-                entry = authors_map.setdefault(key, {"name": display, "items": []})
-                entry["items"].append((iss, c))
-    for key in sorted(authors_map, key=lambda k: sort_key(authors_map[k]["name"])):
-        entry = authors_map[key]
-        L.append(f"## {entry['name']}")
+                ensure_group(gid, display)["items"].append(
+                    (iss["issue_number"], iss, "art", c)
+                )
+
+    # 2) Autores de «Notas» (FOM): unir con el autor de Dialnet si el nombre coincide
+    for iss in issues:
+        for na in iss.get("note_authors") or []:
+            nk = merge_key(na["name"])
+            gids = norm_to_gids.get(nk)
+            if gids and len(gids) == 1:
+                gid = next(iter(gids))
+            else:
+                gid = "nota:" + nk
+                ensure_group(gid, na["name"])
+            groups[gid]["items"].append((iss["issue_number"], iss, "nota", None))
+
+    for gid in sorted(groups, key=lambda k: sort_key(groups[k]["name"])):
+        g = groups[gid]
+        L.append(f"## {g['name']}")
         L.append("")
-        for iss, c in sorted(entry["items"], key=lambda ic: ic[0]["issue_number"]):
-            pages = fmt_pages(c)
-            pg = f", {pages}" if pages else ""
-            L.append(
-                f"* [Nº {iss['issue_number']}](indice.md#ejemplar-{iss['issue_number']}) — "
-                f"{iss['month_name']} de {iss['year']} — *{c['title']}*{pg}"
-            )
+        seen = set()
+        for num, iss, kind, c in sorted(g["items"], key=lambda t: (t[0], t[2])):
+            if kind == "art":
+                pages = fmt_pages(c)
+                pg = f", {pages}" if pages else ""
+                line = (f"* [Nº {num}](indice.md#ejemplar-{num}) — "
+                        f"{iss['month_name']} de {iss['year']} — *{c['title']}*{pg}")
+            else:
+                key = (num, "nota")
+                if key in seen:
+                    continue
+                seen.add(key)
+                line = (f"* [Nº {num}](indice.md#ejemplar-{num}) — "
+                        f"{iss['month_name']} de {iss['year']} — *Notas*")
+            L.append(line)
         L.append("")
     L.append(_NAV)
     L.append("")
