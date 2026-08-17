@@ -1,0 +1,125 @@
+---
+interface Props {
+  payload: string;
+}
+
+const { payload } = Astro.props;
+---
+
+<dialog class="event-dialog" id="event-dialog" aria-labelledby="event-dialog-title">
+  <div class="event-dialog__panel">
+    <form method="dialog" class="event-dialog__close-form">
+      <button class="event-dialog__close" value="close" aria-label="Cerrar contexto histórico">
+        <span aria-hidden="true">×</span>
+      </button>
+    </form>
+    <article class="event-detail" id="event-detail" aria-live="polite">
+      <p>Cargando contexto…</p>
+    </article>
+  </div>
+</dialog>
+
+<script type="application/json" id="event-drawer-data" set:html={payload} is:inline></script>
+
+<script>
+  interface TimelineEvent {
+    id: string;
+    date_start: string;
+    date_end?: string;
+    date_label: string;
+    category: string;
+    title: string;
+    summary: string;
+    wikipedia_url: string;
+  }
+
+  const dialog = document.querySelector<HTMLDialogElement>("#event-dialog");
+  const detail = document.querySelector<HTMLElement>("#event-detail");
+  const dataNode = document.querySelector<HTMLScriptElement>("#event-drawer-data");
+  const events: TimelineEvent[] = dataNode ? JSON.parse(dataNode.textContent ?? "[]") : [];
+  const eventsById = new Map(events.map((event) => [event.id, event]));
+  let syncingLocation = false;
+
+  function node<K extends keyof HTMLElementTagNameMap>(
+    tag: K,
+    className?: string,
+    text?: string,
+  ): HTMLElementTagNameMap[K] {
+    const result = document.createElement(tag);
+    if (className) result.className = className;
+    if (text !== undefined) result.textContent = text;
+    return result;
+  }
+
+  function renderEvent(event: TimelineEvent): void {
+    if (!detail) return;
+
+    const header = node("header", "event-detail__header");
+    header.append(node("p", "eyebrow", `España · ${event.category}`));
+    const title = node("h2", "", event.title);
+    title.id = "event-dialog-title";
+    header.append(title);
+    header.append(node("p", "event-detail__date", event.date_label));
+
+    const context = node("section", "event-detail__context");
+    context.append(node("p", "event-detail__scope", "España"));
+    context.append(node("p", "event-detail__summary", event.summary));
+
+    const action = node("a", "wikipedia-link");
+    action.href = event.wikipedia_url;
+    action.target = "_blank";
+    action.rel = "noreferrer";
+    action.append(document.createTextNode("Leer más en Wikipedia"));
+    action.append(node("span", "", "↗"));
+    context.append(action);
+
+    detail.replaceChildren(header, context);
+  }
+
+  function showEvent(id: string): void {
+    const event = eventsById.get(id);
+    if (!event || !dialog) return;
+
+    renderEvent(event);
+    if (!dialog.open) dialog.showModal();
+    dialog.querySelector<HTMLButtonElement>(".event-dialog__close")?.focus();
+  }
+
+  function eventIdFromHash(): string | null {
+    const match = window.location.hash.match(/^#event-(.+)$/);
+    return match ? decodeURIComponent(match[1]) : null;
+  }
+
+  function syncFromLocation(): void {
+    const id = eventIdFromHash();
+    syncingLocation = true;
+    if (id !== null) showEvent(id);
+    else if (dialog?.open) dialog.close();
+    syncingLocation = false;
+  }
+
+  document.querySelectorAll<HTMLElement>("[data-event-trigger]").forEach((trigger) => {
+    trigger.addEventListener("click", (event) => {
+      event.preventDefault();
+      const id = trigger.dataset.eventTrigger;
+      if (!id || !eventsById.has(id)) return;
+
+      window.history.pushState(null, "", `#event-${id}`);
+      showEvent(id);
+    });
+  });
+
+  dialog?.addEventListener("click", (event) => {
+    if (event.target === dialog) dialog.close();
+  });
+
+  dialog?.addEventListener("close", () => {
+    if (!syncingLocation && eventIdFromHash() !== null) {
+      window.history.replaceState(null, "", `${window.location.pathname}${window.location.search}`);
+    }
+  });
+
+  window.addEventListener("popstate", syncFromLocation);
+  window.addEventListener("hashchange", syncFromLocation);
+  syncFromLocation();
+</script>

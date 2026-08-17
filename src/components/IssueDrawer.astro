@@ -1,0 +1,181 @@
+---
+interface Props {
+  payload: string;
+}
+
+const { payload } = Astro.props;
+---
+
+<dialog class="issue-dialog" id="issue-dialog" aria-labelledby="issue-dialog-title">
+  <div class="issue-dialog__panel">
+    <form method="dialog" class="issue-dialog__close-form">
+      <button class="issue-dialog__close" value="close" aria-label="Cerrar sumario">
+        <span aria-hidden="true">×</span>
+      </button>
+    </form>
+    <div class="issue-detail" id="issue-detail" aria-live="polite">
+      <p>Cargando sumario…</p>
+    </div>
+  </div>
+</dialog>
+
+<script type="application/json" id="issue-drawer-data" set:html={payload} is:inline></script>
+
+<script>
+  interface TimelineIssue {
+    number: number;
+    year: number;
+    month: string;
+    viewerUrl: string;
+    coverUrl: string;
+    contributions: Array<{
+      title: string;
+      authors: string[];
+      pageStart: number | null;
+      pageEnd: number | null;
+    }>;
+    noteAuthors: string[];
+  }
+
+  const dialog = document.querySelector<HTMLDialogElement>("#issue-dialog");
+  const detail = document.querySelector<HTMLElement>("#issue-detail");
+  const dataNode = document.querySelector<HTMLScriptElement>("#issue-drawer-data");
+  const issues: TimelineIssue[] = dataNode ? JSON.parse(dataNode.textContent ?? "[]") : [];
+  const issuesByNumber = new Map(issues.map((issue) => [issue.number, issue]));
+  let syncingLocation = false;
+
+  function node<K extends keyof HTMLElementTagNameMap>(
+    tag: K,
+    className?: string,
+    text?: string,
+  ): HTMLElementTagNameMap[K] {
+    const result = document.createElement(tag);
+    if (className) result.className = className;
+    if (text !== undefined) result.textContent = text;
+    return result;
+  }
+
+  function capitalise(value: string): string {
+    return value.charAt(0).toUpperCase() + value.slice(1);
+  }
+
+  function pageLabel(start: number | null, end: number | null): string {
+    if (start === null) return "";
+    return end !== null && end !== start ? `pp. ${start}–${end}` : `p. ${start}`;
+  }
+
+  function renderIssue(issue: TimelineIssue): void {
+    if (!detail) return;
+
+    const header = node("header", "issue-detail__header");
+    header.append(node("p", "eyebrow", `Número ${issue.number} · Primera época`));
+    const title = node("h2", "", `${capitalise(issue.month)} de ${issue.year}`);
+    title.id = "issue-dialog-title";
+    header.append(title);
+    header.append(
+      node(
+        "p",
+        "issue-detail__dek",
+        `${issue.contributions.length} contribuciones en este ejemplar.`,
+      ),
+    );
+
+    const cover = node("figure", "issue-detail__cover");
+    const coverFallback = node("span", "", `N.º ${issue.number}`);
+    const image = node("img");
+    image.src = issue.coverUrl;
+    image.alt = `Portada del número ${issue.number} de Revista de Occidente`;
+    image.width = 180;
+    image.height = 240;
+    image.addEventListener("error", () => image.remove());
+    cover.append(coverFallback, image);
+
+    const contents = node("section", "issue-detail__contents");
+    contents.append(node("h3", "section-label", "Sumario"));
+    const list = node("ol", "contribution-list");
+
+    for (const contribution of issue.contributions) {
+      const item = node("li", "contribution");
+      const copy = node("p");
+
+      if (contribution.authors.length > 0) {
+        copy.append(node("strong", "", contribution.authors.join(", ")));
+        copy.append(document.createTextNode(" — "));
+      }
+
+      copy.append(node("cite", "", contribution.title));
+      const pages = pageLabel(contribution.pageStart, contribution.pageEnd);
+      if (pages) copy.append(node("span", "contribution__pages", pages));
+      item.append(copy);
+      list.append(item);
+    }
+
+    contents.append(list);
+
+    if (issue.noteAuthors.length > 0) {
+      const notes = node("section", "issue-detail__notes");
+      notes.append(node("h3", "section-label", "Autores de «Notas»"));
+      notes.append(node("p", "", issue.noteAuthors.join(" · ")));
+      contents.append(notes);
+    }
+
+    const action = node("a", "facsimile-link");
+    action.href = issue.viewerUrl;
+    action.target = "_blank";
+    action.rel = "noreferrer";
+    action.append(document.createTextNode("Leer el ejemplar digitalizado"));
+    action.append(node("span", "", "↗"));
+    contents.append(action);
+
+    const body = node("div", "issue-detail__body");
+    body.append(cover, contents);
+    detail.replaceChildren(header, body);
+  }
+
+  function showIssue(number: number): void {
+    const issue = issuesByNumber.get(number);
+    if (!issue || !dialog) return;
+
+    renderIssue(issue);
+    if (!dialog.open) dialog.showModal();
+    dialog.querySelector<HTMLButtonElement>(".issue-dialog__close")?.focus();
+  }
+
+  function issueNumberFromHash(): number | null {
+    const match = window.location.hash.match(/^#issue-(\d+)$/);
+    return match ? Number(match[1]) : null;
+  }
+
+  function syncFromLocation(): void {
+    const number = issueNumberFromHash();
+    syncingLocation = true;
+    if (number !== null) showIssue(number);
+    else if (dialog?.open) dialog.close();
+    syncingLocation = false;
+  }
+
+  document.querySelectorAll<HTMLElement>("[data-issue-trigger]").forEach((trigger) => {
+    trigger.addEventListener("click", (event) => {
+      event.preventDefault();
+      const number = Number(trigger.dataset.issueTrigger);
+      if (!issuesByNumber.has(number)) return;
+
+      window.history.pushState(null, "", `#issue-${number}`);
+      showIssue(number);
+    });
+  });
+
+  dialog?.addEventListener("click", (event) => {
+    if (event.target === dialog) dialog.close();
+  });
+
+  dialog?.addEventListener("close", () => {
+    if (!syncingLocation && issueNumberFromHash() !== null) {
+      window.history.replaceState(null, "", `${window.location.pathname}${window.location.search}`);
+    }
+  });
+
+  window.addEventListener("popstate", syncFromLocation);
+  window.addEventListener("hashchange", syncFromLocation);
+  syncFromLocation();
+</script>

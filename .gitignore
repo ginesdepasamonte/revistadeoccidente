@@ -11,5 +11,13 @@ docs/
 __pycache__/
 *.pyc
 
+# Astro / Node
+node_modules/
+dist/
+.astro/
+
+# Visual test output (regenerable)
+artifacts/
+
 # macOS
 .DS_Store

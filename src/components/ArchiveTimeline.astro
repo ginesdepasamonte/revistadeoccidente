@@ -1,0 +1,209 @@
+---
+import archive from "../../data/indice.json";
+import EventDrawer from "./EventDrawer.astro";
+import IssueDrawer from "./IssueDrawer.astro";
+
+type Issue = (typeof archive.issues)[number];
+
+interface ArchiveEvent {
+  id: string;
+  date_start: string;
+  date_end?: string;
+  date_precision?: string;
+  date_label: string;
+  category: string;
+  title: string;
+  summary: string;
+  wikipedia_url: string;
+}
+
+interface Props {
+  issues: Issue[];
+  events: ArchiveEvent[];
+}
+
+type TimelineEntry =
+  | { type: "issue"; sortKey: string; issue: Issue }
+  | { type: "event"; sortKey: string; event: ArchiveEvent };
+
+const { issues, events } = Astro.props;
+const years = [...new Set(issues.map((issue) => issue.year))];
+const monthAbbreviations = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
+
+function authorPreview(issue: Issue): string {
+  const names = new Set<string>();
+
+  for (const contribution of issue.contributions) {
+    for (const author of contribution.authors) names.add(author.name);
+  }
+
+  const visible = [...names].slice(0, 4);
+  const remaining = names.size - visible.length;
+  return visible.join(", ") + (remaining > 0 ? ` y ${remaining} más` : "");
+}
+
+function entriesForYear(year: number): TimelineEntry[] {
+  const issueEntries: TimelineEntry[] = issues
+    .filter((issue) => issue.year === year)
+    .map((issue) => ({
+      type: "issue",
+      sortKey: `${issue.year}-${String(issue.month_num).padStart(2, "0")}-00`,
+      issue,
+    }));
+
+  const eventEntries: TimelineEntry[] = events
+    .filter((event) => Number(event.date_start.slice(0, 4)) === year)
+    .map((event) => ({ type: "event", sortKey: event.date_start, event }));
+
+  return [...issueEntries, ...eventEntries].sort((a, b) => a.sortKey.localeCompare(b.sortKey));
+}
+
+function eventDateParts(event: ArchiveEvent): { month: string; day?: string } {
+  const [year, month, day] = event.date_start.split("-");
+  if (event.date_precision === "year") return { month: year };
+  return {
+    month: monthAbbreviations[Number(month) - 1],
+    day: event.date_precision === "month" ? undefined : day,
+  };
+}
+
+const issueDrawerPayload = JSON.stringify(
+  issues.map((issue) => ({
+    number: issue.issue_number,
+    year: issue.year,
+    month: issue.month_name,
+    viewerUrl: issue.fom_viewer_url,
+    coverUrl: issue.cover_source_url,
+    contributions: issue.contributions.map((contribution) => ({
+      title: contribution.title,
+      authors: contribution.authors.map((author) => author.name),
+      pageStart: contribution.page_start,
+      pageEnd: contribution.page_end,
+    })),
+    noteAuthors: issue.note_authors.map((author) => author.name),
+  })),
+).replaceAll("<", "\\u003c");
+
+const eventDrawerPayload = JSON.stringify(events).replaceAll("<", "\\u003c");
+---
+
+<div class="timeline timeline--split">
+  {years.map((year, yearIndex) => {
+    const entries = entriesForYear(year);
+
+    return (
+      <section class="timeline-year" id={`year-${year}`} aria-labelledby={`heading-${year}`}>
+        <header class="timeline-year__heading">
+          <p>{year === 1923 ? "Fundación" : year === 1936 ? "Último año" : "Año"}</p>
+          <h2 id={`heading-${year}`}>{year}</h2>
+        </header>
+
+        <div class="chronology">
+          {yearIndex === 0 && (
+            <div class="chronology__lanes" aria-hidden="true">
+              <span>España</span>
+              <i></i>
+              <span>Revista</span>
+            </div>
+          )}
+
+          <ol class="chronology-list">
+            {entries.map((entry) => {
+              if (entry.type === "event") {
+                const event = entry.event;
+                const date = eventDateParts(event);
+
+                return (
+                  <li class="timeline-entry timeline-entry--event" id={`event-${event.id}`}>
+                    <div class="timeline-entry__date" aria-hidden="true">
+                      <span>{date.month}</span>
+                      {date.day && <b>{date.day}</b>}
+                    </div>
+
+                    <a
+                      class="event-card"
+                      href={`#event-${event.id}`}
+                      data-event-trigger={event.id}
+                      aria-label={`Abrir el contexto de ${event.title}`}
+                    >
+                      <p class="event-card__meta">
+                        España <span aria-hidden="true">·</span> <span>{event.category}</span>
+                      </p>
+                      <h3>{event.title}</h3>
+                      <p class="event-card__action">
+                        <span>{event.date_label}</span>
+                        <b>Leer contexto <span aria-hidden="true">←</span></b>
+                      </p>
+                    </a>
+
+                    <span class="timeline-entry__marker timeline-entry__marker--event" aria-hidden="true"></span>
+                    <span class="timeline-entry__empty" aria-hidden="true"></span>
+                  </li>
+                );
+              }
+
+              const issue = entry.issue;
+              return (
+                <li class="timeline-entry timeline-entry--issue" id={`issue-${issue.issue_number}`}>
+                  <div class="timeline-entry__date" aria-hidden="true">
+                    <span>{monthAbbreviations[issue.month_num - 1]}</span>
+                    <b>{String(issue.month_num).padStart(2, "0")}</b>
+                  </div>
+
+                  <span class="timeline-entry__empty" aria-hidden="true"></span>
+                  <span class="timeline-entry__marker timeline-entry__marker--issue" aria-hidden="true"></span>
+
+                  <a
+                    class="issue-card"
+                    href={`#issue-${issue.issue_number}`}
+                    data-issue-trigger={issue.issue_number}
+                    aria-label={`Abrir el número ${issue.issue_number}, ${issue.month_name} de ${issue.year}`}
+                  >
+                    <figure class="issue-cover">
+                      <span>N.º {issue.issue_number}</span>
+                      <img
+                        src={issue.cover_source_url}
+                        alt=""
+                        width="78"
+                        height="104"
+                        loading="lazy"
+                        decoding="async"
+                        data-cover
+                      />
+                    </figure>
+
+                    <div class="issue-card__body">
+                      <h3>
+                        <span class="issue-card__number-long">Número&nbsp;</span><abbr class="issue-card__number-short" title="Número">N.º&nbsp;</abbr>{issue.issue_number}<span class="issue-card__month-group">
+                          <span class="issue-card__separator" aria-hidden="true">—</span>
+                          <span class="issue-card__month">{issue.month_name}</span>
+                        </span>
+                      </h3>
+                      <p class="issue-card__authors">{authorPreview(issue)}</p>
+                      <p class="issue-card__action">
+                        <span>{issue.contributions.length} contribuciones</span>
+                        <b>Consultar sumario <span aria-hidden="true">→</span></b>
+                      </p>
+                    </div>
+                  </a>
+                </li>
+              );
+            })}
+          </ol>
+        </div>
+      </section>
+    );
+  })}
+</div>
+
+<EventDrawer payload={eventDrawerPayload} />
+<IssueDrawer payload={issueDrawerPayload} />
+
+<script>
+  document.querySelectorAll<HTMLImageElement>("img[data-cover]").forEach((image) => {
+    image.addEventListener("error", () => {
+      image.hidden = true;
+      image.closest(".issue-cover")?.classList.add("issue-cover--missing");
+    });
+  });
+</script>

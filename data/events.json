@@ -1,0 +1,511 @@
+{
+  "meta": {
+    "scope": "España",
+    "period_start": "1923-07-01",
+    "period_end": "1936-07-31",
+    "curated_through": "1936-07-31",
+    "events_total": 54,
+    "selection": "Selección editorial de hechos de especial relevancia para la historia de España durante la primera época de Revista de Occidente."
+  },
+  "events": [
+    {
+      "id": "golpe-primo-de-rivera",
+      "date_start": "1923-09-13",
+      "date_label": "13 de septiembre de 1923",
+      "category": "Política",
+      "title": "Golpe de Estado de Primo de Rivera",
+      "summary": "El capitán general Miguel Primo de Rivera encabezó un golpe de Estado respaldado por Alfonso XIII. La Constitución quedó suspendida y comenzó una dictadura que se prolongaría hasta 1930.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Golpe_de_Estado_de_Primo_de_Rivera"
+    },
+    {
+      "id": "protocolo-de-tanger",
+      "date_start": "1923-12-18",
+      "date_label": "18 de diciembre de 1923",
+      "category": "Relaciones internacionales",
+      "title": "Protocolo de Tánger",
+      "summary": "España, Francia y el Reino Unido firmaron el acuerdo que convirtió Tánger en una zona internacional administrada por varias potencias.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Protocolo_de_T%C3%A1nger"
+    },
+    {
+      "id": "destierro-de-unamuno",
+      "date_start": "1924-02-01",
+      "date_precision": "month",
+      "date_label": "Febrero de 1924",
+      "category": "Cultura y política",
+      "title": "Destierro de Miguel de Unamuno",
+      "summary": "La dictadura destituyó a Miguel de Unamuno de sus cargos académicos y lo desterró a Fuerteventura por sus críticas a Primo de Rivera y a Alfonso XIII.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Miguel_de_Unamuno"
+    },
+    {
+      "id": "union-patriotica",
+      "date_start": "1924-04-01",
+      "date_precision": "month",
+      "date_label": "Abril de 1924",
+      "category": "Política",
+      "title": "Creación de la Unión Patriótica",
+      "summary": "Primo de Rivera impulsó la Unión Patriótica como organización política del régimen, estructurada desde el poder para sustituir el sistema de partidos anterior.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Patri%C3%B3tica_(Espa%C3%B1a)"
+    },
+    {
+      "id": "radio-barcelona",
+      "date_start": "1924-11-14",
+      "date_label": "14 de noviembre de 1924",
+      "category": "Comunicación",
+      "title": "Radio Barcelona inicia sus emisiones",
+      "summary": "Radio Barcelona, identificada como EAJ-1, comenzó sus emisiones oficiales. Fue la primera emisora española que recibió una concesión legal para emitir.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Radio_Barcelona"
+    },
+    {
+      "id": "retirada-de-xauen",
+      "date_start": "1924-11-15",
+      "date_end": "1924-12-10",
+      "date_label": "15 de noviembre–10 de diciembre de 1924",
+      "category": "Guerra del Rif",
+      "title": "Retirada de Xauen",
+      "summary": "El ejército español evacuó Xauen bajo el hostigamiento de las fuerzas rifeñas. La operación se desarrolló en condiciones extremas y causó alrededor de dos mil bajas españolas.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Retirada_de_Chauen"
+    },
+    {
+      "id": "disolucion-mancomunidad-cataluna",
+      "date_start": "1925-03-21",
+      "date_label": "21 de marzo de 1925",
+      "category": "Política territorial",
+      "title": "Disolución de la Mancomunidad de Cataluña",
+      "summary": "El Estatuto Provincial aprobado por la dictadura suprimió la Mancomunidad de Cataluña, que desde 1914 había agrupado las cuatro diputaciones catalanas.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Mancomunidad_de_Catalu%C3%B1a"
+    },
+    {
+      "id": "complot-de-garraf",
+      "date_start": "1925-06-06",
+      "date_label": "6 de junio de 1925",
+      "category": "Política",
+      "title": "Complot de Garraf",
+      "summary": "Militantes independentistas catalanes prepararon un atentado contra Alfonso XIII durante una visita real a Cataluña. La conspiración fue descubierta antes de ejecutarse.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Complot_de_Garraf"
+    },
+    {
+      "id": "desembarco-de-alhucemas",
+      "date_start": "1925-09-08",
+      "date_label": "8 de septiembre de 1925",
+      "category": "Guerra del Rif",
+      "title": "Desembarco de Alhucemas",
+      "summary": "Fuerzas españolas, con apoyo francés, desembarcaron en la bahía de Alhucemas. La operación marcó el comienzo de la derrota definitiva de la República del Rif.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Desembarco_de_Alhucemas"
+    },
+    {
+      "id": "directorio-civil",
+      "date_start": "1925-12-03",
+      "date_label": "3 de diciembre de 1925",
+      "category": "Política",
+      "title": "Comienza el Directorio civil",
+      "summary": "Primo de Rivera sustituyó el Directorio militar por un gobierno con participación civil, consolidando la dictadura e iniciando una nueva etapa institucional del régimen.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Directorio_civil_de_Primo_de_Rivera"
+    },
+    {
+      "id": "vuelo-plus-ultra",
+      "date_start": "1926-01-22",
+      "date_end": "1926-02-10",
+      "date_label": "22 de enero–10 de febrero de 1926",
+      "category": "Aviación",
+      "title": "Vuelo transatlántico del Plus Ultra",
+      "summary": "El hidroavión Plus Ultra partió de Palos de la Frontera y llegó a Buenos Aires tras completar el primer vuelo entre España y Sudamérica.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Plus_Ultra_(hidroavi%C3%B3n)"
+    },
+    {
+      "id": "rendicion-abd-el-krim",
+      "date_start": "1926-05-26",
+      "date_label": "26 de mayo de 1926",
+      "category": "Guerra del Rif",
+      "title": "Rendición de Abd el-Krim",
+      "summary": "Tras la ofensiva conjunta de España y Francia, Abd el-Krim se entregó a las fuerzas francesas. Su rendición puso fin a la resistencia organizada de la República del Rif.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Abd_el-Krim"
+    },
+    {
+      "id": "sanjuanada",
+      "date_start": "1926-06-24",
+      "date_label": "24 de junio de 1926",
+      "category": "Política",
+      "title": "Fracasa la Sanjuanada",
+      "summary": "Militares, políticos monárquicos y opositores intentaron derrocar la dictadura de Primo de Rivera. La conspiración fue descubierta y el golpe quedó abortado.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Espa%C3%B1a_de_1926"
+    },
+    {
+      "id": "prats-de-mollo",
+      "date_start": "1926-11-04",
+      "date_label": "4 de noviembre de 1926",
+      "category": "Política territorial",
+      "title": "Complot de Prats de Molló",
+      "summary": "La policía francesa frustró el intento dirigido por Francesc Macià de entrar armadamente en Cataluña desde Francia y proclamar su independencia.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Complot_de_Prats_de_Moll%C3%B3"
+    },
+    {
+      "id": "fin-guerra-rif",
+      "date_start": "1927-07-08",
+      "date_label": "8 de julio de 1927",
+      "category": "Guerra del Rif",
+      "title": "Termina la guerra del Rif",
+      "summary": "Tras la rendición de los últimos focos de resistencia rifeña, las autoridades españolas dieron por terminada una guerra colonial que había marcado la vida política del país desde 1921.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Guerra_del_Rif"
+    },
+    {
+      "id": "fundacion-fai",
+      "date_start": "1927-07-25",
+      "date_end": "1927-07-26",
+      "date_label": "25–26 de julio de 1927",
+      "category": "Movimiento obrero",
+      "title": "Fundación de la FAI",
+      "summary": "Grupos anarquistas españoles y portugueses fundaron en Valencia la Federación Anarquista Ibérica, que ejercería una influencia decisiva dentro del movimiento libertario peninsular.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Federaci%C3%B3n_Anarquista_Ib%C3%A9rica"
+    },
+    {
+      "id": "asamblea-nacional-consultiva",
+      "date_start": "1927-10-10",
+      "date_label": "10 de octubre de 1927",
+      "category": "Política",
+      "title": "Se reúne la Asamblea Nacional Consultiva",
+      "summary": "La dictadura inauguró una cámara corporativa de miembros designados. No era un parlamento legislativo, sino un órgano asesor encargado de preparar un proyecto institucional para el régimen.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Asamblea_Nacional_Consultiva"
+    },
+    {
+      "id": "homenaje-generacion-27",
+      "date_start": "1927-12-16",
+      "date_end": "1927-12-17",
+      "date_label": "16–17 de diciembre de 1927",
+      "category": "Cultura",
+      "title": "Homenaje a Góngora de la Generación del 27",
+      "summary": "Un grupo de poetas se reunió en Sevilla para homenajear a Luis de Góngora en el tercer centenario de su muerte. El encuentro quedó asociado al nombre de la Generación del 27.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Generaci%C3%B3n_del_27"
+    },
+    {
+      "id": "romancero-gitano",
+      "date_start": "1928-01-01",
+      "date_precision": "year",
+      "date_label": "1928",
+      "category": "Literatura",
+      "title": "Publicación del Romancero gitano",
+      "summary": "Federico García Lorca publicó el Romancero gitano en las ediciones de Revista de Occidente. El poemario se convirtió en una de las obras fundamentales de la poesía española del siglo XX.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Romancero_gitano"
+    },
+    {
+      "id": "regreso-sociedad-naciones",
+      "date_start": "1928-03-22",
+      "date_label": "22 de marzo de 1928",
+      "category": "Relaciones internacionales",
+      "title": "España regresa a la Sociedad de Naciones",
+      "summary": "España se reincorporó a la Sociedad de Naciones después de haberse retirado en 1926 al no obtener un puesto permanente en su Consejo.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Sociedad_de_las_Naciones"
+    },
+    {
+      "id": "estacion-canfranc",
+      "date_start": "1928-07-18",
+      "date_label": "18 de julio de 1928",
+      "category": "Infraestructuras",
+      "title": "Inauguración de la estación de Canfranc",
+      "summary": "La Estación Internacional de Canfranc abrió la conexión ferroviaria transpirenaica entre España y Francia, convertida en símbolo de modernización y cooperación internacional.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Estaci%C3%B3n_Internacional_de_Canfranc"
+    },
+    {
+      "id": "fundacion-opus-dei",
+      "date_start": "1928-10-02",
+      "date_label": "2 de octubre de 1928",
+      "category": "Religión",
+      "title": "Fundación del Opus Dei",
+      "summary": "El sacerdote Josemaría Escrivá fundó en Madrid el Opus Dei, institución católica que alcanzaría una notable influencia religiosa y social dentro y fuera de España.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Opus_Dei"
+    },
+    {
+      "id": "golpe-sanchez-guerra",
+      "date_start": "1929-01-29",
+      "date_label": "29 de enero de 1929",
+      "category": "Política",
+      "title": "Fracasa el golpe de Sánchez Guerra",
+      "summary": "José Sánchez Guerra encabezó un intento militar y civil de derribar la dictadura de Primo de Rivera. La sublevación fracasó, pero reveló el creciente aislamiento del régimen.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Espa%C3%B1a_de_1929"
+    },
+    {
+      "id": "huelga-universitaria-1929",
+      "date_start": "1929-03-07",
+      "date_label": "7 de marzo de 1929",
+      "category": "Educación y política",
+      "title": "Huelga universitaria contra la dictadura",
+      "summary": "La Federación Universitaria Escolar impulsó una huelga que se extendió por las universidades y convirtió al movimiento estudiantil en uno de los principales focos de oposición a Primo de Rivera.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Federaci%C3%B3n_Universitaria_Escolar"
+    },
+    {
+      "id": "exposicion-iberoamericana-sevilla",
+      "date_start": "1929-05-09",
+      "date_end": "1930-06-21",
+      "date_label": "9 de mayo de 1929–21 de junio de 1930",
+      "category": "Cultura y urbanismo",
+      "title": "Exposición Iberoamericana de Sevilla",
+      "summary": "Sevilla inauguró una exposición dedicada a las relaciones entre España, Hispanoamérica, Portugal, Brasil y Estados Unidos que transformó amplias zonas de la ciudad.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Exposici%C3%B3n_Iberoamericana_de_Sevilla_(1929)"
+    },
+    {
+      "id": "exposicion-internacional-barcelona",
+      "date_start": "1929-05-20",
+      "date_end": "1930-01-15",
+      "date_label": "20 de mayo de 1929–15 de enero de 1930",
+      "category": "Cultura y urbanismo",
+      "title": "Exposición Internacional de Barcelona",
+      "summary": "La exposición de Montjuïc presentó avances industriales, artísticos y tecnológicos, y dejó una profunda transformación urbana alrededor de la plaza de España.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Exposici%C3%B3n_Internacional_de_Barcelona_(1929)"
+    },
+    {
+      "id": "dimision-primo-de-rivera",
+      "date_start": "1930-01-28",
+      "date_label": "28 de enero de 1930",
+      "category": "Política",
+      "title": "Dimisión de Primo de Rivera",
+      "summary": "Miguel Primo de Rivera presentó su dimisión tras perder el respaldo del rey y de sectores del Ejército. Alfonso XIII encargó al general Dámaso Berenguer la transición política.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Dictadura_de_Primo_de_Rivera"
+    },
+    {
+      "id": "pacto-san-sebastian",
+      "date_start": "1930-08-17",
+      "date_label": "17 de agosto de 1930",
+      "category": "Política",
+      "title": "Pacto de San Sebastián",
+      "summary": "Representantes de distintas fuerzas republicanas acordaron coordinar el final de la monarquía y crearon un comité revolucionario que sería el núcleo del futuro Gobierno provisional.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Pacto_de_San_Sebasti%C3%A1n"
+    },
+    {
+      "id": "el-error-berenguer",
+      "date_start": "1930-11-15",
+      "date_label": "15 de noviembre de 1930",
+      "category": "Cultura y política",
+      "title": "Ortega publica «El error Berenguer»",
+      "summary": "José Ortega y Gasset publicó en El Sol una crítica frontal al intento de restaurar la normalidad constitucional sin afrontar la dictadura anterior, y concluyó reclamando el final de la monarquía.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Dictablanda_de_D%C3%A1maso_Berenguer"
+    },
+    {
+      "id": "sublevacion-jaca",
+      "date_start": "1930-12-12",
+      "date_label": "12 de diciembre de 1930",
+      "category": "Política",
+      "title": "Sublevación de Jaca",
+      "summary": "Los capitanes Fermín Galán y Ángel García Hernández proclamaron la república en Jaca. La rebelión fue derrotada y su ejecución los convirtió en símbolos del republicanismo.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Sublevaci%C3%B3n_de_Jaca"
+    },
+    {
+      "id": "elecciones-municipales-1931",
+      "date_start": "1931-04-12",
+      "date_label": "12 de abril de 1931",
+      "category": "Política",
+      "title": "Elecciones municipales de 1931",
+      "summary": "Las candidaturas republicanas vencieron en la mayoría de las capitales de provincia. El resultado fue interpretado como un rechazo a la monarquía y precipitó su caída.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Elecciones_municipales_de_Espa%C3%B1a_de_1931"
+    },
+    {
+      "id": "proclamacion-segunda-republica",
+      "date_start": "1931-04-14",
+      "date_label": "14 de abril de 1931",
+      "category": "Política",
+      "title": "Proclamación de la Segunda República",
+      "summary": "La República fue proclamada en numerosas ciudades españolas y Alfonso XIII abandonó el país. Un Gobierno provisional asumió el poder y convocó elecciones constituyentes.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Proclamaci%C3%B3n_de_la_Segunda_Rep%C3%BAblica_espa%C3%B1ola"
+    },
+    {
+      "id": "sufragio-femenino",
+      "date_start": "1931-10-01",
+      "date_label": "1 de octubre de 1931",
+      "category": "Derechos civiles",
+      "title": "Las Cortes aprueban el sufragio femenino",
+      "summary": "Las Cortes constituyentes reconocieron el derecho de las mujeres a votar en igualdad con los hombres, defendido de forma destacada por la diputada Clara Campoamor.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Sufragio_femenino_en_Espa%C3%B1a"
+    },
+    {
+      "id": "constitucion-1931",
+      "date_start": "1931-12-09",
+      "date_label": "9 de diciembre de 1931",
+      "category": "Política",
+      "title": "Aprobación de la Constitución de 1931",
+      "summary": "La nueva Constitución definió España como una república democrática, laica y descentralizable, y amplió los derechos políticos, sociales y civiles.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Constituci%C3%B3n_espa%C3%B1ola_de_1931"
+    },
+    {
+      "id": "ley-divorcio-1932",
+      "date_start": "1932-03-02",
+      "date_label": "2 de marzo de 1932",
+      "category": "Derechos civiles",
+      "title": "Aprobación de la Ley del Divorcio",
+      "summary": "La República reguló por primera vez el divorcio en todo el Estado, desarrollando el principio constitucional de disolución legal del matrimonio.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ley_espa%C3%B1ola_de_Divorcio_de_1932"
+    },
+    {
+      "id": "sanjurjada",
+      "date_start": "1932-08-10",
+      "date_label": "10 de agosto de 1932",
+      "category": "Política",
+      "title": "Fracasa la Sanjurjada",
+      "summary": "El general José Sanjurjo encabezó un golpe contra la Segunda República. La sublevación triunfó inicialmente en Sevilla, pero fue sofocada en pocas horas.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/La_Sanjurjada"
+    },
+    {
+      "id": "estatuto-cataluna-1932",
+      "date_start": "1932-09-09",
+      "date_label": "9 de septiembre de 1932",
+      "category": "Política territorial",
+      "title": "Aprobación del Estatuto de Cataluña",
+      "summary": "Las Cortes aprobaron el Estatuto de Autonomía de Cataluña, que restableció la Generalitat y otorgó competencias propias dentro de la República.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Estatuto_de_Autonom%C3%ADa_de_Catalu%C3%B1a_de_1932"
+    },
+    {
+      "id": "reforma-agraria-1932",
+      "date_start": "1932-09-09",
+      "date_label": "9 de septiembre de 1932",
+      "category": "Reforma social",
+      "title": "Aprobación de la Reforma Agraria",
+      "summary": "La ley buscó redistribuir tierras y asentar campesinos en fincas expropiables, especialmente en las regiones de grandes latifundios, aunque su aplicación fue lenta y conflictiva.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ley_de_Reforma_Agraria_de_Espa%C3%B1a_de_1932"
+    },
+    {
+      "id": "casas-viejas",
+      "date_start": "1933-01-11",
+      "date_end": "1933-01-12",
+      "date_label": "11–12 de enero de 1933",
+      "category": "Conflicto social",
+      "title": "Sucesos de Casas Viejas",
+      "summary": "Una insurrección anarquista en Casas Viejas fue reprimida con extrema violencia por las fuerzas de seguridad. La matanza provocó una grave crisis para el Gobierno de Manuel Azaña.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Sucesos_de_Casas_Viejas"
+    },
+    {
+      "id": "fundacion-ceda",
+      "date_start": "1933-03-04",
+      "date_label": "4 de marzo de 1933",
+      "category": "Política",
+      "title": "Fundación de la CEDA",
+      "summary": "Diversas organizaciones católicas y conservadoras se agruparon en la Confederación Española de Derechas Autónomas bajo el liderazgo de José María Gil-Robles.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Confederaci%C3%B3n_Espa%C3%B1ola_de_Derechas_Aut%C3%B3nomas"
+    },
+    {
+      "id": "fundacion-falange",
+      "date_start": "1933-10-29",
+      "date_label": "29 de octubre de 1933",
+      "category": "Política",
+      "title": "Acto fundacional de Falange Española",
+      "summary": "José Antonio Primo de Rivera presentó públicamente Falange Española en el Teatro de la Comedia de Madrid, articulando un movimiento de ideología fascista y nacional-sindicalista.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Falange_Espa%C3%B1ola"
+    },
+    {
+      "id": "elecciones-1933",
+      "date_start": "1933-11-19",
+      "date_label": "19 de noviembre de 1933",
+      "category": "Política",
+      "title": "Elecciones generales de 1933",
+      "summary": "Las mujeres participaron por primera vez en unas elecciones generales españolas. El resultado dio la mayoría parlamentaria a las fuerzas de centro y derecha.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_1933"
+    },
+    {
+      "id": "falange-jons",
+      "date_start": "1934-02-15",
+      "date_label": "15 de febrero de 1934",
+      "category": "Política",
+      "title": "Fusión de Falange y las JONS",
+      "summary": "Falange Española y las Juntas de Ofensiva Nacional-Sindicalista se fusionaron en una sola organización, Falange Española de las JONS.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Falange_Espa%C3%B1ola_de_las_JONS"
+    },
+    {
+      "id": "ocupacion-ifni",
+      "date_start": "1934-04-06",
+      "date_label": "6 de abril de 1934",
+      "category": "Política colonial",
+      "title": "Ocupación española de Ifni",
+      "summary": "Una expedición dirigida por el coronel Osvaldo Capaz ocupó Sidi Ifni y estableció la administración efectiva del territorio asignado a España en el sur de Marruecos.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ifni"
+    },
+    {
+      "id": "revolucion-asturias",
+      "date_start": "1934-10-05",
+      "date_end": "1934-10-19",
+      "date_label": "5–19 de octubre de 1934",
+      "category": "Conflicto social",
+      "title": "Revolución de Asturias",
+      "summary": "Una insurrección obrera tomó el control de amplias zonas de Asturias tras la entrada de la CEDA en el Gobierno. El Ejército sofocó la revuelta después de dos semanas de combates.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_Asturias_de_1934"
+    },
+    {
+      "id": "estado-catalan-1934",
+      "date_start": "1934-10-06",
+      "date_label": "6 de octubre de 1934",
+      "category": "Política territorial",
+      "title": "Proclamación del Estado Catalán",
+      "summary": "Lluís Companys proclamó el Estado Catalán dentro de una hipotética república federal. El Ejército puso fin al movimiento y el Gobierno suspendió la autonomía catalana.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Proclamaci%C3%B3n_del_Estado_Catal%C3%A1n_de_1934"
+    },
+    {
+      "id": "franco-jefe-estado-mayor",
+      "date_start": "1935-05-17",
+      "date_label": "17 de mayo de 1935",
+      "category": "Política militar",
+      "title": "Franco, jefe del Estado Mayor Central",
+      "summary": "El ministro de la Guerra José María Gil-Robles nombró a Francisco Franco jefe del Estado Mayor Central, uno de los puestos principales del Ejército español.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Francisco_Franco"
+    },
+    {
+      "id": "contrarreforma-agraria",
+      "date_start": "1935-08-01",
+      "date_label": "1 de agosto de 1935",
+      "category": "Reforma social",
+      "title": "Ley de Contrarreforma Agraria",
+      "summary": "La nueva legislación frenó la reforma agraria de 1932, limitó las expropiaciones y revisó los asentamientos campesinos realizados durante el primer bienio republicano.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ley_de_Reforma_Agraria_de_Espa%C3%B1a_de_1932"
+    },
+    {
+      "id": "fundacion-poum",
+      "date_start": "1935-09-29",
+      "date_label": "29 de septiembre de 1935",
+      "category": "Movimiento obrero",
+      "title": "Fundación del POUM",
+      "summary": "El Bloque Obrero y Campesino y la Izquierda Comunista de España se fusionaron en Barcelona para crear el Partido Obrero de Unificación Marxista.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Partido_Obrero_de_Unificaci%C3%B3n_Marxista"
+    },
+    {
+      "id": "escandalo-estraperlo",
+      "date_start": "1935-10-01",
+      "date_precision": "month",
+      "date_label": "Octubre de 1935",
+      "category": "Política",
+      "title": "Escándalo del estraperlo",
+      "summary": "La revelación de sobornos vinculados a una ruleta fraudulenta implicó a dirigentes del Partido Republicano Radical y aceleró el derrumbe político de Alejandro Lerroux.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Estraperlo"
+    },
+    {
+      "id": "elecciones-1936",
+      "date_start": "1936-02-16",
+      "date_label": "16 de febrero de 1936",
+      "category": "Política",
+      "title": "Victoria electoral del Frente Popular",
+      "summary": "La coalición del Frente Popular ganó las elecciones generales y formó un nuevo Gobierno republicano. Fueron las últimas elecciones generales celebradas en España hasta 1977.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_1936"
+    },
+    {
+      "id": "azana-presidente",
+      "date_start": "1936-05-10",
+      "date_label": "10 de mayo de 1936",
+      "category": "Política",
+      "title": "Manuel Azaña, presidente de la República",
+      "summary": "Una asamblea de diputados y compromisarios eligió a Manuel Azaña presidente de la República tras la destitución parlamentaria de Niceto Alcalá-Zamora.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Manuel_Aza%C3%B1a"
+    },
+    {
+      "id": "asesinato-calvo-sotelo",
+      "date_start": "1936-07-13",
+      "date_label": "13 de julio de 1936",
+      "category": "Violencia política",
+      "title": "Asesinato de José Calvo Sotelo",
+      "summary": "Un grupo de guardias de asalto y militantes socialistas secuestró y asesinó al dirigente monárquico José Calvo Sotelo, agravando la crisis política previa al golpe militar.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Asesinato_de_Calvo_Sotelo"
+    },
+    {
+      "id": "golpe-julio-1936",
+      "date_start": "1936-07-17",
+      "date_end": "1936-07-18",
+      "date_label": "17–18 de julio de 1936",
+      "category": "Política y guerra",
+      "title": "Golpe de Estado de julio de 1936",
+      "summary": "Una parte del Ejército se sublevó contra la República. El fracaso del golpe para controlar todo el país dividió el territorio y dio comienzo a la Guerra Civil.",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Espa%C3%B1a_de_julio_de_1936"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+---
+interface Props {
+  years: number[];
+}
+
+const { years } = Astro.props;
+const firstYear = years.at(0);
+const lastYear = years.at(-1);
+
+if (firstYear === undefined || lastYear === undefined) {
+  throw new Error("YearNavigator requires at least one year.");
+}
+---
+
+<nav class="year-nav" aria-label="Navegar por año" data-year-navigator style="--year-progress: 0%">
+  <div class="year-nav__inner">
+    <span class="year-nav__label">Años</span>
+
+    <div class="year-nav__desktop">
+      <div class="year-nav__years">
+        {years.map((year, index) => (
+          <a href={`#year-${year}`} data-year-link={year} aria-current={index === 0 ? "location" : undefined}>
+            {year}
+          </a>
+        ))}
+      </div>
+      <span class="year-nav__progress" aria-hidden="true"><i></i></span>
+    </div>
+
+    <div class="year-nav__mobile">
+      <div class="year-nav__values" aria-hidden="true">
+        <span>{firstYear}</span>
+        <output for="year-scrubber" data-year-output>{firstYear}</output>
+        <span>{lastYear}</span>
+      </div>
+      <input
+        id="year-scrubber"
+        type="range"
+        min={firstYear}
+        max={lastYear}
+        value={firstYear}
+        step="1"
+        aria-label="Año de la cronología"
+        data-year-scrubber
+      />
+    </div>
+  </div>
+</nav>
+
+<script>
+  const navigator = document.querySelector<HTMLElement>("[data-year-navigator]");
+
+  if (navigator) {
+    const links = [...navigator.querySelectorAll<HTMLAnchorElement>("[data-year-link]")];
+    const scrubber = navigator.querySelector<HTMLInputElement>("[data-year-scrubber]");
+    const output = navigator.querySelector<HTMLOutputElement>("[data-year-output]");
+    const years = links.map((link) => Number(link.dataset.yearLink));
+    const sections = years
+      .map((year) => document.querySelector<HTMLElement>(`#year-${year}`))
+      .filter((section): section is HTMLElement => section !== null);
+
+    function update(year: number): void {
+      const index = years.indexOf(year);
+      if (index < 0) return;
+
+      links.forEach((link) => {
+        if (Number(link.dataset.yearLink) === year) link.setAttribute("aria-current", "location");
+        else link.removeAttribute("aria-current");
+      });
+
+      if (scrubber) scrubber.value = String(year);
+      if (output) output.value = String(year);
+      const progress = years.length > 1 ? (index / (years.length - 1)) * 100 : 0;
+      navigator?.style.setProperty("--year-progress", `${progress}%`);
+    }
+
+    const intersecting = new Map<HTMLElement, IntersectionObserverEntry>();
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          const section = entry.target as HTMLElement;
+          if (entry.isIntersecting) intersecting.set(section, entry);
+          else intersecting.delete(section);
+        }
+
+        const current = [...intersecting.values()].sort(
+          (a, b) => Math.abs(a.boundingClientRect.top) - Math.abs(b.boundingClientRect.top),
+        )[0];
+        if (current) update(Number((current.target as HTMLElement).id.replace("year-", "")));
+      },
+      { rootMargin: "-60px 0px -70% 0px", threshold: 0 },
+    );
+
+    sections.forEach((section) => observer.observe(section));
+
+    scrubber?.addEventListener("input", () => update(Number(scrubber.value)));
+    scrubber?.addEventListener("change", () => {
+      const year = Number(scrubber.value);
+      const section = document.querySelector<HTMLElement>(`#year-${year}`);
+      if (!section) return;
+
+      window.history.pushState(null, "", `#year-${year}`);
+      section.scrollIntoView({
+        behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth",
+        block: "start",
+      });
+    });
+  }
+</script>
