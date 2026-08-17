@@ -1,0 +1,115 @@
+---
+import DirectoryHeader from "../components/DirectoryHeader.astro";
+import IndexSearch from "../components/IndexSearch.astro";
+import SiteFooter from "../components/SiteFooter.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { authors, indexLetter, pageLabel } from "../lib/archive-index";
+import { baseUrl } from "../lib/site";
+const letters = [...new Set(authors.map((author) => indexLetter(author.name)))];
+const groups = letters.map((letter) => ({
+  letter,
+  authors: authors.filter((author) => indexLetter(author.name) === letter),
+}));
+
+function countLabel(value: number, singular: string, plural: string): string {
+  return `${value} ${value === 1 ? singular : plural}`;
+}
+---
+
+<BaseLayout
+  title="Índice de autores — Revista de Occidente"
+  description="Buscador e índice alfabético de autores de la primera época de Revista de Occidente, entre 1923 y 1936."
+  active="authors"
+  skipHref="#authors-index"
+  skipLabel="Ir al índice de autores"
+>
+  <DirectoryHeader
+    eyebrow="Archivo bibliográfico · Autores"
+    title="Índice de autores"
+    description="Autores de artículos y de la sección «Notas». Busque por cualquier parte del nombre para localizar sus colaboraciones y los números en los que aparecen."
+  />
+
+  <main class="directory-main directory-main--searchable" id="authors-index">
+    <IndexSearch
+      id="author-search"
+      targetId="author-groups"
+      label="Buscar autores"
+      placeholder="Por ejemplo: Ortega, Chacel, Einstein…"
+      total={authors.length}
+      singular="autor"
+      plural="autores"
+    />
+
+    <nav class="directory-jump-nav directory-jump-nav--letters" aria-label="Ir a una letra">
+      <span>Inicial</span>
+      <div>
+        {letters.map((letter) => <a href={`#autores-${letter.toLowerCase()}`}>{letter}</a>)}
+      </div>
+    </nav>
+
+    <div class="letter-groups" id="author-groups">
+      {groups.map((group) => (
+        <section
+          class="letter-group"
+          id={`autores-${group.letter.toLowerCase()}`}
+          aria-labelledby={`autores-heading-${group.letter.toLowerCase()}`}
+          data-search-group
+        >
+          <header class="letter-group__heading">
+            <h2 id={`autores-heading-${group.letter.toLowerCase()}`}>{group.letter}</h2>
+            <p>{group.authors.length} nombres</p>
+          </header>
+
+          <div class="letter-group__items">
+            {group.authors.map((author) => (
+              <article
+                class="author-entry"
+                id={author.id}
+                data-search-item
+                data-search-text={author.name}
+              >
+                <header>
+                  <h3>{author.name}</h3>
+                  <p>
+                    {countLabel(author.issueCount, "número", "números")}
+                    {author.articleCount > 0 && ` · ${countLabel(author.articleCount, "artículo", "artículos")}`}
+                    {author.noteCount > 0 && ` · ${countLabel(author.noteCount, "aparición en «Notas»", "apariciones en «Notas»")}`}
+                  </p>
+                </header>
+
+                <ul class="author-works">
+                  {author.works.map((work) => {
+                    const pages = pageLabel(work.pageStart, work.pageEnd);
+                    return (
+                      <li>
+                        <a class="author-work__issue" href={`${baseUrl}indice/#numero-${work.issueNumber}`}>
+                          N.º {work.issueNumber}
+                        </a>
+                        <span class="author-work__date">{work.month} de {work.year}</span>
+                        <p>
+                          {work.kind === "note" ? <em>Notas</em> : <cite>{work.title}</cite>}
+                          {pages && <span>{pages}</span>}
+                        </p>
+                      </li>
+                    );
+                  })}
+                </ul>
+              </article>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+
+    <aside class="source-note">
+      <h2>Sobre los nombres</h2>
+      <p>
+        Se muestran tal como los registran las fuentes y no se corrigen por conjetura.
+        Los autores de «Notas» se unen a un autor de Dialnet únicamente cuando el nombre
+        coincide de forma inequívoca, ignorando mayúsculas, acentos y guiones.
+      </p>
+    </aside>
+  </main>
+
+  <SiteFooter />
+</BaseLayout>

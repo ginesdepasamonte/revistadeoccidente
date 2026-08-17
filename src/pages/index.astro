@@ -2,8 +2,9 @@
 import archive from "../../data/indice.json";
 import eventArchive from "../../data/events.json";
 import ArchiveTimeline from "../components/ArchiveTimeline.astro";
+import SiteFooter from "../components/SiteFooter.astro";
 import YearNavigator from "../components/YearNavigator.astro";
-import "../styles/global.css";
+import BaseLayout from "../layouts/BaseLayout.astro";
 
 const issues = [...archive.issues].sort((a, b) => a.issue_number - b.issue_number);
 const events = [...eventArchive.events].sort((a, b) => a.date_start.localeCompare(b.date_start));
@@ -48,82 +49,56 @@ for (const event of events) {
 const years = [...new Set(issues.map((issue) => issue.year))];
 ---
 
-<!doctype html>
-<html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <meta
-      name="description"
-      content="Cronología de los 157 números de la primera época de Revista de Occidente y su contexto histórico en España, entre 1923 y 1936."
-    />
-    <meta name="theme-color" content="#f3efe6" />
-    <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.svg`} />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap"
-      rel="stylesheet"
-    />
-    <title>Revista de Occidente — Cronología 1923–1936</title>
-  </head>
-  <body>
-    <a class="skip-link" href="#timeline">Ir a la cronología</a>
-
-    <header class="masthead">
-      <div class="masthead__rule" aria-hidden="true"></div>
-      <div class="masthead__inner">
-        <div class="masthead__lead">
-          <p class="eyebrow">Archivo digital · Primera época</p>
-          <h1>Revista de<br />Occidente</h1>
-        </div>
-        <div class="masthead__summary">
-          <p>
-            Una lectura cronológica de la revista fundada y dirigida por José Ortega y
-            Gasset y del tiempo histórico que la rodeó, desde julio de 1923 hasta julio de
-            1936. Un periodo convulso y, a la vez, de intensa efervescencia intelectual.
-          </p>
-          <dl class="archive-stats" aria-label="Resumen del archivo">
-            <div>
-              <dt>Números</dt>
-              <dd>{archive.meta.issues_total}</dd>
-            </div>
-            <div>
-              <dt>Contribuciones</dt>
-              <dd>{archive.meta.contribuciones_total}</dd>
-            </div>
-            <div>
-              <dt>Periodo</dt>
-              <dd>1923–1936</dd>
-            </div>
-          </dl>
-        </div>
+<BaseLayout
+  title="Revista de Occidente — Cronología 1923–1936"
+  description="Cronología de los 157 números de la primera época de Revista de Occidente y su contexto histórico en España, entre 1923 y 1936."
+  active="timeline"
+  skipHref="#timeline"
+  skipLabel="Ir a la cronología"
+>
+  <header class="masthead">
+    <div class="masthead__inner">
+      <div class="masthead__lead">
+        <p class="eyebrow">Archivo digital · Primera época</p>
+        <h1>Revista de<br />Occidente</h1>
       </div>
-    </header>
-
-    <YearNavigator years={years} />
-
-    <main id="timeline">
-      <div class="timeline-intro">
-        <h2>Trece años, número a número</h2>
+      <div class="masthead__summary">
         <p>
-          Seleccione un hecho para ampliar su contexto histórico o un ejemplar para
-          consultar el sumario y acceder al facsímil de la Fundación Ortega-Marañón.
+          Una lectura cronológica de la revista fundada y dirigida por José Ortega y
+          Gasset y del tiempo histórico que la rodeó, desde julio de 1923 hasta julio de
+          1936. Un periodo convulso y, a la vez, de intensa efervescencia intelectual.
         </p>
+        <dl class="archive-stats" aria-label="Resumen del archivo">
+          <div>
+            <dt>Números</dt>
+            <dd>{archive.meta.issues_total}</dd>
+          </div>
+          <div>
+            <dt>Contribuciones</dt>
+            <dd>{archive.meta.contribuciones_total}</dd>
+          </div>
+          <div>
+            <dt>Periodo</dt>
+            <dd>1923–1936</dd>
+          </div>
+        </dl>
       </div>
+    </div>
+  </header>
 
-      <ArchiveTimeline issues={issues} events={events} />
-    </main>
+  <YearNavigator years={years} />
 
-    <footer class="site-footer">
-      <p><em>Revista de Occidente</em> · Primera época, 1923–1936</p>
+  <main id="timeline">
+    <div class="timeline-intro">
+      <h2>Trece años, número a número</h2>
       <p>
-        Facsímiles:
-        <a href="https://ortegaygasset.edu/publicaciones/revista-de-occidente/archivo-ro/numero/">
-          Fundación Ortega-Marañón
-        </a>
-        · Contexto histórico: <a href="https://es.wikipedia.org/">Wikipedia</a>
+        Seleccione un hecho para ampliar su contexto histórico o un ejemplar para
+        consultar el sumario y acceder al facsímil de la Fundación Ortega-Marañón.
       </p>
-    </footer>
-  </body>
-</html>
+    </div>
+
+    <ArchiveTimeline issues={issues} events={events} />
+  </main>
+
+  <SiteFooter />
+</BaseLayout>

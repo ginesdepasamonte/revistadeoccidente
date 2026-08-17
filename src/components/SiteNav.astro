@@ -1,0 +1,35 @@
+---
+import { baseUrl } from "../lib/site";
+
+type Section = "timeline" | "index" | "authors" | "titles";
+
+interface Props {
+  active: Section;
+}
+
+const { active } = Astro.props;
+const links: Array<{ id: Section; label: string; href: string }> = [
+  { id: "timeline", label: "Cronología", href: baseUrl },
+  { id: "index", label: "Índice", href: `${baseUrl}indice/` },
+  { id: "authors", label: "Autores", href: `${baseUrl}autores/` },
+  { id: "titles", label: "Títulos", href: `${baseUrl}titulos/` },
+];
+---
+
+<nav class="site-nav" aria-label="Secciones del archivo">
+  <div class="site-nav__inner">
+    <a class="site-nav__brand" href={baseUrl} aria-label="Revista de Occidente, inicio">
+      <span>RDO</span>
+      <small>1923–1936</small>
+    </a>
+    <ul>
+      {links.map((link) => (
+        <li>
+          <a href={link.href} aria-current={active === link.id ? "page" : undefined}>
+            {link.label}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</nav>

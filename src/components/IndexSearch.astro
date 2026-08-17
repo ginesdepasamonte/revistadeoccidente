@@ -1,0 +1,106 @@
+---
+interface Props {
+  id: string;
+  targetId: string;
+  label: string;
+  placeholder: string;
+  total: number;
+  singular: string;
+  plural: string;
+}
+
+const { id, targetId, label, placeholder, total, singular, plural } = Astro.props;
+---
+
+<div
+  class="archive-search"
+  data-index-search
+  data-search-target={targetId}
+  data-search-singular={singular}
+  data-search-plural={plural}
+>
+  <label for={id}>{label}</label>
+  <div class="archive-search__control">
+    <input
+      id={id}
+      type="search"
+      inputmode="search"
+      placeholder={placeholder}
+      autocomplete="off"
+      aria-controls={targetId}
+      data-search-input
+    />
+    <button type="button" data-search-clear hidden>Limpiar</button>
+  </div>
+  <p class="archive-search__status" aria-live="polite" data-search-status>
+    {total} {total === 1 ? singular : plural}
+  </p>
+  <p class="archive-search__empty" data-search-empty hidden>
+    No hay resultados para esta búsqueda.
+  </p>
+</div>
+
+<script>
+  function searchKey(value: string): string {
+    return value
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLocaleLowerCase("es")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  document.querySelectorAll<HTMLElement>("[data-index-search]").forEach((search) => {
+    const targetId = search.dataset.searchTarget;
+    const target = targetId ? document.getElementById(targetId) : null;
+    const input = search.querySelector<HTMLInputElement>("[data-search-input]");
+    const clear = search.querySelector<HTMLButtonElement>("[data-search-clear]");
+    const status = search.querySelector<HTMLElement>("[data-search-status]");
+    const empty = search.querySelector<HTMLElement>("[data-search-empty]");
+    const singular = search.dataset.searchSingular ?? "resultado";
+    const plural = search.dataset.searchPlural ?? "resultados";
+
+    if (!target || !input) return;
+    const searchInput = input;
+
+    const items = [...target.querySelectorAll<HTMLElement>("[data-search-item]")];
+    const groups = [...target.querySelectorAll<HTMLElement>("[data-search-group]")];
+
+    function filter(updateLocation = true): void {
+      const query = searchKey(searchInput.value);
+      let visible = 0;
+
+      for (const item of items) {
+        const matches = !query || searchKey(item.dataset.searchText ?? "").includes(query);
+        item.hidden = !matches;
+        if (matches) visible += 1;
+      }
+
+      for (const group of groups) {
+        group.hidden = !group.querySelector("[data-search-item]:not([hidden])");
+      }
+
+      if (clear) clear.hidden = !query;
+      if (status) status.textContent = `${visible} ${visible === 1 ? singular : plural}`;
+      if (empty) empty.hidden = visible !== 0;
+
+      if (updateLocation) {
+        const url = new URL(window.location.href);
+        if (searchInput.value.trim()) url.searchParams.set("q", searchInput.value.trim());
+        else url.searchParams.delete("q");
+        window.history.replaceState(null, "", `${url.pathname}${url.search}${url.hash}`);
+      }
+    }
+
+    const initialQuery = new URL(window.location.href).searchParams.get("q");
+    if (initialQuery) searchInput.value = initialQuery;
+    filter(false);
+
+    searchInput.addEventListener("input", () => filter());
+    clear?.addEventListener("click", () => {
+      searchInput.value = "";
+      filter();
+      searchInput.focus();
+    });
+  });
+</script>

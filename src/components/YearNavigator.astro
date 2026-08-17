@@ -1,9 +1,10 @@
 ---
 interface Props {
   years: number[];
+  sectionPrefix?: string;
 }
 
-const { years } = Astro.props;
+const { years, sectionPrefix = "year" } = Astro.props;
 const firstYear = years.at(0);
 const lastYear = years.at(-1);
 
@@ -12,14 +13,20 @@ if (firstYear === undefined || lastYear === undefined) {
 }
 ---
 
-<nav class="year-nav" aria-label="Navegar por año" data-year-navigator style="--year-progress: 0%">
+<nav
+  class="year-nav"
+  aria-label="Navegar por año"
+  data-year-navigator
+  data-year-section-prefix={sectionPrefix}
+  style="--year-progress: 0%"
+>
   <div class="year-nav__inner">
     <span class="year-nav__label">Años</span>
 
     <div class="year-nav__desktop">
       <div class="year-nav__years">
         {years.map((year, index) => (
-          <a href={`#year-${year}`} data-year-link={year} aria-current={index === 0 ? "location" : undefined}>
+          <a href={`#${sectionPrefix}-${year}`} data-year-link={year} aria-current={index === 0 ? "location" : undefined}>
             {year}
           </a>
         ))}
@@ -55,8 +62,9 @@ if (firstYear === undefined || lastYear === undefined) {
     const scrubber = navigator.querySelector<HTMLInputElement>("[data-year-scrubber]");
     const output = navigator.querySelector<HTMLOutputElement>("[data-year-output]");
     const years = links.map((link) => Number(link.dataset.yearLink));
+    const sectionPrefix = navigator.dataset.yearSectionPrefix ?? "year";
     const sections = years
-      .map((year) => document.querySelector<HTMLElement>(`#year-${year}`))
+      .map((year) => document.querySelector<HTMLElement>(`#${sectionPrefix}-${year}`))
       .filter((section): section is HTMLElement => section !== null);
 
     function update(year: number): void {
@@ -75,6 +83,8 @@ if (firstYear === undefined || lastYear === undefined) {
     }
 
     const intersecting = new Map<HTMLElement, IntersectionObserverEntry>();
+    const siteNavigation = document.querySelector<HTMLElement>(".site-nav");
+    const stickyOffset = navigator.offsetHeight + (siteNavigation?.offsetHeight ?? 0);
     const observer = new IntersectionObserver(
       (entries) => {
         for (const entry of entries) {
@@ -86,9 +96,9 @@ if (firstYear === undefined || lastYear === undefined) {
         const current = [...intersecting.values()].sort(
           (a, b) => Math.abs(a.boundingClientRect.top) - Math.abs(b.boundingClientRect.top),
         )[0];
-        if (current) update(Number((current.target as HTMLElement).id.replace("year-", "")));
+        if (current) update(Number((current.target as HTMLElement).id.replace(`${sectionPrefix}-`, "")));
       },
-      { rootMargin: "-60px 0px -70% 0px", threshold: 0 },
+      { rootMargin: `-${stickyOffset}px 0px -70% 0px`, threshold: 0 },
     );
 
     sections.forEach((section) => observer.observe(section));
@@ -96,7 +106,7 @@ if (firstYear === undefined || lastYear === undefined) {
     scrubber?.addEventListener("input", () => update(Number(scrubber.value)));
     scrubber?.addEventListener("change", () => {
       const year = Number(scrubber.value);
-      const section = document.querySelector<HTMLElement>(`#year-${year}`);
+      const section = document.querySelector<HTMLElement>(`#${sectionPrefix}-${year}`);
       if (!section) return;
 
       window.history.pushState(null, "", `#year-${year}`);

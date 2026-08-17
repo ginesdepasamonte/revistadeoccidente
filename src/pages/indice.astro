@@ -1,0 +1,110 @@
+---
+import archive from "../../data/indice.json";
+import DirectoryHeader from "../components/DirectoryHeader.astro";
+import SiteFooter from "../components/SiteFooter.astro";
+import YearNavigator from "../components/YearNavigator.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { issues, pageLabel } from "../lib/archive-index";
+import { baseUrl } from "../lib/site";
+const years = [...new Set(issues.map((issue) => issue.year))];
+---
+
+<BaseLayout
+  title="Índice de números — Revista de Occidente"
+  description="Índice bibliográfico de los 157 números de la primera época de Revista de Occidente, publicados entre 1923 y 1936."
+  active="index"
+  skipHref="#archive-index"
+  skipLabel="Ir al índice"
+>
+  <DirectoryHeader
+    eyebrow="Archivo bibliográfico · 157 números"
+    title="Índice de números"
+    description="Todos los sumarios de la primera época, ordenados por año y ejemplar. Cada número enlaza también al facsímil conservado por la Fundación Ortega-Marañón."
+  />
+
+  <YearNavigator years={years} sectionPrefix="indice" />
+
+  <main class="directory-main" id="archive-index">
+    <div class="bibliography-years bibliography-years--with-navigator">
+      {years.map((year) => (
+        <section class="bibliography-year" id={`indice-${year}`} aria-labelledby={`indice-heading-${year}`}>
+          <header class="bibliography-year__heading">
+            <p>Año</p>
+            <h2 id={`indice-heading-${year}`}>{year}</h2>
+          </header>
+
+          <div class="bibliography-year__issues">
+            {issues.filter((issue) => issue.year === year).map((issue) => (
+              <article class="bibliography-issue" id={`numero-${issue.issue_number}`}>
+                <header class="bibliography-issue__header">
+                  <div>
+                    <p class="eyebrow">Primera época</p>
+                    <h3>N.º {issue.issue_number} · <span>{issue.month_name}</span></h3>
+                  </div>
+                  <div class="bibliography-issue__actions">
+                    <a href={`${baseUrl}#issue-${issue.issue_number}`}>Ver en la cronología</a>
+                    <a href={issue.fom_viewer_url} target="_blank" rel="noreferrer">Facsímil ↗</a>
+                  </div>
+                </header>
+
+                <ol class="bibliography-list">
+                  {issue.contributions.map((contribution) => {
+                    const pages = pageLabel(contribution.page_start, contribution.page_end);
+                    return (
+                      <li>
+                        <p>
+                          {contribution.authors.length > 0 && (
+                            <span class="bibliography-item__authors">
+                              {contribution.authors.map((author, index) => (
+                                <>
+                                  {index > 0 && ", "}
+                                  <a href={`${baseUrl}autores/?q=${encodeURIComponent(author.name)}`}>{author.name}</a>
+                                </>
+                              ))}
+                              {" — "}
+                            </span>
+                          )}
+                          <cite>{contribution.title}</cite>
+                          {pages && <span class="bibliography-item__pages">{pages}</span>}
+                        </p>
+                      </li>
+                    );
+                  })}
+                </ol>
+
+                {issue.note_authors.length > 0 && (
+                  <aside class="bibliography-notes">
+                    <h4>Autores de «Notas»</h4>
+                    <p>
+                      {issue.note_authors.map((author, index) => (
+                        <>
+                          {index > 0 && " · "}
+                          <a href={`${baseUrl}autores/?q=${encodeURIComponent(author.name)}`}>{author.name}</a>
+                        </>
+                      ))}
+                    </p>
+                  </aside>
+                )}
+              </article>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+
+    <aside class="source-note">
+      <h2>Fuentes y cobertura</h2>
+      <div>
+        <p>
+          Los facsímiles proceden de la Fundación Ortega-Marañón. Los metadatos bibliográficos
+          proceden principalmente de Dialnet; pueden omitir reseñas, preliminares o secciones
+          menores. Los autores de «Notas» se incorporan desde el archivo por autor de la FOM.
+          Este índice es una herramienta de consulta, no una transcripción exhaustiva.
+        </p>
+        <p>{archive.meta.contribuciones_total} contribuciones registradas en {archive.meta.issues_total} números.</p>
+      </div>
+    </aside>
+  </main>
+
+  <SiteFooter />
+</BaseLayout>

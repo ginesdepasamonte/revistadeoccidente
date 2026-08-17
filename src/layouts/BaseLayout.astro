@@ -1,0 +1,46 @@
+---
+import SiteNav from "../components/SiteNav.astro";
+import { baseUrl } from "../lib/site";
+import "../styles/global.css";
+
+type Section = "timeline" | "index" | "authors" | "titles";
+
+interface Props {
+  title: string;
+  description: string;
+  active: Section;
+  skipHref?: string;
+  skipLabel?: string;
+}
+
+const {
+  title,
+  description,
+  active,
+  skipHref = "#main-content",
+  skipLabel = "Ir al contenido",
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#f3efe6" />
+    <link rel="icon" type="image/svg+xml" href={`${baseUrl}favicon.svg`} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap"
+      rel="stylesheet"
+    />
+    <title>{title}</title>
+  </head>
+  <body>
+    <a class="skip-link" href={skipHref}>{skipLabel}</a>
+    <SiteNav active={active} />
+    <slot />
+  </body>
+</html>
