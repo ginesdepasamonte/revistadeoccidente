@@ -4,6 +4,7 @@ import IndexSearch from "../components/IndexSearch.astro";
 import SiteFooter from "../components/SiteFooter.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { authors, indexLetter, pageLabel } from "../lib/archive-index";
+import { authorBio, authorWikipedia } from "../lib/author-bio";
 import { baseUrl } from "../lib/site";
 const letters = [...new Set(authors.map((author) => indexLetter(author.name)))];
 const groups = letters.map((letter) => ({
@@ -69,8 +70,26 @@ function countLabel(value: number, singular: string, plural: string): string {
                 data-search-text={author.name}
               >
                 <header>
-                  <h3>{author.name}</h3>
-                  <p>
+                  {(() => {
+                    const bio = authorBio(author.name);
+                    const wiki = authorWikipedia(author.name);
+                    return (
+                      <div class="author-entry__identity">
+                        <h3>{author.name}</h3>
+                        {bio?.lifespan && <p class="author-entry__life">{bio.lifespan}</p>}
+                        <a
+                          class="author-entry__wiki"
+                          href={wiki.url}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          {wiki.confirmed ? "Wikipedia" : "Buscar en Wikipedia"}
+                          <span aria-hidden="true">↗</span>
+                        </a>
+                      </div>
+                    );
+                  })()}
+                  <p class="author-entry__count">
                     {countLabel(author.issueCount, "número", "números")}
                     {author.articleCount > 0 && ` · ${countLabel(author.articleCount, "artículo", "artículos")}`}
                     {author.noteCount > 0 && ` · ${countLabel(author.noteCount, "aparición en «Notas»", "apariciones en «Notas»")}`}

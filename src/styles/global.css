@@ -1359,6 +1359,14 @@
     margin-bottom: 1.25rem;
   }
 
+  .author-entry__identity {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.35rem 0.9rem;
+    min-width: 0;
+  }
+
   .author-entry h3 {
     font-family: var(--serif);
     font-size: clamp(1.65rem, 3.5vw, 2.2rem);
@@ -1366,7 +1374,33 @@
     letter-spacing: -0.02em;
   }
 
-  .author-entry > header p {
+  .author-entry__life {
+    color: var(--ink-muted);
+    font-family: var(--serif);
+    font-size: 0.95rem;
+    font-variant-numeric: oldstyle-nums;
+  }
+
+  .author-entry__wiki {
+    flex-basis: 100%;
+    color: var(--accent);
+    font-size: 0.74rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+  .author-entry__wiki span {
+    margin-left: 0.15rem;
+  }
+
+  .author-entry__wiki:hover {
+    color: var(--ink);
+    text-decoration: underline;
+  }
+
+  .author-entry__count {
     max-width: 22rem;
     color: var(--ink-muted);
     font-size: 0.73rem;
@@ -1824,7 +1858,7 @@
     justify-content: space-between;
   }
 
-  .author-entry > header p {
+  .author-entry__count {
     text-align: left;
   }
 

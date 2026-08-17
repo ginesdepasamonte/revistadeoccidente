@@ -1,0 +1,1931 @@
+{
+  "meta": {
+    "source": "Wikidata (P569 nacimiento, P570 defunción)",
+    "authors_total": 328,
+    "authors_matched": 192,
+    "complete": true,
+    "note": "Solo se incluyen autores con coincidencia única de nombre humano con enlace a Wikipedia. Los nombres ambiguos o sin correspondencia se omiten."
+  },
+  "authors": {
+    "Adolf Schulten": {
+      "qid": "Q64166",
+      "description": "German historian and archaeologist (1870–1960)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Adolf_Schulten",
+      "birth_year": 1870,
+      "death_year": 1960,
+      "birth_label": "27 de mayo de 1870",
+      "death_label": "19 de marzo de 1960",
+      "lifespan": "27 de mayo de 1870 – 19 de marzo de 1960"
+    },
+    "Adolfo Bonilla y San Martín": {
+      "qid": "Q5581678",
+      "description": "filólogo, filósofo y crítico español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Adolfo_Bonilla",
+      "birth_year": 1875,
+      "death_year": 1926,
+      "birth_label": "23 de septiembre de 1875",
+      "death_label": "17 de enero de 1926",
+      "lifespan": "23 de septiembre de 1875 – 17 de enero de 1926"
+    },
+    "Adolfo Salazar": {
+      "qid": "Q5658135",
+      "description": "compositor, escritor y crítico musical español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Adolfo_Salazar",
+      "birth_year": 1890,
+      "death_year": 1958,
+      "birth_label": "6 de marzo de 1890",
+      "death_label": "27 de septiembre de 1958",
+      "lifespan": "6 de marzo de 1890 – 27 de septiembre de 1958"
+    },
+    "Albert Einstein": {
+      "qid": "Q937",
+      "description": "físico alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Albert_Einstein",
+      "birth_year": 1879,
+      "death_year": 1955,
+      "birth_label": "14 de marzo de 1879",
+      "death_label": "18 de abril de 1955",
+      "lifespan": "14 de marzo de 1879 – 18 de abril de 1955"
+    },
+    "Aldous Huxley": {
+      "qid": "Q81447",
+      "description": "escritor británico (1894-1963)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Aldous_Huxley",
+      "birth_year": 1894,
+      "death_year": 1963,
+      "birth_label": "26 de julio de 1894",
+      "death_label": "22 de noviembre de 1963",
+      "lifespan": "26 de julio de 1894 – 22 de noviembre de 1963"
+    },
+    "Alfred North Whitehead": {
+      "qid": "Q183372",
+      "description": "Matemático y filósofo inglés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Alfred_North_Whitehead",
+      "birth_year": 1861,
+      "death_year": 1947,
+      "birth_label": "15 de febrero de 1861",
+      "death_label": "30 de diciembre de 1947",
+      "lifespan": "15 de febrero de 1861 – 30 de diciembre de 1947"
+    },
+    "Amédée Ozenfant": {
+      "qid": "Q381937",
+      "description": "pintor francés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Ozenfant",
+      "birth_year": 1886,
+      "death_year": 1966,
+      "birth_label": "15 de abril de 1886",
+      "death_label": "4 de mayo de 1966",
+      "lifespan": "15 de abril de 1886 – 4 de mayo de 1966"
+    },
+    "Américo Castro": {
+      "qid": "Q482275",
+      "description": "filólogo, cervantista e historiador cultural español, perteneciente a la llamada \"Generación del 14\"",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Am%C3%A9rico_Castro",
+      "birth_year": 1885,
+      "death_year": 1972,
+      "birth_label": "4 de mayo de 1885",
+      "death_label": "25 de julio de 1972",
+      "lifespan": "4 de mayo de 1885 – 25 de julio de 1972"
+    },
+    "Angel González Palencia": {
+      "qid": "Q9098303",
+      "description": "orientalista español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/%C3%81ngel_Gonz%C3%A1lez_Palencia",
+      "birth_year": 1889,
+      "death_year": 1949,
+      "birth_label": "4 de septiembre de 1889",
+      "death_label": "30 de octubre de 1949",
+      "lifespan": "4 de septiembre de 1889 – 30 de octubre de 1949"
+    },
+    "Antonio Bermúdez Cañete": {
+      "qid": "Q5697852",
+      "description": "político español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Antonio_Berm%C3%BAdez_Ca%C3%B1ete",
+      "birth_year": 1898,
+      "death_year": 1936,
+      "birth_label": "1898",
+      "death_label": "21 de agosto de 1936",
+      "lifespan": "1898 – 21 de agosto de 1936"
+    },
+    "Antonio Espina": {
+      "qid": "Q17148279",
+      "description": "periodista español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Antonio_Espina",
+      "birth_year": 1894,
+      "death_year": 1972,
+      "birth_label": "1894",
+      "death_label": "1972",
+      "lifespan": "1894 – 1972"
+    },
+    "Antonio Machado": {
+      "qid": "Q243771",
+      "description": "poeta y pensador español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Antonio_Machado",
+      "birth_year": 1875,
+      "death_year": 1939,
+      "birth_label": "26 de julio de 1875",
+      "death_label": "22 de febrero de 1939",
+      "lifespan": "26 de julio de 1875 – 22 de febrero de 1939"
+    },
+    "Antonio Marichalar": {
+      "qid": "Q5698932",
+      "description": null,
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Antonio_Marichalar",
+      "birth_year": 1893,
+      "death_year": 1973,
+      "birth_label": "3 de septiembre de 1893",
+      "death_label": "6 de agosto de 1973",
+      "lifespan": "3 de septiembre de 1893 – 6 de agosto de 1973"
+    },
+    "Antonio Porras": {
+      "qid": "Q113624876",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Antonio_Porras",
+      "birth_year": 1886,
+      "death_year": 1970,
+      "birth_label": "1886",
+      "death_label": "1970",
+      "lifespan": "1886 – 1970"
+    },
+    "Antonio de Obregón": {
+      "qid": "Q24266230",
+      "description": "guionista y director de cine español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Antonio_de_Obreg%C3%B3n",
+      "birth_year": 1909,
+      "death_year": 1985,
+      "birth_label": "6 de marzo de 1909",
+      "death_label": "14 de enero de 1985",
+      "lifespan": "6 de marzo de 1909 – 14 de enero de 1985"
+    },
+    "Arnold Metzger": {
+      "qid": "Q47240197",
+      "description": "filósofo alemán",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arnold_Metzger",
+      "birth_year": 1892,
+      "death_year": 1974,
+      "birth_label": "1 de febrero de 1892",
+      "death_label": "1 de agosto de 1974",
+      "lifespan": "1 de febrero de 1892 – 1 de agosto de 1974"
+    },
+    "Arthur Stanley Eddington": {
+      "qid": "Q215022",
+      "description": "astrofísico británico (1882-1944)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Arthur_Stanley_Eddington",
+      "birth_year": 1882,
+      "death_year": 1944,
+      "birth_label": "28 de diciembre de 1882",
+      "death_label": "22 de noviembre de 1944",
+      "lifespan": "28 de diciembre de 1882 – 22 de noviembre de 1944"
+    },
+    "Aurel Kolnai": {
+      "qid": "Q774997",
+      "description": "filósofo húngaro",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Aurel_Kolnai",
+      "birth_year": 1900,
+      "death_year": 1973,
+      "birth_label": "5 de diciembre de 1900",
+      "death_label": "28 de junio de 1973",
+      "lifespan": "5 de diciembre de 1900 – 28 de junio de 1973"
+    },
+    "Azorín": {
+      "qid": "Q443403",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Azor%C3%ADn",
+      "birth_year": 1873,
+      "death_year": 1967,
+      "birth_label": "8 de junio de 1873",
+      "death_label": "3 de marzo de 1967",
+      "lifespan": "8 de junio de 1873 – 3 de marzo de 1967"
+    },
+    "Benjamin Crémieux": {
+      "qid": "Q817441",
+      "description": "escritor de nacionalidad francesa",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Cr%C3%A9mieux",
+      "birth_year": 1888,
+      "death_year": 1944,
+      "birth_label": "1 de diciembre de 1888",
+      "death_label": "14 de abril de 1944",
+      "lifespan": "1 de diciembre de 1888 – 14 de abril de 1944"
+    },
+    "Benjamín Jarnés": {
+      "qid": "Q2274592",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Benjam%C3%ADn_Jarn%C3%A9s",
+      "birth_year": 1888,
+      "death_year": 1949,
+      "birth_label": "7 de octubre de 1888",
+      "death_label": "11 de agosto de 1949",
+      "lifespan": "7 de octubre de 1888 – 11 de agosto de 1949"
+    },
+    "Benjamín Palencia": {
+      "qid": "Q1032506",
+      "description": "pintor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Benjam%C3%ADn_Palencia",
+      "birth_year": 1894,
+      "death_year": 1980,
+      "birth_label": "7 de julio de 1894",
+      "death_label": "6 de enero de 1980",
+      "lifespan": "7 de julio de 1894 – 6 de enero de 1980"
+    },
+    "Bertrand Russell": {
+      "qid": "Q33760",
+      "description": "matemático, filósofo, lógico y escritor británico",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Bertrand_Russell",
+      "birth_year": 1872,
+      "death_year": 1970,
+      "birth_label": "18 de mayo de 1872",
+      "death_label": "2 de febrero de 1970",
+      "lifespan": "18 de mayo de 1872 – 2 de febrero de 1970"
+    },
+    "Blas Cabrera Felipe": {
+      "qid": "Q3327470",
+      "description": "físico español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Blas_Cabrera",
+      "birth_year": 1878,
+      "death_year": 1945,
+      "birth_label": "20 de mayo de 1878",
+      "death_label": "1 de agosto de 1945",
+      "lifespan": "20 de mayo de 1878 – 1 de agosto de 1945"
+    },
+    "Bruno Barilli": {
+      "qid": "Q993006",
+      "description": "Italian writer, composer and music critic (1880–1952)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Barilli",
+      "birth_year": 1880,
+      "death_year": 1952,
+      "birth_label": "14 de diciembre de 1880",
+      "death_label": "15 de abril de 1952",
+      "lifespan": "14 de diciembre de 1880 – 15 de abril de 1952"
+    },
+    "Carl Gustav Jung": {
+      "qid": "Q41532",
+      "description": "psicólogo y psiquiatra suizo",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Carl_Gustav_Jung",
+      "birth_year": 1875,
+      "death_year": 1961,
+      "birth_label": "26 de julio de 1875",
+      "death_label": "6 de junio de 1961",
+      "lifespan": "26 de julio de 1875 – 6 de junio de 1961"
+    },
+    "Claudio Sánchez-Albornoz": {
+      "qid": "Q2276791",
+      "description": "historiador y político español (1893-1984)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Claudio_S%C3%A1nchez-Albornoz",
+      "birth_year": 1893,
+      "death_year": 1984,
+      "birth_label": "7 de abril de 1893",
+      "death_label": "8 de julio de 1984",
+      "lifespan": "7 de abril de 1893 – 8 de julio de 1984"
+    },
+    "Corpus Barga": {
+      "qid": "Q5788998",
+      "description": "Periodista, memorialista y escritor español (1887-1975)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Corpus_Barga",
+      "birth_year": 1887,
+      "death_year": 1975,
+      "birth_label": "9 de junio de 1887",
+      "death_label": "8 de agosto de 1975",
+      "lifespan": "9 de junio de 1887 – 8 de agosto de 1975"
+    },
+    "David Herbert Lawrence": {
+      "qid": "Q34970",
+      "description": "escritor inglés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/D._H._Lawrence",
+      "birth_year": 1885,
+      "death_year": 1930,
+      "birth_label": "11 de septiembre de 1885",
+      "death_label": "2 de marzo de 1930",
+      "lifespan": "11 de septiembre de 1885 – 2 de marzo de 1930"
+    },
+    "Dámaso Alonso": {
+      "qid": "Q312945",
+      "description": "escritor y filólogo español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/D%C3%A1maso_Alonso",
+      "birth_year": 1899,
+      "death_year": 1990,
+      "birth_label": "22 de octubre de 1899",
+      "death_label": "25 de enero de 1990",
+      "lifespan": "22 de octubre de 1899 – 25 de enero de 1990"
+    },
+    "Edgar Neville": {
+      "qid": "Q566047",
+      "description": "escritor, dramaturgo y director de cine español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Edgar_Neville",
+      "birth_year": 1899,
+      "death_year": 1967,
+      "birth_label": "28 de diciembre de 1899",
+      "death_label": "23 de abril de 1967",
+      "lifespan": "28 de diciembre de 1899 – 23 de abril de 1967"
+    },
+    "Eduard Schwartz": {
+      "qid": "Q85818",
+      "description": "filólogo alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Eduard_Schwartz",
+      "birth_year": 1858,
+      "death_year": 1940,
+      "birth_label": "22 de agosto de 1858",
+      "death_label": "13 de febrero de 1940",
+      "lifespan": "22 de agosto de 1858 – 13 de febrero de 1940"
+    },
+    "Eduard Spranger": {
+      "qid": "Q61151",
+      "description": "psicólogo alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Eduard_Spranger",
+      "birth_year": 1882,
+      "death_year": 1963,
+      "birth_label": "27 de junio de 1882",
+      "death_label": "17 de septiembre de 1963",
+      "lifespan": "27 de junio de 1882 – 17 de septiembre de 1963"
+    },
+    "Eduardo Mallea": {
+      "qid": "Q324283",
+      "description": "escritor argentino",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Eduardo_Mallea",
+      "birth_year": 1903,
+      "death_year": 1982,
+      "birth_label": "14 de agosto de 1903",
+      "death_label": "12 de noviembre de 1982",
+      "lifespan": "14 de agosto de 1903 – 12 de noviembre de 1982"
+    },
+    "Eduardo Schwartz": {
+      "qid": "Q5340764",
+      "description": "economista chileno",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eduardo_Schwartz",
+      "birth_year": 1940,
+      "death_year": null,
+      "birth_label": "1940",
+      "death_label": null,
+      "lifespan": "1940 – ?"
+    },
+    "Emanuel Radl": {
+      "qid": "Q3563524",
+      "description": "Czech biologist, philosopher and politic writer (1873–1942)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Emanuel_R%C3%A1dl",
+      "birth_year": 1873,
+      "death_year": 1942,
+      "birth_label": "21 de diciembre de 1873",
+      "death_label": "12 de mayo de 1942",
+      "lifespan": "21 de diciembre de 1873 – 12 de mayo de 1942"
+    },
+    "Emilio Cecchi": {
+      "qid": "Q708563",
+      "description": "Italian film producer and art historian (1884–1966)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Emilio_Cecchi",
+      "birth_year": 1884,
+      "death_year": 1966,
+      "birth_label": "14 de julio de 1884",
+      "death_label": "8 de septiembre de 1966",
+      "lifespan": "14 de julio de 1884 – 8 de septiembre de 1966"
+    },
+    "Emilio García Gómez": {
+      "qid": "Q3040546",
+      "description": "arabista y diplomático español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Emilio_Garc%C3%ADa_G%C3%B3mez",
+      "birth_year": 1905,
+      "death_year": 1995,
+      "birth_label": "4 de junio de 1905",
+      "death_label": "31 de mayo de 1995",
+      "lifespan": "4 de junio de 1905 – 31 de mayo de 1995"
+    },
+    "Emilio Prados": {
+      "qid": "Q530267",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Emilio_Prados",
+      "birth_year": 1899,
+      "death_year": 1962,
+      "birth_label": "4 de marzo de 1899",
+      "death_label": "24 de abril de 1962",
+      "lifespan": "4 de marzo de 1899 – 24 de abril de 1962"
+    },
+    "Enrique Díez Canedo": {
+      "qid": "Q1343995",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Enrique_D%C3%ADez_Canedo",
+      "birth_year": 1879,
+      "death_year": 1944,
+      "birth_label": "7 de enero de 1879",
+      "death_label": "7 de junio de 1944",
+      "lifespan": "7 de enero de 1879 – 7 de junio de 1944"
+    },
+    "Enrique Díez-Canedo": {
+      "qid": "Q1343995",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Enrique_D%C3%ADez_Canedo",
+      "birth_year": 1879,
+      "death_year": 1944,
+      "birth_label": "7 de enero de 1879",
+      "death_label": "7 de junio de 1944",
+      "lifespan": "7 de enero de 1879 – 7 de junio de 1944"
+    },
+    "Ernesto Giménez Caballero": {
+      "qid": "Q3819618",
+      "description": "escritor y publicista español (1899-1988)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ernesto_Gim%C3%A9nez_Caballero",
+      "birth_year": 1899,
+      "death_year": 1988,
+      "birth_label": "2 de agosto de 1899",
+      "death_label": "14 de mayo de 1988",
+      "lifespan": "2 de agosto de 1899 – 14 de mayo de 1988"
+    },
+    "Ernst Wiechert": {
+      "qid": "Q64850",
+      "description": "escritor alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ernst_Wiechert",
+      "birth_year": 1887,
+      "death_year": 1950,
+      "birth_label": "18 de mayo de 1887",
+      "death_label": "24 de agosto de 1950",
+      "lifespan": "18 de mayo de 1887 – 24 de agosto de 1950"
+    },
+    "Erwin Schrödinger": {
+      "qid": "Q9130",
+      "description": "físico y filósofo austríaco",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger",
+      "birth_year": 1887,
+      "death_year": 1961,
+      "birth_label": "12 de agosto de 1887",
+      "death_label": "4 de enero de 1961",
+      "lifespan": "12 de agosto de 1887 – 4 de enero de 1961"
+    },
+    "Eugenio Imaz": {
+      "qid": "Q8846147",
+      "description": "filósofo español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Eugenio_%C3%8Dmaz",
+      "birth_year": 1900,
+      "death_year": 1951,
+      "birth_label": "14 de junio de 1900",
+      "death_label": "28 de enero de 1951",
+      "lifespan": "14 de junio de 1900 – 28 de enero de 1951"
+    },
+    "Eugenio Montes": {
+      "qid": "Q3059615",
+      "description": "político español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Eugenio_Montes",
+      "birth_year": 1897,
+      "death_year": 1982,
+      "birth_label": "23 de noviembre de 1897",
+      "death_label": "27 de octubre de 1982",
+      "lifespan": "23 de noviembre de 1897 – 27 de octubre de 1982"
+    },
+    "Eugenio d'Ors": {
+      "qid": "Q930679",
+      "description": "filósofo y escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Eugenio_d%27Ors",
+      "birth_year": 1881,
+      "death_year": 1954,
+      "birth_label": "18 de septiembre de 1881",
+      "death_label": "26 de septiembre de 1954",
+      "lifespan": "18 de septiembre de 1881 – 26 de septiembre de 1954"
+    },
+    "Evaristo Correa Calderón": {
+      "qid": "Q8846895",
+      "description": "escritor y periodista español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Evaristo_Correa_Calder%C3%B3n",
+      "birth_year": 1899,
+      "death_year": 1986,
+      "birth_label": "11 de febrero de 1899",
+      "death_label": "11 de julio de 1986",
+      "lifespan": "11 de febrero de 1899 – 11 de julio de 1986"
+    },
+    "Fausto María Martini": {
+      "qid": "Q2457329",
+      "description": "Italian poet and writer (1886–1931)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fausto_Maria_Martini",
+      "birth_year": 1886,
+      "death_year": 1931,
+      "birth_label": "14 de abril de 1886",
+      "death_label": "12 de abril de 1931",
+      "lifespan": "14 de abril de 1886 – 12 de abril de 1931"
+    },
+    "Federico García Lorca": {
+      "qid": "Q41408",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca",
+      "birth_year": 1898,
+      "death_year": 1936,
+      "birth_label": "5 de junio de 1898",
+      "death_label": "18 de agosto de 1936",
+      "lifespan": "5 de junio de 1898 – 18 de agosto de 1936"
+    },
+    "Ferdinand Bruckner": {
+      "qid": "Q112057",
+      "description": "escritor y gerente de teatros de origen austriaco-alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ferdinand_Bruckner",
+      "birth_year": 1891,
+      "death_year": 1958,
+      "birth_label": "26 de agosto de 1891",
+      "death_label": "5 de diciembre de 1958",
+      "lifespan": "26 de agosto de 1891 – 5 de diciembre de 1958"
+    },
+    "Francisco Javier Sánchez Cantón": {
+      "qid": "Q3327107",
+      "description": "historiador, historiador del arte, profesor y escritor español (1891-1971)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Francisco_Javier_S%C3%A1nchez_Cant%C3%B3n",
+      "birth_year": 1891,
+      "death_year": 1971,
+      "birth_label": "14 de julio de 1891",
+      "death_label": "27 de noviembre de 1971",
+      "lifespan": "14 de julio de 1891 – 27 de noviembre de 1971"
+    },
+    "Frank Bohn": {
+      "qid": "Q5485367",
+      "description": "American labor leader",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Bohn_(socialist)",
+      "birth_year": 1878,
+      "death_year": 1975,
+      "birth_label": "26 de septiembre de 1878",
+      "death_label": "1975",
+      "lifespan": "26 de septiembre de 1878 – 1975"
+    },
+    "Franz Brentano": {
+      "qid": "Q57196",
+      "description": "filósofo, psicólogo y sacerdote",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Franz_Brentano",
+      "birth_year": 1838,
+      "death_year": 1917,
+      "birth_label": "16 de enero de 1838",
+      "death_label": "17 de marzo de 1917",
+      "lifespan": "16 de enero de 1838 – 17 de marzo de 1917"
+    },
+    "Franz Kafka": {
+      "qid": "Q905",
+      "description": "escritor nacido en Bohemia que escribió en alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Franz_Kafka",
+      "birth_year": 1883,
+      "death_year": 1924,
+      "birth_label": "3 de julio de 1883",
+      "death_label": "3 de junio de 1924",
+      "lifespan": "3 de julio de 1883 – 3 de junio de 1924"
+    },
+    "Franz Roh": {
+      "qid": "Q66832",
+      "description": "crítico de arte Alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Franz_Roh",
+      "birth_year": 1890,
+      "death_year": 1965,
+      "birth_label": "21 de febrero de 1890",
+      "death_label": "30 de diciembre de 1965",
+      "lifespan": "21 de febrero de 1890 – 30 de diciembre de 1965"
+    },
+    "Franz Werfel": {
+      "qid": "Q78514",
+      "description": "escritor checo",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Franz_Werfel",
+      "birth_year": 1890,
+      "death_year": 1945,
+      "birth_label": "10 de septiembre de 1890",
+      "death_label": "26 de agosto de 1945",
+      "lifespan": "10 de septiembre de 1890 – 26 de agosto de 1945"
+    },
+    "G. Elliot Smith": {
+      "qid": "Q733942",
+      "description": "anatomista australiano",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Grafton_Elliot_Smith",
+      "birth_year": 1871,
+      "death_year": 1937,
+      "birth_label": "15 de agosto de 1871",
+      "death_label": "1 de enero de 1937",
+      "lifespan": "15 de agosto de 1871 – 1 de enero de 1937"
+    },
+    "Gabriel García Maroto": {
+      "qid": "Q5873338",
+      "description": "pintor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_Maroto",
+      "birth_year": 1889,
+      "death_year": 1969,
+      "birth_label": "1889",
+      "death_label": "1969",
+      "lifespan": "1889 – 1969"
+    },
+    "Georg Kaiser": {
+      "qid": "Q60477",
+      "description": "literato y dramaturgo alemán, caracterizado por su vanguardismo y su crítica social (1878-1945)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Georg_Kaiser",
+      "birth_year": 1878,
+      "death_year": 1945,
+      "birth_label": "25 de noviembre de 1878",
+      "death_label": "4 de junio de 1945",
+      "lifespan": "25 de noviembre de 1878 – 4 de junio de 1945"
+    },
+    "George Santayana": {
+      "qid": "Q237833",
+      "description": "filósofo, ensayista, poeta y novelista español (1863-1952)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/George_Santayana",
+      "birth_year": 1863,
+      "death_year": 1952,
+      "birth_label": "16 de diciembre de 1863",
+      "death_label": "26 de septiembre de 1952",
+      "lifespan": "16 de diciembre de 1863 – 26 de septiembre de 1952"
+    },
+    "George Simmel": {
+      "qid": "Q76849",
+      "description": "sociólogo, filósofo y crítico alemán (1858–1918)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Georg_Simmel",
+      "birth_year": 1858,
+      "death_year": 1918,
+      "birth_label": "1 de marzo de 1858",
+      "death_label": "26 de septiembre de 1918",
+      "lifespan": "1 de marzo de 1858 – 26 de septiembre de 1918"
+    },
+    "Gerardo Diego": {
+      "qid": "Q382815",
+      "description": "poeta y escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Gerardo_Diego",
+      "birth_year": 1896,
+      "death_year": 1987,
+      "birth_label": "3 de octubre de 1896",
+      "death_label": "8 de julio de 1987",
+      "lifespan": "3 de octubre de 1896 – 8 de julio de 1987"
+    },
+    "Germán Bleiberg": {
+      "qid": "Q5642034",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Germ%C3%A1n_Bleiberg",
+      "birth_year": 1915,
+      "death_year": 1990,
+      "birth_label": "14 de marzo de 1915",
+      "death_label": "30 de octubre de 1990",
+      "lifespan": "14 de marzo de 1915 – 30 de octubre de 1990"
+    },
+    "Gonzalo Rodríguez Lafora": {
+      "qid": "Q556211",
+      "description": "neurólogo español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Gonzalo_Rodr%C3%ADguez_Lafora",
+      "birth_year": 1886,
+      "death_year": 1971,
+      "birth_label": "25 de julio de 1886",
+      "death_label": "27 de diciembre de 1971",
+      "lifespan": "25 de julio de 1886 – 27 de diciembre de 1971"
+    },
+    "Gregorio Marañón": {
+      "qid": "Q708559",
+      "description": "médico internista, científico, historiador, político, escritor y pensador español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Gregorio_Mara%C3%B1%C3%B3n",
+      "birth_year": 1887,
+      "death_year": 1960,
+      "birth_label": "19 de mayo de 1887",
+      "death_label": "27 de marzo de 1960",
+      "lifespan": "19 de mayo de 1887 – 27 de marzo de 1960"
+    },
+    "Guillermo Díaz Plaja": {
+      "qid": "Q1531656",
+      "description": "escritor e historiador español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Guillermo_D%C3%ADaz-Plaja",
+      "birth_year": 1909,
+      "death_year": 1984,
+      "birth_label": "24 de mayo de 1909",
+      "death_label": "27 de julio de 1984",
+      "lifespan": "24 de mayo de 1909 – 27 de julio de 1984"
+    },
+    "Guillermo de Torre": {
+      "qid": "Q5616311",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Guillermo_de_Torre",
+      "birth_year": 1900,
+      "death_year": 1971,
+      "birth_label": "1900",
+      "death_label": "14 de enero de 1971",
+      "lifespan": "1900 – 14 de enero de 1971"
+    },
+    "H. S. Jennings": {
+      "qid": "Q3133504",
+      "description": "biólogo estadounidense",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Herbert_Spencer_Jennings",
+      "birth_year": 1868,
+      "death_year": 1947,
+      "birth_label": "8 de abril de 1868",
+      "death_label": "14 de abril de 1947",
+      "lifespan": "8 de abril de 1868 – 14 de abril de 1947"
+    },
+    "Hans Freyer": {
+      "qid": "Q73172",
+      "description": "German philosopher and sociologist (1887-1969)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Freyer",
+      "birth_year": 1887,
+      "death_year": 1969,
+      "birth_label": "31 de julio de 1887",
+      "death_label": "18 de enero de 1969",
+      "lifespan": "31 de julio de 1887 – 18 de enero de 1969"
+    },
+    "Hans Reichenbach": {
+      "qid": "Q170147",
+      "description": "filósofo estadounidense",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Hans_Reichenbach",
+      "birth_year": 1891,
+      "death_year": 1953,
+      "birth_label": "26 de septiembre de 1891",
+      "death_label": "9 de abril de 1953",
+      "lifespan": "26 de septiembre de 1891 – 9 de abril de 1953"
+    },
+    "Hans Thirring": {
+      "qid": "Q84561",
+      "description": "político austríaco",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Thirring",
+      "birth_year": 1888,
+      "death_year": 1976,
+      "birth_label": "23 de marzo de 1888",
+      "death_label": "22 de marzo de 1976",
+      "lifespan": "23 de marzo de 1888 – 22 de marzo de 1976"
+    },
+    "Harald Hoffding": {
+      "qid": "Q703531",
+      "description": "Danish philosopher and theologian (1843–1931)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Harald_H%C3%B8ffding",
+      "birth_year": 1843,
+      "death_year": 1931,
+      "birth_label": "11 de marzo de 1843",
+      "death_label": "2 de julio de 1931",
+      "lifespan": "11 de marzo de 1843 – 2 de julio de 1931"
+    },
+    "Heinz Heimsoeth": {
+      "qid": "Q78221",
+      "description": "historiador alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Heinz_Heimsoeth",
+      "birth_year": 1886,
+      "death_year": 1975,
+      "birth_label": "1886",
+      "death_label": "1975",
+      "lifespan": "1886 – 1975"
+    },
+    "Henry de Montherlant": {
+      "qid": "Q379956",
+      "description": "escritor francés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Henry_de_Montherlant",
+      "birth_year": 1895,
+      "death_year": 1972,
+      "birth_label": "20 de abril de 1895",
+      "death_label": "21 de septiembre de 1972",
+      "lifespan": "20 de abril de 1895 – 21 de septiembre de 1972"
+    },
+    "Henrí-René Lenormand": {
+      "qid": "Q775364",
+      "description": "dramaturgo francés",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henri-Ren%C3%A9_Lenormand",
+      "birth_year": 1882,
+      "death_year": 1951,
+      "birth_label": "3 de mayo de 1882",
+      "death_label": "16 de febrero de 1951",
+      "lifespan": "3 de mayo de 1882 – 16 de febrero de 1951"
+    },
+    "Hermann Oncken": {
+      "qid": "Q73357",
+      "description": "historiador alemán",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hermann_Oncken",
+      "birth_year": 1869,
+      "death_year": 1945,
+      "birth_label": "16 de noviembre de 1869",
+      "death_label": "28 de diciembre de 1945",
+      "lifespan": "16 de noviembre de 1869 – 28 de diciembre de 1945"
+    },
+    "Hermann Weyl": {
+      "qid": "Q71029",
+      "description": "matemático alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Hermann_Weyl",
+      "birth_year": 1885,
+      "death_year": 1955,
+      "birth_label": "9 de noviembre de 1885",
+      "death_label": "8 de diciembre de 1955",
+      "lifespan": "9 de noviembre de 1885 – 8 de diciembre de 1955"
+    },
+    "Huberto Pérez de la Ossa": {
+      "qid": "Q15714824",
+      "description": "Spanish theatre director (1897-1983)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Huberto_P%C3%A9rez_de_la_Ossa",
+      "birth_year": 1897,
+      "death_year": 1983,
+      "birth_label": "1897",
+      "death_label": "31 de agosto de 1983",
+      "lifespan": "1897 – 31 de agosto de 1983"
+    },
+    "Hugo Obermaier": {
+      "qid": "Q76176",
+      "description": "arqueólogo alemán nacionalizado español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Hugo_Obermaier",
+      "birth_year": 1877,
+      "death_year": 1946,
+      "birth_label": "29 de enero de 1877",
+      "death_label": "12 de noviembre de 1946",
+      "lifespan": "29 de enero de 1877 – 12 de noviembre de 1946"
+    },
+    "Igor Strawinsky": {
+      "qid": "Q7314",
+      "description": "compositor y director de orquesta ruso",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/%C3%8Dgor_Stravinski",
+      "birth_year": 1882,
+      "death_year": 1971,
+      "birth_label": "18 de junio de 1882",
+      "death_label": "6 de abril de 1971",
+      "lifespan": "18 de junio de 1882 – 6 de abril de 1971"
+    },
+    "Ilya Ehrenburg": {
+      "qid": "Q348497",
+      "description": "Escritor, periodista e historiador soviético (1891–1967)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ili%C3%A1_Ehrenburg",
+      "birth_year": 1891,
+      "death_year": 1967,
+      "birth_label": "14 de enero de 1891",
+      "death_label": "31 de agosto de 1967",
+      "lifespan": "14 de enero de 1891 – 31 de agosto de 1967"
+    },
+    "Italo Svevo": {
+      "qid": "Q216478",
+      "description": "escritor italiano",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Italo_Svevo",
+      "birth_year": 1861,
+      "death_year": 1928,
+      "birth_label": "19 de diciembre de 1861",
+      "death_label": "13 de septiembre de 1928",
+      "lifespan": "19 de diciembre de 1861 – 13 de septiembre de 1928"
+    },
+    "J.B.S. Haldane": {
+      "qid": "Q156333",
+      "description": "genetista y biólogo evolucionista británico",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/John_Burdon_Sanderson_Haldane",
+      "birth_year": 1892,
+      "death_year": 1964,
+      "birth_label": "5 de noviembre de 1892",
+      "death_label": "1 de diciembre de 1964",
+      "lifespan": "5 de noviembre de 1892 – 1 de diciembre de 1964"
+    },
+    "Jacob Burckhardt": {
+      "qid": "Q59945",
+      "description": "historiador suizo",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jacob_Burckhardt",
+      "birth_year": 1818,
+      "death_year": 1897,
+      "birth_label": "25 de mayo de 1818",
+      "death_label": "8 de agosto de 1897",
+      "lifespan": "25 de mayo de 1818 – 8 de agosto de 1897"
+    },
+    "Jaime Torres Bodet": {
+      "qid": "Q553110",
+      "description": "político, diplomático y escritor mexicano",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jaime_Torres_Bodet",
+      "birth_year": 1902,
+      "death_year": 1974,
+      "birth_label": "17 de abril de 1902",
+      "death_label": "13 de mayo de 1974",
+      "lifespan": "17 de abril de 1902 – 13 de mayo de 1974"
+    },
+    "James Hopwood Jeans": {
+      "qid": "Q315545",
+      "description": "astrofísico y matemático británico",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/James_Jeans",
+      "birth_year": 1877,
+      "death_year": 1946,
+      "birth_label": "11 de septiembre de 1877",
+      "death_label": "16 de septiembre de 1946",
+      "lifespan": "11 de septiembre de 1877 – 16 de septiembre de 1946"
+    },
+    "Jean Cassou": {
+      "qid": "Q965990",
+      "description": "escritor francés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jean_Cassou",
+      "birth_year": 1897,
+      "death_year": 1986,
+      "birth_label": "9 de julio de 1897",
+      "death_label": "15 de enero de 1986",
+      "lifespan": "9 de julio de 1897 – 15 de enero de 1986"
+    },
+    "Jean Cocteau": {
+      "qid": "Q83158",
+      "description": "poeta, novelista, dramaturgo, pintor, ocultista, diseñador, crítico y cineasta francés (1889-1963)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jean_Cocteau",
+      "birth_year": 1889,
+      "death_year": 1963,
+      "birth_label": "5 de julio de 1889",
+      "death_label": "11 de octubre de 1963",
+      "lifespan": "5 de julio de 1889 – 11 de octubre de 1963"
+    },
+    "Joachim Hämmerling": {
+      "qid": "Q70168",
+      "description": "Danish-German biologist (1901-1980)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Joachim_H%C3%A4mmerling",
+      "birth_year": 1901,
+      "death_year": 1980,
+      "birth_label": "9 de marzo de 1901",
+      "death_label": "5 de agosto de 1980",
+      "lifespan": "9 de marzo de 1901 – 5 de agosto de 1980"
+    },
+    "Johan Huizinga": {
+      "qid": "Q276280",
+      "description": "filósofo e historiador neerlandés (1872–1945)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Johan_Huizinga",
+      "birth_year": 1872,
+      "death_year": 1945,
+      "birth_label": "7 de diciembre de 1872",
+      "death_label": "1 de febrero de 1945",
+      "lifespan": "7 de diciembre de 1872 – 1 de febrero de 1945"
+    },
+    "Johann Wolfgang von Goethe": {
+      "qid": "Q5879",
+      "description": "poeta, novelista, dramaturgo y científico alemán (1749–1832)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
+      "birth_year": 1749,
+      "death_year": 1832,
+      "birth_label": "28 de agosto de 1749",
+      "death_label": "22 de marzo de 1832",
+      "lifespan": "28 de agosto de 1749 – 22 de marzo de 1832"
+    },
+    "Jorge Luis Borges": {
+      "qid": "Q909",
+      "description": "escritor y traductor argentino",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jorge_Luis_Borges",
+      "birth_year": 1899,
+      "death_year": 1986,
+      "birth_label": "24 de agosto de 1899",
+      "death_label": "14 de junio de 1986",
+      "lifespan": "24 de agosto de 1899 – 14 de junio de 1986"
+    },
+    "José Antonio Maravall": {
+      "qid": "Q2357262",
+      "description": "historiador español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Maravall",
+      "birth_year": 1911,
+      "death_year": 1986,
+      "birth_label": "12 de junio de 1911",
+      "death_label": "19 de diciembre de 1986",
+      "lifespan": "12 de junio de 1911 – 19 de diciembre de 1986"
+    },
+    "José Antonio Muñoz Rojas": {
+      "qid": "Q1529433",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Mu%C3%B1oz_Rojas",
+      "birth_year": 1909,
+      "death_year": 2009,
+      "birth_label": "1 de octubre de 1909",
+      "death_label": "28 de septiembre de 2009",
+      "lifespan": "1 de octubre de 1909 – 28 de septiembre de 2009"
+    },
+    "José Camón Aznar": {
+      "qid": "Q3077858",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Cam%C3%B3n_Aznar",
+      "birth_year": 1898,
+      "death_year": 1979,
+      "birth_label": "5 de octubre de 1898",
+      "death_label": "14 de mayo de 1979",
+      "lifespan": "5 de octubre de 1898 – 14 de mayo de 1979"
+    },
+    "José Gaos": {
+      "qid": "Q3774796",
+      "description": "filósofo español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Gaos",
+      "birth_year": 1900,
+      "death_year": 1969,
+      "birth_label": "27 de diciembre de 1900",
+      "death_label": "10 de junio de 1969",
+      "lifespan": "27 de diciembre de 1900 – 10 de junio de 1969"
+    },
+    "José María Quiroga Plá": {
+      "qid": "Q5943404",
+      "description": "poeta español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Quiroga_Pl%C3%A1",
+      "birth_year": 1902,
+      "death_year": 1955,
+      "birth_label": "1902",
+      "death_label": "1955",
+      "lifespan": "1902 – 1955"
+    },
+    "José María Salaverría": {
+      "qid": "Q2881761",
+      "description": "escritor español (1873-1940)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Salaverr%C3%ADa",
+      "birth_year": 1873,
+      "death_year": 1940,
+      "birth_label": "8 de mayo de 1873",
+      "death_label": "28 de marzo de 1940",
+      "lifespan": "8 de mayo de 1873 – 28 de marzo de 1940"
+    },
+    "José Moreno Villa": {
+      "qid": "Q981658",
+      "description": "poeta español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Moreno_Villa",
+      "birth_year": 1887,
+      "death_year": 1955,
+      "birth_label": "16 de febrero de 1887",
+      "death_label": "25 de abril de 1955",
+      "lifespan": "16 de febrero de 1887 – 25 de abril de 1955"
+    },
+    "José Ortega y Gasset": {
+      "qid": "Q153020",
+      "description": "filósofo español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset",
+      "birth_year": 1883,
+      "death_year": 1955,
+      "birth_label": "9 de mayo de 1883",
+      "death_label": "18 de octubre de 1955",
+      "lifespan": "9 de mayo de 1883 – 18 de octubre de 1955"
+    },
+    "José Tudela": {
+      "qid": "Q84162188",
+      "description": "periodista y archivero soriano",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Tudela",
+      "birth_year": 1890,
+      "death_year": 1973,
+      "birth_label": "17 de abril de 1890",
+      "death_label": "7 de septiembre de 1973",
+      "lifespan": "17 de abril de 1890 – 7 de septiembre de 1973"
+    },
+    "Juan Chabás": {
+      "qid": "Q9015413",
+      "description": "poeta español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Juan_Chab%C3%A1s",
+      "birth_year": 1900,
+      "death_year": 1954,
+      "birth_label": "10 de septiembre de 1900",
+      "death_label": "29 de octubre de 1954",
+      "lifespan": "10 de septiembre de 1900 – 29 de octubre de 1954"
+    },
+    "Juan Dantín Cereceda": {
+      "qid": "Q5949031",
+      "description": "editor y geógrafo español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Juan_Dant%C3%ADn",
+      "birth_year": 1881,
+      "death_year": 1943,
+      "birth_label": "25 de diciembre de 1881",
+      "death_label": "1943",
+      "lifespan": "25 de diciembre de 1881 – 1943"
+    },
+    "Juan Díaz del Moral": {
+      "qid": "Q5575370",
+      "description": "político español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Juan_D%C3%ADaz_del_Moral",
+      "birth_year": 1870,
+      "death_year": 1948,
+      "birth_label": "24 de enero de 1870",
+      "death_label": "7 de noviembre de 1948",
+      "lifespan": "24 de enero de 1870 – 7 de noviembre de 1948"
+    },
+    "Juan José Domenchina": {
+      "qid": "Q5950214",
+      "description": "Spanish poet and critic (1898–1959)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Juan_Jos%C3%A9_Domenchina",
+      "birth_year": 1898,
+      "death_year": 1959,
+      "birth_label": "18 de mayo de 1898",
+      "death_label": "27 de octubre de 1959",
+      "lifespan": "18 de mayo de 1898 – 27 de octubre de 1959"
+    },
+    "Juan Ramón Jiménez": {
+      "qid": "Q131318",
+      "description": "poeta español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez",
+      "birth_year": 1881,
+      "death_year": 1958,
+      "birth_label": "23 de diciembre de 1881",
+      "death_label": "29 de mayo de 1958",
+      "lifespan": "23 de diciembre de 1881 – 29 de mayo de 1958"
+    },
+    "Jules Supervielle": {
+      "qid": "Q732569",
+      "description": "escritor francés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Jules_Supervielle",
+      "birth_year": 1884,
+      "death_year": 1960,
+      "birth_label": "16 de enero de 1884",
+      "death_label": "17 de mayo de 1960",
+      "lifespan": "16 de enero de 1884 – 17 de mayo de 1960"
+    },
+    "Julius Ebbinghaus": {
+      "qid": "Q112272",
+      "description": "filósofo alemán",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Ebbinghaus",
+      "birth_year": 1885,
+      "death_year": 1981,
+      "birth_label": "9 de noviembre de 1885",
+      "death_label": "16 de junio de 1981",
+      "lifespan": "9 de noviembre de 1885 – 16 de junio de 1981"
+    },
+    "Julius Klein": {
+      "qid": "Q6309904",
+      "description": "American journalist, spy, business executive and United States Army general",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Klein",
+      "birth_year": 1901,
+      "death_year": 1984,
+      "birth_label": "1901",
+      "death_label": "6 de abril de 1984",
+      "lifespan": "1901 – 6 de abril de 1984"
+    },
+    "Julián Marías": {
+      "qid": "Q520726",
+      "description": "filósofo español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Juli%C3%A1n_Mar%C3%ADas",
+      "birth_year": 1914,
+      "death_year": 2005,
+      "birth_label": "17 de junio de 1914",
+      "death_label": "15 de diciembre de 2005",
+      "lifespan": "17 de junio de 1914 – 15 de diciembre de 2005"
+    },
+    "Katherine Mansfield": {
+      "qid": "Q270632",
+      "description": "escritora neozelandesa",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Katherine_Mansfield",
+      "birth_year": 1888,
+      "death_year": 1923,
+      "birth_label": "14 de octubre de 1888",
+      "death_label": "9 de enero de 1923",
+      "lifespan": "14 de octubre de 1888 – 9 de enero de 1923"
+    },
+    "Le Corbusier": {
+      "qid": "Q4724",
+      "description": "arquitecto, diseñador y urbanista suizo nacionalizado francés (1887–1965)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Le_Corbusier",
+      "birth_year": 1887,
+      "death_year": 1965,
+      "birth_label": "6 de octubre de 1887",
+      "death_label": "27 de agosto de 1965",
+      "lifespan": "6 de octubre de 1887 – 27 de agosto de 1965"
+    },
+    "Leo Frobenius": {
+      "qid": "Q60570",
+      "description": "etnólogo y arqueólogo alemán (1873-1938)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Leo_Frobenius",
+      "birth_year": 1873,
+      "death_year": 1938,
+      "birth_label": "29 de junio de 1873",
+      "death_label": "9 de agosto de 1938",
+      "lifespan": "29 de junio de 1873 – 9 de agosto de 1938"
+    },
+    "Leon Werth": {
+      "qid": "Q733174",
+      "description": "escritor francés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/L%C3%A9on_Werth",
+      "birth_year": 1878,
+      "death_year": 1955,
+      "birth_label": "16 de febrero de 1878",
+      "death_label": "13 de diciembre de 1955",
+      "lifespan": "16 de febrero de 1878 – 13 de diciembre de 1955"
+    },
+    "Lewis Mumford": {
+      "qid": "Q469888",
+      "description": "Historiador, sociólogo, urbanista y filósofo estadounidense (1895-1990)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Lewis_Mumford",
+      "birth_year": 1895,
+      "death_year": 1990,
+      "birth_label": "19 de octubre de 1895",
+      "death_label": "26 de enero de 1990",
+      "lifespan": "19 de octubre de 1895 – 26 de enero de 1990"
+    },
+    "Liam O'Flaherty": {
+      "qid": "Q370973",
+      "description": "escritor irlandés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Liam_O%27Flaherty",
+      "birth_year": 1896,
+      "death_year": 1984,
+      "birth_label": "28 de agosto de 1896",
+      "death_label": "7 de septiembre de 1984",
+      "lifespan": "28 de agosto de 1896 – 7 de septiembre de 1984"
+    },
+    "Lidiia Nikolaevna Seïfullina": {
+      "qid": "Q458215",
+      "description": "escritora rusa",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Lidia_Seifulina",
+      "birth_year": 1889,
+      "death_year": 1954,
+      "birth_label": "22 de marzo de 1889",
+      "death_label": "25 de abril de 1954",
+      "lifespan": "22 de marzo de 1889 – 25 de abril de 1954"
+    },
+    "Lino Novás Calvo": {
+      "qid": "Q4321880",
+      "description": "periodista, narrador y novelista cubano de origen gallego",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Lino_Nov%C3%A1s_Calvo",
+      "birth_year": 1903,
+      "death_year": 1983,
+      "birth_label": "24 de septiembre de 1903",
+      "death_label": "24 de marzo de 1983",
+      "lifespan": "24 de septiembre de 1903 – 24 de marzo de 1983"
+    },
+    "Louis Bolk": {
+      "qid": "Q1871563",
+      "description": "anatomista neerlandés",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Bolk",
+      "birth_year": 1866,
+      "death_year": 1930,
+      "birth_label": "10 de diciembre de 1866",
+      "death_label": "17 de junio de 1930",
+      "lifespan": "10 de diciembre de 1866 – 17 de junio de 1930"
+    },
+    "Louis Massignon": {
+      "qid": "Q1342067",
+      "description": "islamólogo francés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Louis_Massignon",
+      "birth_year": 1883,
+      "death_year": 1962,
+      "birth_label": "25 de julio de 1883",
+      "death_label": "31 de octubre de 1962",
+      "lifespan": "25 de julio de 1883 – 31 de octubre de 1962"
+    },
+    "Louis de Broglie": {
+      "qid": "Q83331",
+      "description": "físico francés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Louis-Victor_de_Broglie",
+      "birth_year": 1892,
+      "death_year": 1987,
+      "birth_label": "15 de agosto de 1892",
+      "death_label": "19 de marzo de 1987",
+      "lifespan": "15 de agosto de 1892 – 19 de marzo de 1987"
+    },
+    "Ludwig Pfandl": {
+      "qid": "Q109668",
+      "description": "German writer and scholar (1881–1942)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ludwig_Pfandl",
+      "birth_year": 1881,
+      "death_year": 1942,
+      "birth_label": "22 de septiembre de 1881",
+      "death_label": "7 de junio de 1942",
+      "lifespan": "22 de septiembre de 1881 – 7 de junio de 1942"
+    },
+    "Ludwig von Mises": {
+      "qid": "Q84233",
+      "description": "economista de la escuela austriaca",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ludwig_von_Mises",
+      "birth_year": 1881,
+      "death_year": 1973,
+      "birth_label": "29 de septiembre de 1881",
+      "death_label": "10 de octubre de 1973",
+      "lifespan": "29 de septiembre de 1881 – 10 de octubre de 1973"
+    },
+    "Luigi Pirandello": {
+      "qid": "Q1403",
+      "description": "dramaturgo, novelista y escritor de relatos cortos italiano",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Luigi_Pirandello",
+      "birth_year": 1867,
+      "death_year": 1936,
+      "birth_label": "28 de junio de 1867",
+      "death_label": "10 de diciembre de 1936",
+      "lifespan": "28 de junio de 1867 – 10 de diciembre de 1936"
+    },
+    "Luis Amado Blanco": {
+      "qid": "Q2245166",
+      "description": "4.IV.1903 - 9.III.1975",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Luis_Amado-Blanco",
+      "birth_year": 1903,
+      "death_year": 1975,
+      "birth_label": "4 de abril de 1903",
+      "death_label": "9 de marzo de 1975",
+      "lifespan": "4 de abril de 1903 – 9 de marzo de 1975"
+    },
+    "Luis Cernuda": {
+      "qid": "Q439578",
+      "description": "poeta español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Luis_Cernuda",
+      "birth_year": 1902,
+      "death_year": 1963,
+      "birth_label": "21 de septiembre de 1902",
+      "death_label": "5 de noviembre de 1963",
+      "lifespan": "21 de septiembre de 1902 – 5 de noviembre de 1963"
+    },
+    "Luis Olariaga": {
+      "qid": "Q12262696",
+      "description": "economista español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Luis_Olariaga",
+      "birth_year": 1885,
+      "death_year": 1976,
+      "birth_label": "21 de marzo de 1885",
+      "death_label": "3 de agosto de 1976",
+      "lifespan": "21 de marzo de 1885 – 3 de agosto de 1976"
+    },
+    "Luis de Zulueta": {
+      "qid": "Q2739764",
+      "description": "diplomático español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Luis_de_Zulueta",
+      "birth_year": 1878,
+      "death_year": 1964,
+      "birth_label": "1878",
+      "death_label": "1964",
+      "lifespan": "1878 – 1964"
+    },
+    "Luys Santa Marina": {
+      "qid": "Q9025643",
+      "description": "escritor, poeta y político español (1898-1980)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Luys_Santa_Marina",
+      "birth_year": 1898,
+      "death_year": 1980,
+      "birth_label": "5 de enero de 1898",
+      "death_label": "15 de septiembre de 1980",
+      "lifespan": "5 de enero de 1898 – 15 de septiembre de 1980"
+    },
+    "Lytton Strachey": {
+      "qid": "Q540427",
+      "description": "escritor británico (1880-1932)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Lytton_Strachey",
+      "birth_year": 1880,
+      "death_year": 1932,
+      "birth_label": "1 de marzo de 1880",
+      "death_label": "21 de enero de 1932",
+      "lifespan": "1 de marzo de 1880 – 21 de enero de 1932"
+    },
+    "Manuel Abril": {
+      "qid": "Q3816917",
+      "description": "poeta, escritor y periodista español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Manuel_Abril",
+      "birth_year": 1884,
+      "death_year": 1940,
+      "birth_label": "1884",
+      "death_label": "1940",
+      "lifespan": "1884 – 1940"
+    },
+    "Manuel Altolaguirre": {
+      "qid": "Q921933",
+      "description": "poeta, guionista y cineasta español, perteneciente a la Generación del 27",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Manuel_Altolaguirre",
+      "birth_year": 1905,
+      "death_year": 1959,
+      "birth_label": "29 de junio de 1905",
+      "death_label": "26 de julio de 1959",
+      "lifespan": "29 de junio de 1905 – 26 de julio de 1959"
+    },
+    "Manuel Bastos Ansart": {
+      "qid": "Q11194723",
+      "description": "medico español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Manuel_Bastos_Ansart",
+      "birth_year": 1887,
+      "death_year": 1973,
+      "birth_label": "22 de julio de 1887",
+      "death_label": "21 de enero de 1973",
+      "lifespan": "22 de julio de 1887 – 21 de enero de 1973"
+    },
+    "Manuel García Morente": {
+      "qid": "Q3817940",
+      "description": "filósofo y teólogo español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Manuel_Garc%C3%ADa_Morente",
+      "birth_year": 1888,
+      "death_year": 1942,
+      "birth_label": "22 de abril de 1888",
+      "death_label": "7 de diciembre de 1942",
+      "lifespan": "22 de abril de 1888 – 7 de diciembre de 1942"
+    },
+    "Manuel de Terán Álvarez": {
+      "qid": "Q5797175",
+      "description": "geógrafo español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Manuel_de_Ter%C3%A1n",
+      "birth_year": 1904,
+      "death_year": 1984,
+      "birth_label": "1904",
+      "death_label": "7 de mayo de 1984",
+      "lifespan": "1904 – 7 de mayo de 1984"
+    },
+    "Marcel Jouhandeau": {
+      "qid": "Q561479",
+      "description": "escritor francés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Marcel_Jouhandeau",
+      "birth_year": 1888,
+      "death_year": 1979,
+      "birth_label": "26 de julio de 1888",
+      "death_label": "7 de abril de 1979",
+      "lifespan": "26 de julio de 1888 – 7 de abril de 1979"
+    },
+    "Marcelle Auclair": {
+      "qid": "Q2164420",
+      "description": "escritora francesa",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Marcelle_Auclair",
+      "birth_year": 1899,
+      "death_year": 1983,
+      "birth_label": "11 de noviembre de 1899",
+      "death_label": "6 de junio de 1983",
+      "lifespan": "11 de noviembre de 1899 – 6 de junio de 1983"
+    },
+    "Martín Luis Guzmán": {
+      "qid": "Q267209",
+      "description": "escritor mexicano",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Luis_Guzm%C3%A1n",
+      "birth_year": 1887,
+      "death_year": 1976,
+      "birth_label": "6 de octubre de 1887",
+      "death_label": "22 de diciembre de 1976",
+      "lifespan": "6 de octubre de 1887 – 22 de diciembre de 1976"
+    },
+    "María Zambrano": {
+      "qid": "Q235134",
+      "description": "pensadora, filósofa y ensayista española",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Zambrano",
+      "birth_year": 1904,
+      "death_year": 1991,
+      "birth_label": "22 de abril de 1904",
+      "death_label": "6 de febrero de 1991",
+      "lifespan": "22 de abril de 1904 – 6 de febrero de 1991"
+    },
+    "Massimo Bontempelli": {
+      "qid": "Q741862",
+      "description": "escritor italiano",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Massimo_Bontempelli",
+      "birth_year": 1878,
+      "death_year": 1960,
+      "birth_label": "12 de mayo de 1878",
+      "death_label": "21 de julio de 1960",
+      "lifespan": "12 de mayo de 1878 – 21 de julio de 1960"
+    },
+    "Mauricio Bacarisse": {
+      "qid": "Q6006879",
+      "description": "poeta, ensayista y traductor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Mauricio_Bacarisse",
+      "birth_year": 1895,
+      "death_year": 1931,
+      "birth_label": "20 de agosto de 1895",
+      "death_label": "4 de febrero de 1931",
+      "lifespan": "20 de agosto de 1895 – 4 de febrero de 1931"
+    },
+    "Max Aub": {
+      "qid": "Q356546",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Max_Aub",
+      "birth_year": 1903,
+      "death_year": 1972,
+      "birth_label": "2 de junio de 1903",
+      "death_label": "22 de julio de 1972",
+      "lifespan": "2 de junio de 1903 – 22 de julio de 1972"
+    },
+    "Max Scheler": {
+      "qid": "Q76521",
+      "description": "filósofo y sociólogo alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Max_Scheler",
+      "birth_year": 1874,
+      "death_year": 1928,
+      "birth_label": "22 de agosto de 1874",
+      "death_label": "19 de mayo de 1928",
+      "lifespan": "22 de agosto de 1874 – 19 de mayo de 1928"
+    },
+    "Melchor Fernández Almagro": {
+      "qid": "Q3854180",
+      "description": "crítico literario, historiador y periodista español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Melchor_Fern%C3%A1ndez_Almagro",
+      "birth_year": 1893,
+      "death_year": 1966,
+      "birth_label": "4 de septiembre de 1893",
+      "death_label": "22 de febrero de 1966",
+      "lifespan": "4 de septiembre de 1893 – 22 de febrero de 1966"
+    },
+    "Michael Prawdin": {
+      "qid": "Q1928936",
+      "description": "historiador alemán",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Prawdin",
+      "birth_year": 1894,
+      "death_year": 1970,
+      "birth_label": "20 de enero de 1894",
+      "death_label": "23 de diciembre de 1970",
+      "lifespan": "20 de enero de 1894 – 23 de diciembre de 1970"
+    },
+    "Miguel Asín Palacios": {
+      "qid": "Q2713951",
+      "description": "historiador español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Miguel_As%C3%ADn_Palacios",
+      "birth_year": 1871,
+      "death_year": 1944,
+      "birth_label": "5 de julio de 1871",
+      "death_label": "12 de agosto de 1944",
+      "lifespan": "5 de julio de 1871 – 12 de agosto de 1944"
+    },
+    "Miguel Hernández": {
+      "qid": "Q332088",
+      "description": "poeta español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Miguel_Hern%C3%A1ndez",
+      "birth_year": 1910,
+      "death_year": 1942,
+      "birth_label": "30 de octubre de 1910",
+      "death_label": "28 de marzo de 1942",
+      "lifespan": "30 de octubre de 1910 – 28 de marzo de 1942"
+    },
+    "Mikhail Zoshchenko": {
+      "qid": "Q360507",
+      "description": "Soviet writer (1894–1958)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Mija%C3%ADl_Z%C3%B3schenko",
+      "birth_year": 1894,
+      "death_year": 1958,
+      "birth_label": "28 de julio de 1894",
+      "death_label": "22 de julio de 1958",
+      "lifespan": "28 de julio de 1894 – 22 de julio de 1958"
+    },
+    "Moritz Geiger": {
+      "qid": "Q71263",
+      "description": "filósofo alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Moritz_Geiger",
+      "birth_year": 1880,
+      "death_year": 1937,
+      "birth_label": "26 de junio de 1880",
+      "death_label": "9 de septiembre de 1937",
+      "lifespan": "26 de junio de 1880 – 9 de septiembre de 1937"
+    },
+    "Máximo José Kahn": {
+      "qid": "Q6035650",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/M%C3%A1ximo_Jos%C3%A9_Kahn",
+      "birth_year": 1897,
+      "death_year": 1953,
+      "birth_label": "11 de agosto de 1897",
+      "death_label": "20 de julio de 1953",
+      "lifespan": "11 de agosto de 1897 – 20 de julio de 1953"
+    },
+    "Oliverio Girondo": {
+      "qid": "Q1728777",
+      "description": "poeta argentino",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Oliverio_Girondo",
+      "birth_year": 1891,
+      "death_year": 1967,
+      "birth_label": "17 de agosto de 1891",
+      "death_label": "24 de enero de 1967",
+      "lifespan": "17 de agosto de 1891 – 24 de enero de 1967"
+    },
+    "Pablo Neruda": {
+      "qid": "Q34189",
+      "description": "poeta y político chileno",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Pablo_Neruda",
+      "birth_year": 1904,
+      "death_year": 1973,
+      "birth_label": "12 de julio de 1904",
+      "death_label": "23 de septiembre de 1973",
+      "lifespan": "12 de julio de 1904 – 23 de septiembre de 1973"
+    },
+    "Pascual Jordán": {
+      "qid": "Q61761",
+      "description": "matemático y físico alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Pascual_Jordan",
+      "birth_year": 1902,
+      "death_year": 1980,
+      "birth_label": "18 de octubre de 1902",
+      "death_label": "31 de julio de 1980",
+      "lifespan": "18 de octubre de 1902 – 31 de julio de 1980"
+    },
+    "Paul Fechter": {
+      "qid": "Q89970",
+      "description": "German journalist and author (1880-1958)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Paul_Fechter",
+      "birth_year": 1880,
+      "death_year": 1958,
+      "birth_label": "14 de septiembre de 1880",
+      "death_label": "9 de enero de 1958",
+      "lifespan": "14 de septiembre de 1880 – 9 de enero de 1958"
+    },
+    "Paul Haensel": {
+      "qid": "Q4135414",
+      "description": "economista estadounidense",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Haensel",
+      "birth_year": 1878,
+      "death_year": 1949,
+      "birth_label": "8 de febrero de 1878",
+      "death_label": "28 de febrero de 1949",
+      "lifespan": "8 de febrero de 1878 – 28 de febrero de 1949"
+    },
+    "Paul Ludwig Landsberg": {
+      "qid": "Q72062",
+      "description": "filósofo judío alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Paul_Ludwig_Landsberg",
+      "birth_year": 1901,
+      "death_year": 1944,
+      "birth_label": "3 de diciembre de 1901",
+      "death_label": "2 de abril de 1944",
+      "lifespan": "3 de diciembre de 1901 – 2 de abril de 1944"
+    },
+    "Paul Morand": {
+      "qid": "Q272",
+      "description": "novelista, dramaturgo y poeta francés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Paul_Morand",
+      "birth_year": 1888,
+      "death_year": 1976,
+      "birth_label": "13 de marzo de 1888",
+      "death_label": "23 de julio de 1976",
+      "lifespan": "13 de marzo de 1888 – 23 de julio de 1976"
+    },
+    "Paul Valéry": {
+      "qid": "Q200639",
+      "description": "escritor, poeta, ensayista y filósofo francés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Paul_Val%C3%A9ry",
+      "birth_year": 1871,
+      "death_year": 1945,
+      "birth_label": "30 de octubre de 1871",
+      "death_label": "20 de julio de 1945",
+      "lifespan": "30 de octubre de 1871 – 20 de julio de 1945"
+    },
+    "Pedro Bosch Gimpera": {
+      "qid": "Q965486",
+      "description": "prehistoriador, profesor y abogado español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Pedro_Bosch",
+      "birth_year": 1891,
+      "death_year": 1974,
+      "birth_label": "22 de marzo de 1891",
+      "death_label": "9 de octubre de 1974",
+      "lifespan": "22 de marzo de 1891 – 9 de octubre de 1974"
+    },
+    "Pedro Sainz Rodríguez": {
+      "qid": "Q7159933",
+      "description": "político español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Pedro_Sainz_Rodr%C3%ADguez",
+      "birth_year": 1898,
+      "death_year": 1986,
+      "birth_label": "14 de enero de 1898",
+      "death_label": "14 de diciembre de 1986",
+      "lifespan": "14 de enero de 1898 – 14 de diciembre de 1986"
+    },
+    "Pío Baroja": {
+      "qid": "Q220980",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/P%C3%ADo_Baroja",
+      "birth_year": 1872,
+      "death_year": 1956,
+      "birth_label": "28 de diciembre de 1872",
+      "death_label": "30 de octubre de 1956",
+      "lifespan": "28 de diciembre de 1872 – 30 de octubre de 1956"
+    },
+    "Rafael Alberti": {
+      "qid": "Q118936",
+      "description": "poeta español (1902–1999)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Rafael_Alberti",
+      "birth_year": 1902,
+      "death_year": 1999,
+      "birth_label": "16 de diciembre de 1902",
+      "death_label": "27 de octubre de 1999",
+      "lifespan": "16 de diciembre de 1902 – 27 de octubre de 1999"
+    },
+    "Rafael Porlán": {
+      "qid": "Q6097818",
+      "description": "poeta español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Rafael_Porl%C3%A1n",
+      "birth_year": 1899,
+      "death_year": 1945,
+      "birth_label": "9 de abril de 1899",
+      "death_label": "8 de agosto de 1945",
+      "lifespan": "9 de abril de 1899 – 8 de agosto de 1945"
+    },
+    "Rainer Maria Rilke": {
+      "qid": "Q76483",
+      "description": "poeta austríaco (1875–1926)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Rainer_Maria_Rilke",
+      "birth_year": 1875,
+      "death_year": 1926,
+      "birth_label": "4 de diciembre de 1875",
+      "death_label": "29 de diciembre de 1926",
+      "lifespan": "4 de diciembre de 1875 – 29 de diciembre de 1926"
+    },
+    "Ramiro Ledesma Ramos": {
+      "qid": "Q1345080",
+      "description": "ensayista español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ramiro_Ledesma",
+      "birth_year": 1905,
+      "death_year": 1936,
+      "birth_label": "23 de mayo de 1905",
+      "death_label": "29 de octubre de 1936",
+      "lifespan": "23 de mayo de 1905 – 29 de octubre de 1936"
+    },
+    "Ramón Carande": {
+      "qid": "Q7290455",
+      "description": "catedrático e historiador español (1887-1986)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ram%C3%B3n_Carande",
+      "birth_year": 1887,
+      "death_year": 1986,
+      "birth_label": "4 de mayo de 1887",
+      "death_label": "1 de septiembre de 1986",
+      "lifespan": "4 de mayo de 1887 – 1 de septiembre de 1986"
+    },
+    "Ramón Gómez de la Serna": {
+      "qid": "Q444893",
+      "description": "escritor y periodista español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ram%C3%B3n_G%C3%B3mez_de_la_Serna",
+      "birth_year": 1888,
+      "death_year": 1963,
+      "birth_label": "3 de julio de 1888",
+      "death_label": "12 de enero de 1963",
+      "lifespan": "3 de julio de 1888 – 12 de enero de 1963"
+    },
+    "Ramón Iglesia": {
+      "qid": "Q12398604",
+      "description": "historiador, editor y traductor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ram%C3%B3n_Iglesia_Parga",
+      "birth_year": 1905,
+      "death_year": 1948,
+      "birth_label": "3 de julio de 1905",
+      "death_label": "5 de mayo de 1948",
+      "lifespan": "3 de julio de 1905 – 5 de mayo de 1948"
+    },
+    "Ramón María Tenreiro": {
+      "qid": "Q3393279",
+      "description": "político y escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_Tenreiro",
+      "birth_year": 1879,
+      "death_year": 1939,
+      "birth_label": "1879",
+      "death_label": "enero de 1939",
+      "lifespan": "1879 – enero de 1939"
+    },
+    "Ramón Menéndez Pidal": {
+      "qid": "Q381953",
+      "description": "filólogo, historiador y folclorista español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ram%C3%B3n_Men%C3%A9ndez_Pidal",
+      "birth_year": 1869,
+      "death_year": 1968,
+      "birth_label": "13 de marzo de 1869",
+      "death_label": "14 de noviembre de 1968",
+      "lifespan": "13 de marzo de 1869 – 14 de noviembre de 1968"
+    },
+    "Ramón Pérez de Ayala": {
+      "qid": "Q727717",
+      "description": "escritor, politico y embajador español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ram%C3%B3n_P%C3%A9rez_de_Ayala",
+      "birth_year": 1880,
+      "death_year": 1962,
+      "birth_label": "9 de agosto de 1880",
+      "death_label": "5 de agosto de 1962",
+      "lifespan": "9 de agosto de 1880 – 5 de agosto de 1962"
+    },
+    "Ramón de Basterra": {
+      "qid": "Q9066549",
+      "description": "Spanish diplomat and writer (1888-1928)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ram%C3%B3n_de_Basterra",
+      "birth_year": 1888,
+      "death_year": 1928,
+      "birth_label": "14 de marzo de 1888",
+      "death_label": "17 de junio de 1928",
+      "lifespan": "14 de marzo de 1888 – 17 de junio de 1928"
+    },
+    "Ricardo Baeza": {
+      "qid": "Q17489912",
+      "description": "escritor y traductor cubano-español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ricardo_Baeza",
+      "birth_year": 1890,
+      "death_year": 1956,
+      "birth_label": "1890",
+      "death_label": "3 de febrero de 1956",
+      "lifespan": "1890 – 3 de febrero de 1956"
+    },
+    "Ricardo Baroja": {
+      "qid": "Q3754176",
+      "description": "artista español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ricardo_Baroja",
+      "birth_year": 1871,
+      "death_year": 1953,
+      "birth_label": "12 de enero de 1871",
+      "death_label": "19 de diciembre de 1953",
+      "lifespan": "12 de enero de 1871 – 19 de diciembre de 1953"
+    },
+    "Ricardo Gullón": {
+      "qid": "Q3754243",
+      "description": "escritor español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Ricardo_Gull%C3%B3n",
+      "birth_year": 1908,
+      "death_year": 1991,
+      "birth_label": "30 de agosto de 1908",
+      "death_label": "11 de febrero de 1991",
+      "lifespan": "30 de agosto de 1908 – 11 de febrero de 1991"
+    },
+    "Roberto Nóvoa Santos": {
+      "qid": "Q3398870",
+      "description": "médico español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Roberto_N%C3%B3voa_Santos",
+      "birth_year": 1885,
+      "death_year": 1933,
+      "birth_label": "6 de julio de 1885",
+      "death_label": "9 de diciembre de 1933",
+      "lifespan": "6 de julio de 1885 – 9 de diciembre de 1933"
+    },
+    "Rosa Chacel": {
+      "qid": "Q468852",
+      "description": "escritora española de la Generación del 27",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Rosa_Chacel",
+      "birth_year": 1898,
+      "death_year": 1994,
+      "birth_label": "3 de junio de 1898",
+      "death_label": "27 de julio de 1994",
+      "lifespan": "3 de junio de 1898 – 27 de julio de 1994"
+    },
+    "Sherwood Anderson": {
+      "qid": "Q233898",
+      "description": "escritor estadounidense",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Sherwood_Anderson",
+      "birth_year": 1876,
+      "death_year": 1941,
+      "birth_label": "13 de septiembre de 1876",
+      "death_label": "8 de marzo de 1941",
+      "lifespan": "13 de septiembre de 1876 – 8 de marzo de 1941"
+    },
+    "Stefan Zweig": {
+      "qid": "Q78491",
+      "description": "escritor austríaco (1881-1942)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Stefan_Zweig",
+      "birth_year": 1881,
+      "death_year": 1942,
+      "birth_label": "28 de noviembre de 1881",
+      "death_label": "23 de febrero de 1942",
+      "lifespan": "28 de noviembre de 1881 – 23 de febrero de 1942"
+    },
+    "Søren Kierkegaard": {
+      "qid": "Q6512",
+      "description": "filósofo y teólogo danés",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard",
+      "birth_year": 1813,
+      "death_year": 1855,
+      "birth_label": "5 de mayo de 1813",
+      "death_label": "11 de noviembre de 1855",
+      "lifespan": "5 de mayo de 1813 – 11 de noviembre de 1855"
+    },
+    "Valentín Andrés": {
+      "qid": "Q6158866",
+      "description": "escritor, economista, humorista y físico español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Valent%C3%ADn_Andr%C3%A9s",
+      "birth_year": 1891,
+      "death_year": 1982,
+      "birth_label": "20 de julio de 1891",
+      "death_label": "21 de septiembre de 1982",
+      "lifespan": "20 de julio de 1891 – 21 de septiembre de 1982"
+    },
+    "Valentín Andrés Álvarez": {
+      "qid": "Q6158866",
+      "description": "escritor, economista, humorista y físico español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Valent%C3%ADn_Andr%C3%A9s",
+      "birth_year": 1891,
+      "death_year": 1982,
+      "birth_label": "20 de julio de 1891",
+      "death_label": "21 de septiembre de 1982",
+      "lifespan": "20 de julio de 1891 – 21 de septiembre de 1982"
+    },
+    "Vicente Aleixandre": {
+      "qid": "Q134644",
+      "description": "poeta español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Vicente_Aleixandre",
+      "birth_year": 1898,
+      "death_year": 1984,
+      "birth_label": "26 de abril de 1898",
+      "death_label": "14 de diciembre de 1984",
+      "lifespan": "26 de abril de 1898 – 14 de diciembre de 1984"
+    },
+    "Victoria Ocampo": {
+      "qid": "Q72790",
+      "description": "escritora, traductora, editora y mecenas argentina",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Victoria_Ocampo",
+      "birth_year": 1890,
+      "death_year": 1979,
+      "birth_label": "7 de abril de 1890",
+      "death_label": "27 de enero de 1979",
+      "lifespan": "7 de abril de 1890 – 27 de enero de 1979"
+    },
+    "Virginia Woolf": {
+      "qid": "Q40909",
+      "description": "escritora inglesa",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Virginia_Woolf",
+      "birth_year": 1882,
+      "death_year": 1941,
+      "birth_label": "25 de enero de 1882",
+      "death_label": "28 de marzo de 1941",
+      "lifespan": "25 de enero de 1882 – 28 de marzo de 1941"
+    },
+    "Waldo Frank": {
+      "qid": "Q1858007",
+      "description": "American novelist, historian, political activist and literary critic (1889–1967)",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Waldo_Frank",
+      "birth_year": 1889,
+      "death_year": 1967,
+      "birth_label": "25 de agosto de 1889",
+      "death_label": "9 de enero de 1967",
+      "lifespan": "25 de agosto de 1889 – 9 de enero de 1967"
+    },
+    "Werner Heisenberg": {
+      "qid": "Q40904",
+      "description": "físico teórico alemán y ganador de premio Nobel",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Werner_Heisenberg",
+      "birth_year": 1901,
+      "death_year": 1976,
+      "birth_label": "5 de diciembre de 1901",
+      "death_label": "1 de febrero de 1976",
+      "lifespan": "5 de diciembre de 1901 – 1 de febrero de 1976"
+    },
+    "Werner Sombart": {
+      "qid": "Q58031",
+      "description": "economista y sociólogo alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Werner_Sombart",
+      "birth_year": 1863,
+      "death_year": 1941,
+      "birth_label": "19 de enero de 1863",
+      "death_label": "18 de mayo de 1941",
+      "lifespan": "19 de enero de 1863 – 18 de mayo de 1941"
+    },
+    "Wilhelm Worringer": {
+      "qid": "Q61981",
+      "description": "historiador del arte alemán",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Wilhelm_Worringer",
+      "birth_year": 1881,
+      "death_year": 1965,
+      "birth_label": "13 de enero de 1881",
+      "death_label": "29 de marzo de 1965",
+      "lifespan": "13 de enero de 1881 – 29 de marzo de 1965"
+    },
+    "Xavier Zubiri": {
+      "qid": "Q680632",
+      "description": "filósofo español",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Xavier_Zubiri",
+      "birth_year": 1898,
+      "death_year": 1983,
+      "birth_label": "4 de diciembre de 1898",
+      "death_label": "21 de septiembre de 1983",
+      "lifespan": "4 de diciembre de 1898 – 21 de septiembre de 1983"
+    },
+    "Émile-Felix Gautier": {
+      "qid": "Q2447477",
+      "description": "geógrafo francés",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89mile-F%C3%A9lix_Gautier",
+      "birth_year": 1864,
+      "death_year": 1940,
+      "birth_label": "19 de octubre de 1864",
+      "death_label": "16 de enero de 1940",
+      "lifespan": "19 de octubre de 1864 – 16 de enero de 1940"
+    }
+  }
+}
